@@ -1,0 +1,991 @@
+[
+  {
+    "flightNumber": "6E101",
+    "airline": "IndiGo",
+    "source": "Delhi",
+    "destination": "Mumbai",
+    "departureTime": "06:00",
+    "arrivalTime": "08:10",
+    "price": 4500
+  },
+  {
+    "flightNumber": "AI202",
+    "airline": "Air India",
+    "source": "Delhi",
+    "destination": "Mumbai",
+    "departureTime": "09:30",
+    "arrivalTime": "11:45",
+    "price": 4700
+  },
+  {
+    "flightNumber": "UK303",
+    "airline": "Vistara",
+    "source": "Delhi",
+    "destination": "Mumbai",
+    "departureTime": "14:00",
+    "arrivalTime": "16:10",
+    "price": 4900
+  },
+  {
+    "flightNumber": "6E104",
+    "airline": "IndiGo",
+    "source": "Delhi",
+    "destination": "Bengaluru",
+    "departureTime": "07:15",
+    "arrivalTime": "09:50",
+    "price": 4300
+  },
+  {
+    "flightNumber": "SG205",
+    "airline": "SpiceJet",
+    "source": "Delhi",
+    "destination": "Bengaluru",
+    "departureTime": "12:30",
+    "arrivalTime": "15:05",
+    "price": 4000
+  },
+  {
+    "flightNumber": "6E107",
+    "airline": "IndiGo",
+    "source": "Delhi",
+    "destination": "Chennai",
+    "departureTime": "08:00",
+    "arrivalTime": "10:45",
+    "price": 5100
+  },
+  {
+    "flightNumber": "AI208",
+    "airline": "Air India",
+    "source": "Delhi",
+    "destination": "Chennai",
+    "departureTime": "13:45",
+    "arrivalTime": "16:30",
+    "price": 5300
+  },
+  {
+    "flightNumber": "UK309",
+    "airline": "Vistara",
+    "source": "Delhi",
+    "destination": "Chennai",
+    "departureTime": "18:00",
+    "arrivalTime": "20:45",
+    "price": 5500
+  },
+  {
+    "flightNumber": "6E110",
+    "airline": "IndiGo",
+    "source": "Delhi",
+    "destination": "Kolkata",
+    "departureTime": "06:45",
+    "arrivalTime": "08:55",
+    "price": 4600
+  },
+  {
+    "flightNumber": "SG211",
+    "airline": "SpiceJet",
+    "source": "Delhi",
+    "destination": "Kolkata",
+    "departureTime": "11:00",
+    "arrivalTime": "13:10",
+    "price": 4400
+  },
+  {
+    "flightNumber": "6E113",
+    "airline": "IndiGo",
+    "source": "Mumbai",
+    "destination": "Delhi",
+    "departureTime": "07:00",
+    "arrivalTime": "09:10",
+    "price": 4600
+  },
+  {
+    "flightNumber": "AI214",
+    "airline": "Air India",
+    "source": "Mumbai",
+    "destination": "Delhi",
+    "departureTime": "10:15",
+    "arrivalTime": "12:25",
+    "price": 4800
+  },
+  {
+    "flightNumber": "6E116",
+    "airline": "IndiGo",
+    "source": "Mumbai",
+    "destination": "Bengaluru",
+    "departureTime": "08:30",
+    "arrivalTime": "10:15",
+    "price": 3900
+  },
+  {
+    "flightNumber": "UK217",
+    "airline": "Vistara",
+    "source": "Mumbai",
+    "destination": "Bengaluru",
+    "departureTime": "12:00",
+    "arrivalTime": "13:45",
+    "price": 4100
+  },
+  {
+    "flightNumber": "SG218",
+    "airline": "SpiceJet",
+    "source": "Mumbai",
+    "destination": "Bengaluru",
+    "departureTime": "15:30",
+    "arrivalTime": "17:15",
+    "price": 3700
+  },
+  {
+    "flightNumber": "6E119",
+    "airline": "IndiGo",
+    "source": "Mumbai",
+    "destination": "Chennai",
+    "departureTime": "09:00",
+    "arrivalTime": "10:50",
+    "price": 4200
+  },
+  {
+    "flightNumber": "AI220",
+    "airline": "Air India",
+    "source": "Mumbai",
+    "destination": "Chennai",
+    "departureTime": "14:15",
+    "arrivalTime": "16:05",
+    "price": 4400
+  },
+  {
+    "flightNumber": "6E122",
+    "airline": "IndiGo",
+    "source": "Mumbai",
+    "destination": "Kolkata",
+    "departureTime": "10:30",
+    "arrivalTime": "13:10",
+    "price": 5000
+  },
+  {
+    "flightNumber": "SG223",
+    "airline": "SpiceJet",
+    "source": "Mumbai",
+    "destination": "Kolkata",
+    "departureTime": "16:00",
+    "arrivalTime": "18:40",
+    "price": 4800
+  },
+  {
+    "flightNumber": "UK224",
+    "airline": "Vistara",
+    "source": "Mumbai",
+    "destination": "Kolkata",
+    "departureTime": "19:00",
+    "arrivalTime": "21:40",
+    "price": 5100
+  },
+  {
+    "flightNumber": "6E125",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Delhi",
+    "departureTime": "06:30",
+    "arrivalTime": "09:15",
+    "price": 4400
+  },
+  {
+    "flightNumber": "AI226",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Delhi",
+    "departureTime": "11:45",
+    "arrivalTime": "14:30",
+    "price": 4600
+  },
+  {
+    "flightNumber": "6E128",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "departureTime": "07:45",
+    "arrivalTime": "09:30",
+    "price": 3800
+  },
+  {
+    "flightNumber": "UK229",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "departureTime": "13:00",
+    "arrivalTime": "14:45",
+    "price": 4000
+  },
+  {
+    "flightNumber": "6E131",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "06:15",
+    "arrivalTime": "07:10",
+    "price": 3200
+  },
+  {
+    "flightNumber": "SG232",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "10:00",
+    "arrivalTime": "10:55",
+    "price": 3000
+  },
+  {
+    "flightNumber": "AI233",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "14:30",
+    "arrivalTime": "15:25",
+    "price": 3400
+  },
+  {
+    "flightNumber": "6E134",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Kolkata",
+    "departureTime": "09:30",
+    "arrivalTime": "12:00",
+    "price": 5200
+  },
+  {
+    "flightNumber": "UK235",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Kolkata",
+    "departureTime": "15:15",
+    "arrivalTime": "17:45",
+    "price": 5400
+  },
+  {
+    "flightNumber": "6E137",
+    "airline": "IndiGo",
+    "source": "Chennai",
+    "destination": "Delhi",
+    "departureTime": "07:20",
+    "arrivalTime": "10:05",
+    "price": 5200
+  },
+  {
+    "flightNumber": "AI238",
+    "airline": "Air India",
+    "source": "Chennai",
+    "destination": "Delhi",
+    "departureTime": "12:30",
+    "arrivalTime": "15:15",
+    "price": 5400
+  },
+  {
+    "flightNumber": "6E140",
+    "airline": "IndiGo",
+    "source": "Chennai",
+    "destination": "Mumbai",
+    "departureTime": "08:15",
+    "arrivalTime": "10:05",
+    "price": 4300
+  },
+  {
+    "flightNumber": "UK241",
+    "airline": "Vistara",
+    "source": "Chennai",
+    "destination": "Mumbai",
+    "departureTime": "13:45",
+    "arrivalTime": "15:35",
+    "price": 4500
+  },
+  {
+    "flightNumber": "SG242",
+    "airline": "SpiceJet",
+    "source": "Chennai",
+    "destination": "Mumbai",
+    "departureTime": "17:00",
+    "arrivalTime": "18:50",
+    "price": 4100
+  },
+  {
+    "flightNumber": "6E143",
+    "airline": "IndiGo",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "departureTime": "06:00",
+    "arrivalTime": "06:55",
+    "price": 3100
+  },
+  {
+    "flightNumber": "AI244",
+    "airline": "Air India",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "departureTime": "11:15",
+    "arrivalTime": "12:10",
+    "price": 3300
+  },
+  {
+    "flightNumber": "6E146",
+    "airline": "IndiGo",
+    "source": "Chennai",
+    "destination": "Kolkata",
+    "departureTime": "10:00",
+    "arrivalTime": "12:20",
+    "price": 4700
+  },
+  {
+    "flightNumber": "SG247",
+    "airline": "SpiceJet",
+    "source": "Chennai",
+    "destination": "Kolkata",
+    "departureTime": "15:30",
+    "arrivalTime": "17:50",
+    "price": 4500
+  },
+  {
+    "flightNumber": "6E149",
+    "airline": "IndiGo",
+    "source": "Kolkata",
+    "destination": "Delhi",
+    "departureTime": "07:30",
+    "arrivalTime": "09:40",
+    "price": 4700
+  },
+  {
+    "flightNumber": "AI250",
+    "airline": "Air India",
+    "source": "Kolkata",
+    "destination": "Delhi",
+    "departureTime": "12:00",
+    "arrivalTime": "14:10",
+    "price": 4900
+  },
+  {
+    "flightNumber": "UK251",
+    "airline": "Vistara",
+    "source": "Kolkata",
+    "destination": "Delhi",
+    "departureTime": "16:30",
+    "arrivalTime": "18:40",
+    "price": 5100
+  },
+  {
+    "flightNumber": "6E152",
+    "airline": "IndiGo",
+    "source": "Kolkata",
+    "destination": "Mumbai",
+    "departureTime": "08:45",
+    "arrivalTime": "11:25",
+    "price": 5100
+  },
+  {
+    "flightNumber": "SG253",
+    "airline": "SpiceJet",
+    "source": "Kolkata",
+    "destination": "Mumbai",
+    "departureTime": "14:15",
+    "arrivalTime": "16:55",
+    "price": 4900
+  },
+  {
+    "flightNumber": "6E155",
+    "airline": "IndiGo",
+    "source": "Kolkata",
+    "destination": "Bengaluru",
+    "departureTime": "09:15",
+    "arrivalTime": "11:45",
+    "price": 5300
+  },
+  {
+    "flightNumber": "AI256",
+    "airline": "Air India",
+    "source": "Kolkata",
+    "destination": "Bengaluru",
+    "departureTime": "13:30",
+    "arrivalTime": "16:00",
+    "price": 5500
+  },
+  {
+    "flightNumber": "6E158",
+    "airline": "IndiGo",
+    "source": "Kolkata",
+    "destination": "Chennai",
+    "departureTime": "07:00",
+    "arrivalTime": "09:20",
+    "price": 4600
+  },
+  {
+    "flightNumber": "UK259",
+    "airline": "Vistara",
+    "source": "Kolkata",
+    "destination": "Chennai",
+    "departureTime": "12:45",
+    "arrivalTime": "15:05",
+    "price": 4800
+  },{
+    "flightNumber": "6E101",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Delhi",
+    "departureTime": "06:00",
+    "arrivalTime": "08:45",
+    "price": 4500
+  },
+  {
+    "flightNumber": "AI102",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Delhi",
+    "departureTime": "09:15",
+    "arrivalTime": "12:00",
+    "price": 4700
+  },
+  {
+    "flightNumber": "UK103",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Delhi",
+    "departureTime": "14:30",
+    "arrivalTime": "17:15",
+    "price": 4900
+  },
+  {
+    "flightNumber": "6E104",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "departureTime": "07:00",
+    "arrivalTime": "08:45",
+    "price": 3800
+  },
+  {
+    "flightNumber": "AI105",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "departureTime": "11:00",
+    "arrivalTime": "12:45",
+    "price": 4000
+  },
+  {
+    "flightNumber": "SG106",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "departureTime": "15:45",
+    "arrivalTime": "17:30",
+    "price": 3600
+  },
+  {
+    "flightNumber": "6E107",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "06:15",
+    "arrivalTime": "07:10",
+    "price": 3000
+  },
+  {
+    "flightNumber": "AI108",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "10:30",
+    "arrivalTime": "11:25",
+    "price": 3200
+  },
+  {
+    "flightNumber": "SG109",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "14:00",
+    "arrivalTime": "14:55",
+    "price": 2900
+  },
+  {
+    "flightNumber": "6E110",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Kolkata",
+    "departureTime": "08:00",
+    "arrivalTime": "10:30",
+    "price": 5200
+  },
+  {
+    "flightNumber": "UK111",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Kolkata",
+    "departureTime": "12:45",
+    "arrivalTime": "15:15",
+    "price": 5400
+  },
+  {
+    "flightNumber": "6E112",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Hyderabad",
+    "departureTime": "07:30",
+    "arrivalTime": "08:40",
+    "price": 3400
+  },
+  {
+    "flightNumber": "AI113",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Hyderabad",
+    "departureTime": "13:00",
+    "arrivalTime": "14:10",
+    "price": 3600
+  },
+  {
+    "flightNumber": "6E114",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Ahmedabad",
+    "departureTime": "09:00",
+    "arrivalTime": "11:15",
+    "price": 4600
+  },
+  {
+    "flightNumber": "SG115",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Ahmedabad",
+    "departureTime": "15:30",
+    "arrivalTime": "17:45",
+    "price": 4400
+  },
+  {
+    "flightNumber": "6E116",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Goa",
+    "departureTime": "06:45",
+    "arrivalTime": "07:55",
+    "price": 3700
+  },
+  {
+    "flightNumber": "AI117",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Goa",
+    "departureTime": "11:15",
+    "arrivalTime": "12:25",
+    "price": 3900
+  },
+  {
+    "flightNumber": "6E118",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Kochi",
+    "departureTime": "08:30",
+    "arrivalTime": "09:40",
+    "price": 3100
+  },
+  {
+    "flightNumber": "UK119",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Kochi",
+    "departureTime": "14:45",
+    "arrivalTime": "15:55",
+    "price": 3300
+  },
+  {
+    "flightNumber": "6E120",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Pune",
+    "departureTime": "07:15",
+    "arrivalTime": "08:40",
+    "price": 3500
+  },
+  {
+    "flightNumber": "SG121",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Pune",
+    "departureTime": "12:30",
+    "arrivalTime": "13:55",
+    "price": 3300
+  },
+  {
+    "flightNumber": "AI122",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Pune",
+    "departureTime": "16:00",
+    "arrivalTime": "17:25",
+    "price": 3600
+  },
+  {
+    "flightNumber": "6E123",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Lucknow",
+    "departureTime": "09:30",
+    "arrivalTime": "11:50",
+    "price": 5100
+  },
+  {
+    "flightNumber": "UK124",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Lucknow",
+    "departureTime": "14:15",
+    "arrivalTime": "16:35",
+    "price": 5300
+  },
+  {
+    "flightNumber": "6E125",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Guwahati",
+    "departureTime": "06:00",
+    "arrivalTime": "09:00",
+    "price": 6500
+  },
+  {
+    "flightNumber": "AI126",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Guwahati",
+    "departureTime": "11:45",
+    "arrivalTime": "14:45",
+    "price": 6700
+  },
+  {
+    "flightNumber": "6E127",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Jaipur",
+    "departureTime": "08:15",
+    "arrivalTime": "10:45",
+    "price": 4800
+  },
+  {
+    "flightNumber": "SG128",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Jaipur",
+    "departureTime": "13:30",
+    "arrivalTime": "16:00",
+    "price": 4600
+  },
+  {
+    "flightNumber": "6E129",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Thiruvananthapuram",
+    "departureTime": "07:45",
+    "arrivalTime": "09:00",
+    "price": 3400
+  },
+  {
+    "flightNumber": "AI130",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Thiruvananthapuram",
+    "departureTime": "12:00",
+    "arrivalTime": "13:15",
+    "price": 3600
+  },
+  {
+    "flightNumber": "6E131",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Bhopal",
+    "departureTime": "09:00",
+    "arrivalTime": "11:10",
+    "price": 4500
+  },
+  {
+    "flightNumber": "UK132",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Bhopal",
+    "departureTime": "14:30",
+    "arrivalTime": "16:40",
+    "price": 4700
+  },
+  {
+    "flightNumber": "6E133",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Coimbatore",
+    "departureTime": "06:30",
+    "arrivalTime": "07:25",
+    "price": 2800
+  },
+  {
+    "flightNumber": "SG134",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Coimbatore",
+    "departureTime": "11:00",
+    "arrivalTime": "11:55",
+    "price": 2600
+  },
+  {
+    "flightNumber": "6E135",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Visakhapatnam",
+    "departureTime": "08:45",
+    "arrivalTime": "10:15",
+    "price": 3900
+  },
+  {
+    "flightNumber": "AI136",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Visakhapatnam",
+    "departureTime": "13:15",
+    "arrivalTime": "14:45",
+    "price": 4100
+  },
+  {
+    "flightNumber": "6E137",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Patna",
+    "departureTime": "07:00",
+    "arrivalTime": "09:30",
+    "price": 5500
+  },
+  {
+    "flightNumber": "UK138",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Patna",
+    "departureTime": "12:15",
+    "arrivalTime": "14:45",
+    "price": 5700
+  },
+  {
+    "flightNumber": "6E139",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Bhubaneswar",
+    "departureTime": "09:15",
+    "arrivalTime": "11:20",
+    "price": 4800
+  },
+  {
+    "flightNumber": "AI140",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Bhubaneswar",
+    "departureTime": "14:00",
+    "arrivalTime": "16:05",
+    "price": 5000
+  },
+  {
+    "flightNumber": "6E141",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Nagpur",
+    "departureTime": "08:00",
+    "arrivalTime": "09:45",
+    "price": 4200
+  },
+  {
+    "flightNumber": "SG142",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Nagpur",
+    "departureTime": "13:30",
+    "arrivalTime": "15:15",
+    "price": 4000
+  },
+  {
+    "flightNumber": "6E143",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Mangalore",
+    "departureTime": "07:30",
+    "arrivalTime": "08:30",
+    "price": 3000
+  },
+  {
+    "flightNumber": "AI144",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Mangalore",
+    "departureTime": "11:45",
+    "arrivalTime": "12:45",
+    "price": 3200
+  },
+  {
+    "flightNumber": "6E145",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Ranchi",
+    "departureTime": "09:00",
+    "arrivalTime": "11:20",
+    "price": 5100
+  },
+  {
+    "flightNumber": "UK146",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Ranchi",
+    "departureTime": "14:15",
+    "arrivalTime": "16:35",
+    "price": 5300
+  },
+  {
+    "flightNumber": "6E147",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Vadodara",
+    "departureTime": "08:30",
+    "arrivalTime": "10:45",
+    "price": 4600
+  },
+  {
+    "flightNumber": "SG148",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Vadodara",
+    "departureTime": "13:00",
+    "arrivalTime": "15:15",
+    "price": 4400
+  },
+  {
+    "flightNumber": "6E149",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Madurai",
+    "departureTime": "07:15",
+    "arrivalTime": "08:30",
+    "price": 3200
+  },
+  {
+    "flightNumber": "AI150",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Madurai",
+    "departureTime": "12:00",
+    "arrivalTime": "13:15",
+    "price": 3400
+  },
+  {
+    "flightNumber": "6E151",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Tiruchirappalli",
+    "departureTime": "06:45",
+    "arrivalTime": "07:50",
+    "price": 3100
+  },
+  {
+    "flightNumber": "SG152",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Tiruchirappalli",
+    "departureTime": "11:30",
+    "arrivalTime": "12:35",
+    "price": 2900
+  },
+  {
+    "flightNumber": "6E153",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Amritsar",
+    "departureTime": "06:00",
+    "arrivalTime": "09:15",
+    "price": 6000
+  },
+  {
+    "flightNumber": "AI154",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Amritsar",
+    "departureTime": "11:00",
+    "arrivalTime": "14:15",
+    "price": 6200
+  },
+  {
+    "flightNumber": "6E155",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Srinagar",
+    "departureTime": "07:00",
+    "arrivalTime": "10:30",
+    "price": 6500
+  },
+  {
+    "flightNumber": "UK156",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Srinagar",
+    "departureTime": "12:30",
+    "arrivalTime": "16:00",
+    "price": 6700
+  },
+  {
+    "flightNumber": "6E157",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Indore",
+    "departureTime": "08:15",
+    "arrivalTime": "10:15",
+    "price": 4300
+  },
+  {
+    "flightNumber": "SG158",
+    "airline": "SpiceJet",
+    "source": "Bengaluru",
+    "destination": "Indore",
+    "departureTime": "13:45",
+    "arrivalTime": "15:45",
+    "price": 4100
+  },
+  {
+    "flightNumber": "6E159",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Dehradun",
+    "departureTime": "09:00",
+    "arrivalTime": "12:00",
+    "price": 5500
+  },
+  {
+    "flightNumber": "AI160",
+    "airline": "Air India",
+    "source": "Bengaluru",
+    "destination": "Dehradun",
+    "departureTime": "14:00",
+    "arrivalTime": "17:00",
+    "price": 5700
+  },
+  {
+    "flightNumber": "6E161",
+    "airline": "IndiGo",
+    "source": "Bengaluru",
+    "destination": "Raipur",
+    "departureTime": "07:30",
+    "arrivalTime": "09:30",
+    "price": 4500
+  },
+  {
+    "flightNumber": "UK162",
+    "airline": "Vistara",
+    "source": "Bengaluru",
+    "destination": "Raipur",
+    "departureTime": "12:15",
+    "arrivalTime": "14:15",
+    "price": 4700
+  },
+  {
+    "flightNumber": "SG260",
+    "airline": "SpiceJet",
+    "source": "Kolkata",
+    "destination": "Chennai",
+    "departureTime": "17:15",
+    "arrivalTime": "19:35",
+    "price": 4400
+  }
+]

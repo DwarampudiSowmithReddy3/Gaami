@@ -1,0 +1,4395 @@
+[
+  {
+    "trainNumber": "12627",
+    "name": "Karnataka Express",
+    "source": "Bengaluru",
+    "destination": "Delhi",
+    "departureTime": "19:20",
+    "arrivalTime": "09:00",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12213",
+    "name": "Yesvantpur Delhi Duronto",
+    "source": "Bengaluru",
+    "destination": "Delhi",
+    "departureTime": "23:40",
+    "arrivalTime": "07:35",
+    "price": 3500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "16525",
+    "name": "Kanyakumari Express",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "15:00",
+    "arrivalTime": "21:40",
+    "price": 800,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12658",
+    "name": "Chennai Mail",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "22:40",
+    "arrivalTime": "04:45",
+    "price": 1200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12027",
+    "name": "Shatabdi Express",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "17:25",
+    "arrivalTime": "22:30",
+    "price": 1000,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "12609",
+    "name": "Mysuru Express",
+    "source": "Bengaluru",
+    "destination": "Mysuru",
+    "departureTime": "13:15",
+    "arrivalTime": "16:00",
+    "price": 500,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "16591",
+    "name": "Hampi Express",
+    "source": "Bengaluru",
+    "destination": "Mysuru",
+    "departureTime": "18:50",
+    "arrivalTime": "21:40",
+    "price": 600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12691",
+    "name": "Chennai Shatabdi",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "departureTime": "06:00",
+    "arrivalTime": "22:45",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "11014",
+    "name": "Coimbatore LTT Express",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "departureTime": "16:10",
+    "arrivalTime": "13:45",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "22691",
+    "name": "Bangalore Rajdhani",
+    "source": "Bengaluru",
+    "destination": "Delhi",
+    "departureTime": "20:00",
+    "arrivalTime": "05:55",
+    "price": 4000,
+    "type": "AC 1 Tier"
+  },
+  {
+    "trainNumber": "12607",
+    "name": "Lalbagh Express",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "06:40",
+    "arrivalTime": "12:35",
+    "price": 900,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "12649",
+    "name": "Sampark Kranti Express",
+    "source": "Bengaluru",
+    "destination": "Delhi",
+    "departureTime": "22:00",
+    "arrivalTime": "12:35",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16501",
+    "name": "Ahmedabad Express",
+    "source": "Bengaluru",
+    "destination": "Ahmedabad",
+    "departureTime": "20:10",
+    "arrivalTime": "03:30",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "19567",
+    "name": "Vivek Express",
+    "source": "Bengaluru",
+    "destination": "Kochi",
+    "departureTime": "19:00",
+    "arrivalTime": "07:50",
+    "price": 1500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16315",
+    "name": "Kochuveli Express",
+    "source": "Bengaluru",
+    "destination": "Kochi",
+    "departureTime": "16:50",
+    "arrivalTime": "05:30",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16573",
+    "name": "Yesvantpur Puducherry Express",
+    "source": "Bengaluru",
+    "destination": "Puducherry",
+    "departureTime": "20:45",
+    "arrivalTime": "06:30",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12296",
+    "name": "Sanghamitra Express",
+    "source": "Bengaluru",
+    "destination": "Patna",
+    "departureTime": "09:10",
+    "arrivalTime": "07:20",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12510",
+    "name": "Guwahati Express",
+    "source": "Bengaluru",
+    "destination": "Guwahati",
+    "departureTime": "23:40",
+    "arrivalTime": "03:00",
+    "price": 3200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16533",
+    "name": "Jodhpur Express",
+    "source": "Bengaluru",
+    "destination": "Jaipur",
+    "departureTime": "17:20",
+    "arrivalTime": "10:10",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16210",
+    "name": "Ajmer Express",
+    "source": "Bengaluru",
+    "destination": "Jaipur",
+    "departureTime": "18:20",
+    "arrivalTime": "11:55",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12639",
+    "name": "Brindavan Express",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "09:00",
+    "arrivalTime": "15:00",
+    "price": 850,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "16569",
+    "name": "Kacheguda Express",
+    "source": "Bengaluru",
+    "destination": "Hyderabad",
+    "departureTime": "14:20",
+    "arrivalTime": "03:30",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12786",
+    "name": "Kacheguda Express",
+    "source": "Bengaluru",
+    "destination": "Hyderabad",
+    "departureTime": "18:20",
+    "arrivalTime": "06:45",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16021",
+    "name": "Kaveri Express",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "21:00",
+    "arrivalTime": "04:00",
+    "price": 1000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16511",
+    "name": "Kannur Express",
+    "source": "Bengaluru",
+    "destination": "Goa",
+    "departureTime": "19:15",
+    "arrivalTime": "09:30",
+    "price": 1600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16517",
+    "name": "Mangalore Express",
+    "source": "Bengaluru",
+    "destination": "Mangalore",
+    "departureTime": "20:30",
+    "arrivalTime": "08:00",
+    "price": 1300,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12254",
+    "name": "Anga Express",
+    "source": "Bengaluru",
+    "destination": "Kolkata",
+    "departureTime": "13:30",
+    "arrivalTime": "23:30",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12504",
+    "name": "Humsafar Express",
+    "source": "Bengaluru",
+    "destination": "Kolkata",
+    "departureTime": "10:15",
+    "arrivalTime": "20:10",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "16227",
+    "name": "Talguppa Express",
+    "source": "Bengaluru",
+    "destination": "Mysuru",
+    "departureTime": "23:00",
+    "arrivalTime": "02:20",
+    "price": 700,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16589",
+    "name": "Rani Chennamma Express",
+    "source": "Bengaluru",
+    "destination": "Hubli",
+    "departureTime": "22:15",
+    "arrivalTime": "07:00",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12627",
+    "name": "Karnataka Express",
+    "source": "Delhi",
+    "destination": "Bengaluru",
+    "departureTime": "21:15",
+    "arrivalTime": "10:35",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12214",
+    "name": "Delhi Yesvantpur Duronto",
+    "source": "Delhi",
+    "destination": "Bengaluru",
+    "departureTime": "23:00",
+    "arrivalTime": "08:10",
+    "price": 3500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "16526",
+    "name": "Kanyakumari Express",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "departureTime": "20:10",
+    "arrivalTime": "03:00",
+    "price": 800,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12657",
+    "name": "Chennai Mail",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "departureTime": "22:50",
+    "arrivalTime": "05:15",
+    "price": 1200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12028",
+    "name": "Shatabdi Express",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "departureTime": "06:00",
+    "arrivalTime": "11:00",
+    "price": 1000,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "12610",
+    "name": "Mysuru Express",
+    "source": "Mysuru",
+    "destination": "Bengaluru",
+    "departureTime": "05:00",
+    "arrivalTime": "07:45",
+    "price": 500,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "16592",
+    "name": "Hampi Express",
+    "source": "Mysuru",
+    "destination": "Bengaluru",
+    "departureTime": "07:00",
+    "arrivalTime": "10:10",
+    "price": 600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "11013",
+    "name": "LTT Coimbatore Express",
+    "source": "Mumbai",
+    "destination": "Bengaluru",
+    "departurepezaTime": "22:35",
+    "arrivalTime": "22:50",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "22692",
+    "name": "Bangalore Rajdhani",
+    "source": "Delhi",
+    "destination": "Bengaluru",
+    "departureTime": "20:50",
+    "arrivalTime": "06:40",
+    "price": 4000,
+    "type": "AC 1 Tier"
+  },
+  {
+    "trainNumber": "12608",
+    "name": "Lalbagh Express",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "departureTime": "15:30",
+    "arrivalTime": "21:35",
+    "price": 900,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "12650",
+    "name": "Sampark Kranti Express",
+    "source": "Delhi",
+    "destination": "Bengaluru",
+    "departureTime": "06:25",
+    "arrivalTime": "20:10",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16502",
+    "name": "Ahmedabad Express",
+    "source": "Ahmedabad",
+    "destination": "Bengaluru",
+    "departureTime": "19:00",
+    "arrivalTime": "03:10",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "19568",
+    "name": "Vivek Express",
+    "source": "Kochi",
+    "destination": "Bengaluru",
+    "departureTime": "19:50",
+    "arrivalTime": "09:00",
+    "price": 1500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16316",
+    "name": "Kochuveli Express",
+    "source": "Kochi",
+    "destination": "Bengaluru",
+    "departureTime": "20:50",
+    "arrivalTime": "10:30",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16574",
+    "name": "Puducherry Yesvantpur Express",
+    "source": "Puducherry",
+    "destination": "Bengaluru",
+    "departureTime": "22:30",
+    "arrivalTime": "09:00",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12295",
+    "name": "Sanghamitra Express",
+    "source": "Patna",
+    "destination": "Bengaluru",
+    "departureTime": "19:30",
+    "arrivalTime": "19:00",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12509",
+    "name": "Guwahati Express",
+    "source": "Guwahati",
+    "destination": "Bengaluru",
+    "departureTime": "06:20",
+    "arrivalTime": "10:50",
+    "price": 3200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16534",
+    "name": "Jodhpur Express",
+    "source": "Jaipur",
+    "destination": "Bengaluru",
+    "departureTime": "14:40",
+    "arrivalTime": "07:20",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16209",
+    "name": "Ajmer Express",
+    "source": "Jaipur",
+    "destination": "Bengaluru",
+    "departureTime": "05:50",
+    "arrivalTime": "23:40",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12640",
+    "name": "Brindavan Express",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "departureTime": "15:00",
+    "arrivalTime": "21:00",
+    "price": 850,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "16507",
+    "name": "Jodhpur Express",
+    "source": "Bengaluru",
+    "destination": "Jodhpur",
+    "departureTime": "22:20",
+    "arrivalTime": "15:30",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16531",
+    "name": "Ajmer Garib Nawaz Express",
+    "source": "Bengaluru",
+    "destination": "Jodhpur",
+    "departureTime": "17:00",
+    "arrivalTime": "10:00",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12683",
+    "name": "Ernakulam Superfast Express",
+    "source": "Bengaluru",
+    "destination": "Thiruvananthapuram",
+    "departureTime": "19:00",
+    "arrivalTime": "09:55",
+    "price": 1600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16339",
+    "name": "Nagercoil Express",
+    "source": "Bengaluru",
+    "destination": "Thiruvananthapuram",
+    "departureTime": "20:45",
+    "arrivalTime": "12:00",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "17230",
+    "name": "Sabari Express",
+    "source": "Bengaluru",
+    "destination": "Thiruvananthapuram",
+    "departureTime": "16:50",
+    "arrivalTime": "09:30",
+    "price": 1800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12863",
+    "name": "Howrah Superfast Express",
+    "source": "Bengaluru",
+    "destination": "Bhubaneswar",
+    "departureTime": "19:35",
+    "arrivalTime": "23:25",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "22818",
+    "name": "Mysuru Howrah Express",
+    "source": "Bengaluru",
+    "destination": "Bhubaneswar",
+    "departureTime": "03:10",
+    "arrivalTime": "06:05",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "16565",
+    "name": "Mangalore Express",
+    "source": "Bengaluru",
+    "destination": "Udupi",
+    "departureTime": "23:50",
+    "arrivalTime": "09:00",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16515",
+    "name": "Karwar Express",
+    "source": "Bengaluru",
+    "destination": "Udupi",
+    "departureTime": "07:00",
+    "arrivalTime": "18:40",
+    "price": 1700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16201",
+    "name": "Tirupati Express",
+    "source": "Bengaluru",
+    "destination": "Tirupati",
+    "departureTime": "17:30",
+    "arrivalTime": "23:35",
+    "price": 800,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "17209",
+    "name": "Seshadri Express",
+    "source": "Bengaluru",
+    "destination": "Tirupati",
+    "departureTime": "11:00",
+    "arrivalTime": "17:30",
+    "price": 1000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12629",
+    "name": "Sampark Kranti Express",
+    "source": "Bengaluru",
+    "destination": "Varanasi",
+    "departureTime": "13:40",
+    "arrivalTime": "09:10",
+    "price": 2900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "15024",
+    "name": "Gorakhpur Express",
+    "source": "Bengaluru",
+    "destination": "Varanasi",
+    "departureTime": "23:40",
+    "arrivalTime": "21:25",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "17307",
+    "name": "Basava Express",
+    "source": "Bengaluru",
+    "destination": "Belagavi",
+    "departureTime": "16:40",
+    "arrivalTime": "04:45",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16587",
+    "name": "Bikaner Express",
+    "source": "Bengaluru",
+    "destination": "Belagavi",
+    "departureTime": "11:30",
+    "arrivalTime": "23:45",
+    "price": 1500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12677",
+    "name": "Intercity Express",
+    "source": "Bengaluru",
+    "destination": "Coimbatore",
+    "departureTime": "06:10",
+    "arrivalTime": "13:50",
+    "price": 900,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "16613",
+    "name": "Coimbatore Express",
+    "source": "Bengaluru",
+    "destination": "Coimbatore",
+    "departureTime": "22:20",
+    "arrivalTime": "06:00",
+    "price": 1100,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16321",
+    "name": "Nagercoil Express",
+    "source": "Bengaluru",
+    "destination": "Madurai",
+    "departureTime": "21:40",
+    "arrivalTime": "08:05",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16235",
+    "name": "Tuticorin Express",
+    "source": "Bengaluru",
+    "destination": "Madurai",
+    "departureTime": "17:15",
+    "arrivalTime": "04:30",
+    "price": 1700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12777",
+    "name": "Hubli Express",
+    "source": "Bengaluru",
+    "destination": "Vijayawada",
+    "departureTime": "06:25",
+    "arrivalTime": "19:25",
+    "price": 1600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "17211",
+    "name": "Kondaveedu Express",
+    "source": "Bengaluru",
+    "destination": "Vijayawada",
+    "departureTime": "15:50",
+    "arrivalTime": "06:45",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16593",
+    "name": "Nanded Express",
+    "source": "Bengaluru",
+    "destination": "Bhopal",
+    "departureTime": "23:20",
+    "arrivalTime": "06:25",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12193",
+    "name": "Jabalpur Express",
+    "source": "Bengaluru",
+    "destination": "Bhopal",
+    "departureTime": "15:30",
+    "arrivalTime": "20:50",
+    "price": 2400,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12975",
+    "name": "Jaipur Express",
+    "source": "Bengaluru",
+    "destination": "Ranchi",
+    "departureTime": "13:00",
+    "arrivalTime": "05:40",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "18637",
+    "name": "Hatia Express",
+    "source": "Bengaluru",
+    "destination": "Ranchi",
+    "departureTime": "00:30",
+    "arrivalTime": "18:25",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "17311",
+    "name": "Vasco Express",
+    "source": "Bengaluru",
+    "destination": "Surat",
+    "departureTime": "14:30",
+    "arrivalTime": "12:20",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "19405",
+    "name": "Palitana Express",
+    "source": "Bengaluru",
+    "destination": "Surat",
+    "departureTime": "10:45",
+    "arrivalTime": "09:00",
+    "price": 1800,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "14805",
+    "name": "Barmer Express",
+    "source": "Bengaluru",
+    "destination": "Amritsar",
+    "departureTime": "11:30",
+    "arrivalTime": "13:45",
+    "price": 3100,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12429",
+    "name": "Lucknow AC Express",
+    "source": "Bengaluru",
+    "destination": "Amritsar",
+    "departureTime": "18:20",
+    "arrivalTime": "20:10",
+    "price": 3300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "16507",
+    "name": "Jodhpur Express",
+    "source": "Jodhpur",
+    "destination": "Bengaluru",
+    "departureTime": "05:15",
+    "arrivalTime": "23:50",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16531",
+    "name": "Ajmer Garib Nawaz Express",
+    "source": "Jodhpur",
+    "destination": "Bengaluru",
+    "departureTime": "06:10",
+    "arrivalTime": "00:30",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12684",
+    "name": "Ernakulam Superfast Express",
+    "source": "Thiruvananthapuram",
+    "destination": "Bengaluru",
+    "departureTime": "17:00",
+    "arrivalTime": "07:20",
+    "price": 1600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16340",
+    "name": "Nagercoil Express",
+    "source": "Thiruvananthapuram",
+    "destination": "Bengaluru",
+    "departureTime": "06:25",
+    "arrivalTime": "22:15",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12864",
+    "name": "Howrah Superfast Express",
+    "source": "Bhubaneswar",
+    "destination": "Bengaluru",
+    "departureTime": "20:35",
+    "arrivalTime": "23:40",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "22817",
+    "name": "Howrah Mysuru Express",
+    "source": "Bhubaneswar",
+    "destination": "Bengaluru",
+    "departureTime": "16:00",
+    "arrivalTime": "19:00",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "16566",
+    "name": "Mangalore Express",
+    "source": "Udupi",
+    "destination": "Bengaluru",
+    "departureTime": "20:00",
+    "arrivalTime": "06:50",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16516",
+    "name": "Karwar Express",
+    "source": "Udupi",
+    "destination": "Bengaluru",
+    "departureTime": "05:30",
+    "arrivalTime": "17:00",
+    "price": 1700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16202",
+    "name": "Tirupati Express",
+    "source": "Tirupati",
+    "destination": "Bengaluru",
+    "departureTime": "05:15",
+    "arrivalTime": "11:20",
+    "price": 800,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "17210",
+    "name": "Seshadri Express",
+    "source": "Tirupati",
+    "destination": "Bengaluru",
+    "departureTime": "17:30",
+    "arrivalTime": "00:05",
+    "price": 1000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12630",
+    "name": "Sampark Kranti Express",
+    "source": "Varanasi",
+    "destination": "Bengaluru",
+    "departureTime": "20:00",
+    "arrivalTime": "15:45",
+    "price": 2900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "15023",
+    "name": "Gorakhpur Express",
+    "source": "Varanasi",
+    "destination": "Bengaluru",
+    "departureTime": "08:40",
+    "arrivalTime": "07:00",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "17308",
+    "name": "Basava Express",
+    "source": "Belagavi",
+    "destination": "Bengaluru",
+    "departureTime": "14:30",
+    "arrivalTime": "02:40",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16588",
+    "name": "Bikaner Express",
+    "source": "Belagavi",
+    "destination": "Bengaluru",
+    "departureTime": "06:00",
+    "arrivalTime": "17:30",
+    "price": 1500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12678",
+    "name": "Intercity Express",
+    "source": "Coimbatore",
+    "destination": "Bengaluru",
+    "departureTime": "14:40",
+    "arrivalTime": "22:00",
+    "price": 900,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "16614",
+    "name": "Coimbatore Express",
+    "source": "Coimbatore",
+    "destination": "Bengaluru",
+    "departureTime": "16:00",
+    "arrivalTime": "23:40",
+    "price": 1100,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16322",
+    "name": "Nagercoil Express",
+    "source": "Madurai",
+    "destination": "Bengaluru",
+    "departureTime": "15:25",
+    "arrivalTime": "02:00",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16236",
+    "name": "Tuticorin Express",
+    "source": "Madurai",
+    "destination": "Bengaluru",
+    "departureTime": "07:00",
+    "arrivalTime": "18:00",
+    "price": 1700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12778",
+    "name": "Hubli Express",
+    "source": "Vijayawada",
+    "destination": "Bengaluru",
+    "departureTime": "06:40",
+    "arrivalTime": "20:10",
+    "price": 1600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "17212",
+    "name": "Kondaveedu Express",
+    "source": "Vijayawada",
+    "destination": "Bengaluru",
+    "departureTime": "21:00",
+    "arrivalTime": "11:50",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16594",
+    "name": "Nanded Express",
+    "source": "Bhopal",
+    "destination": "Bengaluru",
+    "departureTime": "06:30",
+    "arrivalTime": "12:10",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12194",
+    "name": "Jabalpur Express",
+    "source": "Bhopal",
+    "destination": "Bengaluru",
+    "departureTime": "06:50",
+    "arrivalTime": "11:25",
+    "price": 2400,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12976",
+    "name": "Jaipur Express",
+    "source": "Ranchi",
+    "destination": "Bengaluru",
+    "departureTime": "23:00",
+    "arrivalTime": "16:40",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "18638",
+    "name": "Hatia Express",
+    "source": "Ranchi",
+    "destination": "Bengaluru",
+    "departureTime": "21:05",
+    "arrivalTime": "14:20",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "17312",
+    "name": "Vasco Express",
+    "source": "Surat",
+    "destination": "Bengaluru",
+    "departureTime": "10:50",
+    "arrivalTime": "08:35",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "19406",
+    "name": "Palitana Express",
+    "source": "Surat",
+    "destination": "Bengaluru",
+    "departureTime": "12:40",
+    "arrivalTime": "11:00",
+    "price": 1800,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "14806",
+    "name": "Barmer Express",
+    "source": "Amritsar",
+    "destination": "Bengaluru",
+    "departureTime": "18:25",
+    "arrivalTime": "20:45",
+    "price": 3100,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12430",
+    "name": "Lucknow AC Express",
+    "source": "Amritsar",
+    "destination": "Bengaluru",
+    "departureTime": "22:50",
+    "arrivalTime": "00:50",
+    "price": 3300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "16570",
+    "name": "Kacheguda Express",
+    "source": "Hyderabad",
+    "destination": "Bengaluru",
+    "departureTime": "14:00",
+    "arrivalTime": "03:50",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12785",
+    "name": "Kacheguda Express",
+    "source": "Hyderabad",
+    "destination": "Bengaluru",
+    "departureTime": "19:05",
+    "arrivalTime": "07:40",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16022",
+    "name": "Kaveri Express",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "departureTime": "21:00",
+    "arrivalTime": "04:20",
+    "price": 1000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16512",
+    "name": "Kannur Express",
+    "source": "Goa",
+    "destination": "Bengaluru",
+    "departureTime": "15:00",
+    "arrivalTime": "05:40",
+    "price": 1600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "16518",
+    "name": "Mangalore Express",
+    "source": "Mangalore",
+    "destination": "Bengaluru",
+    "departureTime": "20:05",
+    "arrivalTime": "07:20",
+    "price": 1300,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12253",
+    "name": "Anga Express",
+    "source": "Kolkata",
+    "destination": "Bengaluru",
+    "departureTime": "23:30",
+    "arrivalTime": "09:05",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12503",
+    "name": "Humsafar Express",
+    "source": "Kolkata",
+    "destination": "Bengaluru",
+    "departureTime": "13:40",
+    "arrivalTime": "23:40",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "16228",
+    "name": "Talguppa Express",
+    "source": "Mysuru",
+    "destination": "Bengaluru",
+    "departureTime": "20:20",
+    "arrivalTime": "23:55",
+    "price": 700,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "16590",
+    "name": "Rani Chennamma Express",
+    "source": "Hubli",
+    "destination": "Bengaluru",
+    "departureTime": "18:00",
+    "arrivalTime": "02:45",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  
+  {
+    "trainNumber": "12701",
+    "name": "Taj Express",
+    "source": "Bengaluru",
+    "destination": "Agra",
+    "departureTime": "20:00",
+    "arrivalTime": "04:30",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12703",
+    "name": "Ganga Express",
+    "source": "Bengaluru",
+    "destination": "Rishikesh",
+    "departureTime": "18:30",
+    "arrivalTime": "12:00",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12705",
+    "name": "Hampi Express",
+    "source": "Bengaluru",
+    "destination": "Hampi",
+    "departureTime": "22:15",
+    "arrivalTime": "07:30",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12707",
+    "name": "Rameshwaram Express",
+    "source": "Bengaluru",
+    "destination": "Rameshwaram",
+    "departureTime": "16:45",
+    "arrivalTime": "06:00",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12709",
+    "name": "Kanyakumari Express",
+    "source": "Bengaluru",
+    "destination": "Kanyakumari",
+    "departureTime": "19:10",
+    "arrivalTime": "11:45",
+    "price": 2000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12711",
+    "name": "Shimla Express",
+    "source": "Bengaluru",
+    "destination": "Shimla",
+    "departureTime": "17:00",
+    "arrivalTime": "14:30",
+    "price": 3200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12713",
+    "name": "Darjeeling Mail",
+    "source": "Bengaluru",
+    "destination": "Darjeeling",
+    "departureTime": "21:30",
+    "arrivalTime": "18:00",
+    "price": 3400,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12715",
+    "name": "Ooty Intercity",
+    "source": "Bengaluru",
+    "destination": "Ooty",
+    "departureTime": "06:00",
+    "arrivalTime": "13:45",
+    "price": 1000,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "12717",
+    "name": "Manali Express",
+    "source": "Bengaluru",
+    "destination": "Manali",
+    "departureTime": "20:45",
+    "arrivalTime": "16:00",
+    "price": 3100,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12719",
+    "name": "Khajuraho Express",
+    "source": "Bengaluru",
+    "destination": "Khajuraho",
+    "departureTime": "15:30",
+    "arrivalTime": "23:15",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12721",
+    "name": "Aurangabad Express",
+    "source": "Bengaluru",
+    "destination": "Aurangabad",
+    "departureTime": "19:45",
+    "arrivalTime": "13:00",
+    "price": 1900,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12723",
+    "name": "Udaipur Express",
+    "source": "Bengaluru",
+    "destination": "Udaipur",
+    "departureTime": "22:00",
+    "arrivalTime": "07:30",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12725",
+    "name": "Leh Express",
+    "source": "Bengaluru",
+    "destination": "Leh",
+    "departureTime": "14:00",
+    "arrivalTime": "20:00",
+    "price": 3600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12727",
+    "name": "Puri Express",
+    "source": "Bengaluru",
+    "destination": "Puri",
+    "departureTime": "18:00",
+    "arrivalTime": "22:45",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12729",
+    "name": "Dwarka Express",
+    "source": "Bengaluru",
+    "destination": "Dwarka",
+    "departureTime": "16:30",
+    "arrivalTime": "00:15",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12731",
+    "name": "Gangtok Express",
+    "source": "Bengaluru",
+    "destination": "Gangtok",
+    "departureTime": "21:00",
+    "arrivalTime": "19:30",
+    "price": 3500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12733",
+    "name": "Nainital Express",
+    "source": "Bengaluru",
+    "destination": "Nainital",
+    "departureTime": "17:45",
+    "arrivalTime": "15:00",
+    "price": 3100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12735",
+    "name": "Haridwar Express",
+    "source": "Bengaluru",
+    "destination": "Haridwar",
+    "departureTime": "19:15",
+    "arrivalTime": "14:45",
+    "price": 2900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12737",
+    "name": "Chandigarh Express",
+    "source": "Bengaluru",
+    "destination": "Chandigarh",
+    "departureTime": "20:30",
+    "arrivalTime": "16:00",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12739",
+    "name": "Srinagar Express",
+    "source": "Bengaluru",
+    "destination": "Srinagar",
+    "departureTime": "15:00",
+    "arrivalTime": "21:30",
+    "price": 3400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12741",
+    "name": "Kanpur Express",
+    "source": "Bengaluru",
+    "destination": "Kanpur",
+    "departureTime": "22:45",
+    "arrivalTime": "06:30",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12743",
+    "name": "Nagpur Express",
+    "source": "Bengaluru",
+    "destination": "Nagpur",
+    "departureTime": "16:00",
+    "arrivalTime": "09:15",
+    "price": 2000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12745",
+    "name": "Indore Express",
+    "source": "Bengaluru",
+    "destination": "Indore",
+    "departureTime": "18:15",
+    "arrivalTime": "00:45",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12747",
+    "name": "Port Blair Express",
+    "source": "Bengaluru",
+    "destination": "Port Blair",
+    "departureTime": "14:30",
+    "arrivalTime": "20:00",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12749",
+    "name": "Lucknow Express",
+    "source": "Bengaluru",
+    "destination": "Lucknow",
+    "departureTime": "19:30",
+    "arrivalTime": "05:45",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12751",
+    "name": "Allahabad Express",
+    "source": "Bengaluru",
+    "destination": "Allahabad",
+    "departureTime": "21:45",
+    "arrivalTime": "07:00",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12753",
+    "name": "Gwalior Express",
+    "source": "Bengaluru",
+    "destination": "Gwalior",
+    "departureTime": "17:30",
+    "arrivalTime": "01:15",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12755",
+    "name": "Jhansi Express",
+    "source": "Bengaluru",
+    "destination": "Jhansi",
+    "departureTime": "20:15",
+    "arrivalTime": "04:00",
+    "price": 2500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12757",
+    "name": "Dehradun Express",
+    "source": "Bengaluru",
+    "destination": "Dehradun",
+    "departureTime": "16:45",
+    "arrivalTime": "14:30",
+    "price": 3100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12759",
+    "name": "Kota Express",
+    "source": "Bengaluru",
+    "destination": "Kota",
+    "departureTime": "19:00",
+    "arrivalTime": "03:45",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12702",
+    "name": "Taj Express",
+    "source": "Agra",
+    "destination": "Bengaluru",
+    "departureTime": "06:00",
+    "arrivalTime": "14:30",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12704",
+    "name": "Ganga Express",
+    "source": "Rishikesh",
+    "destination": "Bengaluru",
+    "departureTime": "16:30",
+    "arrivalTime": "10:00",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12706",
+    "name": "Hampi Express",
+    "source": "Hampi",
+    "destination": "Bengaluru",
+    "departureTime": "20:00",
+    "arrivalTime": "05:15",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12708",
+    "name": "Rameshwaram Express",
+    "source": "Rameshwaram",
+    "destination": "Bengaluru",
+    "departureTime": "22:00",
+    "arrivalTime": "11:15",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12710",
+    "name": "Kanyakumari Express",
+    "source": "Kanyakumari",
+    "destination": "Bengaluru",
+    "departureTime": "17:00",
+    "arrivalTime": "09:45",
+    "price": 2000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12712",
+    "name": "Shimla Express",
+    "source": "Shimla",
+    "destination": "Bengaluru",
+    "departureTime": "14:00",
+    "arrivalTime": "11:30",
+    "price": 3200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12714",
+    "name": "Darjeeling Mail",
+    "source": "Darjeeling",
+    "destination": "Bengaluru",
+    "departureTime": "20:00",
+    "arrivalTime": "16:30",
+    "price": 3400,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12716",
+    "name": "Ooty Intercity",
+    "source": "Ooty",
+    "destination": "Bengaluru",
+    "departureTime": "14:00",
+    "arrivalTime": "21:45",
+    "price": 1000,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "12718",
+    "name": "Manali Express",
+    "source": "Manali",
+    "destination": "Bengaluru",
+    "departureTime": "17:00",
+    "arrivalTime": "12:15",
+    "price": 3100,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12720",
+    "name": "Khajuraho Express",
+    "source": "Khajuraho",
+    "destination": "Bengaluru",
+    "departureTime": "18:00",
+    "arrivalTime": "01:45",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12722",
+    "name": "Aurangabad Express",
+    "source": "Aurangabad",
+    "destination": "Bengaluru",
+    "departureTime": "21:00",
+    "arrivalTime": "14:15",
+    "price": 1900,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12724",
+    "name": "Udaipur Express",
+    "source": "Udaipur",
+    "destination": "Bengaluru",
+    "departureTime": "17:30",
+    "arrivalTime": "03:00",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12726",
+    "name": "Leh Express",
+    "source": "Leh",
+    "destination": "Bengaluru",
+    "departureTime": "09:00",
+    "arrivalTime": "15:00",
+    "price": 3600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12728",
+    "name": "Puri Express",
+    "source": "Puri",
+    "destination": "Bengaluru",
+    "departureTime": "19:00",
+    "arrivalTime": "23:45",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12730",
+    "name": "Dwarka Express",
+    "source": "Dwarka",
+    "destination": "Bengaluru",
+    "departureTime": "11:45",
+    "arrivalTime": "19:30",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12732",
+    "name": "Gangtok Express",
+    "source": "Gangtok",
+    "destination": "Bengaluru",
+    "departureTime": "17:00",
+    "arrivalTime": "15:30",
+    "price": 3500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12734",
+    "name": "Nainital Express",
+    "source": "Nainital",
+    "destination": "Bengaluru",
+    "departureTime": "16:00",
+    "arrivalTime": "13:15",
+    "price": 3100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12736",
+    "name": "Haridwar Express",
+    "source": "Haridwar",
+    "destination": "Bengaluru",
+    "departureTime": "18:30",
+    "arrivalTime": "14:00",
+    "price": 2900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12738",
+    "name": "Chandigarh Express",
+    "source": "Chandigarh",
+    "destination": "Bengaluru",
+    "departureTime": "17:00",
+    "arrivalTime": "12:30",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12740",
+    "name": "Srinagar Express",
+    "source": "Srinagar",
+    "destination": "Bengaluru",
+    "departureTime": "10:00",
+    "arrivalTime": "16:30",
+    "price": 3400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12742",
+    "name": "Kanpur Express",
+    "source": "Kanpur",
+    "destination": "Bengaluru",
+    "departureTime": "19:00",
+    "arrivalTime": "02:45",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12744",
+    "name": "Nagpur Express",
+    "source": "Nagpur",
+    "destination": "Bengaluru",
+    "departureTime": "20:00",
+    "arrivalTime": "13:15",
+    "price": 2000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12746",
+    "name": "Indore Express",
+    "source": "Indore",
+    "destination": "Bengaluru",
+    "departureTime": "16:45",
+    "arrivalTime": "23:15",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12748",
+    "name": "Port Blair Express",
+    "source": "Port Blair",
+    "destination": "Bengaluru",
+    "departureTime": "08:00",
+    "arrivalTime": "13:30",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12750",
+    "name": "Lucknow Express",
+    "source": "Lucknow",
+    "destination": "Bengaluru",
+    "departureTime": "21:00",
+    "arrivalTime": "07:15",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12752",
+    "name": "Allahabad Express",
+    "source": "Allahabad",
+    "destination": "Bengaluru",
+    "departureTime": "17:30",
+    "arrivalTime": "02:45",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12754",
+    "name": "Gwalior Express",
+    "source": "Gwalior",
+    "destination": "Bengaluru",
+    "departureTime": "19:00",
+    "arrivalTime": "02:45",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12756",
+    "name": "Jhansi Express",
+    "source": "Jhansi",
+    "destination": "Bengaluru",
+    "departureTime": "18:00",
+    "arrivalTime": "01:45",
+    "price": 2500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12758",
+    "name": "Dehradun Express",
+    "source": "Dehradun",
+    "destination": "Bengaluru",
+    "departureTime": "15:00",
+    "arrivalTime": "12:45",
+    "price": 3100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12760",
+    "name": "Kota Express",
+    "source": "Kota",
+    "destination": "Bengaluru",
+    "departureTime": "17:30",
+    "arrivalTime": "02:15",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12801",
+    "name": "Bhopal Shatabdi",
+    "source": "Delhi",
+    "destination": "Agra",
+    "departureTime": "06:00",
+    "arrivalTime": "08:00",
+    "price": 1200,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "12803",
+    "name": "Ganga Kaveri Express",
+    "source": "Delhi",
+    "destination": "Varanasi",
+    "departureTime": "17:40",
+    "arrivalTime": "06:00",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12805",
+    "name": "Kalka Shatabdi",
+    "source": "Delhi",
+    "destination": "Shimla",
+    "departureTime": "07:15",
+    "arrivalTime": "12:30",
+    "price": 1500,
+    "type": "AC Executive"
+  },
+  {
+    "trainNumber": "12807",
+    "name": "Rishikesh Express",
+    "source": "Delhi",
+    "destination": "Rishikesh",
+    "departureTime": "20:00",
+    "arrivalTime": "02:45",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12809",
+    "name": "Haridwar Express",
+    "source": "Delhi",
+    "destination": "Haridwar",
+    "departureTime": "18:30",
+    "arrivalTime": "23:15",
+    "price": 1300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12811",
+    "name": "Puri Express",
+    "source": "Delhi",
+    "destination": "Puri",
+    "departureTime": "19:00",
+    "arrivalTime": "03:30",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12813",
+    "name": "Khajuraho Express",
+    "source": "Delhi",
+    "destination": "Khajuraho",
+    "departureTime": "16:00",
+    "arrivalTime": "04:45",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12815",
+    "name": "Udaipur Express",
+    "source": "Delhi",
+    "destination": "Udaipur",
+    "departureTime": "21:00",
+    "arrivalTime": "09:30",
+    "price": 2200,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12817",
+    "name": "Dwarka Express",
+    "source": "Delhi",
+    "destination": "Dwarka",
+    "departureTime": "17:30",
+    "arrivalTime": "16:00",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12819",
+    "name": "Manali Express",
+    "source": "Delhi",
+    "destination": "Manali",
+    "departureTime": "20:45",
+    "arrivalTime": "07:15",
+    "price": 1900,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12821",
+    "name": "Darjeeling Express",
+    "source": "Delhi",
+    "destination": "Darjeeling",
+    "departureTime": "15:00",
+    "arrivalTime": "22:30",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12823",
+    "name": "Nainital Express",
+    "source": "Delhi",
+    "destination": "Nainital",
+    "departureTime": "18:00",
+    "arrivalTime": "01:45",
+    "price": 1700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12825",
+    "name": "Gangtok Express",
+    "source": "Delhi",
+    "destination": "Gangtok",
+    "departureTime": "16:30",
+    "arrivalTime": "00:15",
+    "price": 2900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12827",
+    "name": "Hampi Express",
+    "source": "Delhi",
+    "destination": "Hampi",
+    "departureTime": "19:15",
+    "arrivalTime": "06:00",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12829",
+    "name": "Kanyakumari Express",
+    "source": "Delhi",
+    "destination": "Kanyakumari",
+    "departureTime": "22:00",
+    "arrivalTime": "18:45",
+    "price": 3200,
+    "type": "AC 1 Tier"
+  },
+  {
+    "trainNumber": "12831",
+    "name": "Rameshwaram Express",
+    "source": "Delhi",
+    "destination": "Rameshwaram",
+    "departureTime": "17:45",
+    "arrivalTime": "14:30",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12833",
+    "name": "Aurangabad Express",
+    "source": "Delhi",
+    "destination": "Aurangabad",
+    "departureTime": "20:30",
+    "arrivalTime": "17:15",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12835",
+    "name": "Leh Express",
+    "source": "Delhi",
+    "destination": "Leh",
+    "departureTime": "14:00",
+    "arrivalTime": "12:30",
+    "price": 3100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12802",
+    "name": "Bhopal Shatabdi",
+    "source": "Agra",
+    "destination": "Delhi",
+    "departureTime": "20:00",
+    "arrivalTime": "22:00",
+    "price": 1200,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "12804",
+    "name": "Ganga Kaveri Express",
+    "source": "Varanasi",
+    "destination": "Delhi",
+    "departureTime": "22:00",
+    "arrivalTime": "10:20",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12806",
+    "name": "Kalka Shatabdi",
+    "source": "Shimla",
+    "destination": "Delhi",
+    "departureTime": "14:45",
+    "arrivalTime": "20:00",
+    "price": 1500,
+    "type": "AC Executive"
+  },
+  {
+    "trainNumber": "12808",
+    "name": "Rishikesh Express",
+    "source": "Rishikesh",
+    "destination": "Delhi",
+    "departureTime": "08:00",
+    "arrivalTime": "14:45",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12810",
+    "name": "Haridwar Express",
+    "source": "Haridwar",
+    "destination": "Delhi",
+    "departureTime": "19:00",
+    "arrivalTime": "23:45",
+    "price": 1300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12812",
+    "name": "Puri Express",
+    "source": "Puri",
+    "destination": "Delhi",
+    "departureTime": "15:00",
+    "arrivalTime": "23:30",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12814",
+    "name": "Khajuraho Express",
+    "source": "Khajuraho",
+    "destination": "Delhi",
+    "departureTime": "18:00",
+    "arrivalTime": "06:45",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12816",
+    "name": "Udaipur Express",
+    "source": "Udaipur",
+    "destination": "Delhi",
+    "departureTime": "14:30",
+    "arrivalTime": "03:00",
+    "price": 2200,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12818",
+    "name": "Dwarka Express",
+    "source": "Dwarka",
+    "destination": "Delhi",
+    "departureTime": "11:00",
+    "arrivalTime": "09:30",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12820",
+    "name": "Manali Express",
+    "source": "Manali",
+    "destination": "Delhi",
+    "departureTime": "17:00",
+    "arrivalTime": "03:30",
+    "price": 1900,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12822",
+    "name": "Darjeeling Express",
+    "source": "Darjeeling",
+    "destination": "Delhi",
+    "departureTime": "16:00",
+    "arrivalTime": "23:45",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12824",
+    "name": "Nainital Express",
+    "source": "Nainital",
+    "destination": "Delhi",
+    "departureTime": "18:00",
+    "arrivalTime": "01:45",
+    "price": 1700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12826",
+    "name": "Gangtok Express",
+    "source": "Gangtok",
+    "destination": "Delhi",
+    "departureTime": "14:00",
+    "arrivalTime": "21:45",
+    "price": 2900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12828",
+    "name": "Hampi Express",
+    "source": "Hampi",
+    "destination": "Delhi",
+    "departureTime": "20:00",
+    "arrivalTime": "04:45",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12830",
+    "name": "Kanyakumari Express",
+    "source": "Kanyakumari",
+    "destination": "Delhi",
+    "departureTime": "10:00",
+    "arrivalTime": "06:45",
+    "price": 3200,
+    "type": "AC 1 Tier"
+  },
+  {
+    "trainNumber": "12832",
+    "name": "Rameshwaram Express",
+    "source": "Rameshwaram",
+    "destination": "Delhi",
+    "departureTime": "15:00",
+    "arrivalTime": "11:45",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12834",
+    "name": "Aurangabad Express",
+    "source": "Aurangabad",
+    "destination": "Delhi",
+    "departureTime": "19:00",
+    "arrivalTime": "15:45",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12901",
+    "name": "Konkan Kanya Express",
+    "source": "Mumbai",
+    "destination": "Goa",
+    "departureTime": "17:00",
+    "arrivalTime": "04:00",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12903",
+    "name": "Golden Temple Mail",
+    "source": "Mumbai",
+    "destination": "Amritsar",
+    "departureTime": "21:25",
+    "arrivalTime": "04:00",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12905",
+    "name": "Udaipur Express",
+    "source": "Mumbai",
+    "destination": "Udaipur",
+    "departureTime": "18:00",
+    "arrivalTime": "09:30",
+    "price": 1800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12907",
+    "name": "Hampi Express",
+    "source": "Mumbai",
+    "destination": "Hampi",
+    "departureTime": "22:00",
+    "arrivalTime": "12:45",
+    "price": 1700,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12909",
+    "name": "Khajuraho Express",
+    "source": "Mumbai",
+    "destination": "Khajuraho",
+    "departureTime": "16:30",
+    "arrivalTime": "13:15",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12911",
+    "name": "Aurangabad Express",
+    "source": "Mumbai",
+    "destination": "Aurangabad",
+    "departureTime": "14:00",
+    "arrivalTime": "20:45",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12913",
+    "name": "Dwarka Express",
+    "source": "Mumbai",
+    "destination": "Dwarka",
+    "departureTime": "19:00",
+    "arrivalTime": "12:30",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12915",
+    "name": "Rameshwaram Express",
+    "source": "Mumbai",
+    "destination": "Rameshwaram",
+    "departureTime": "17:30",
+    "arrivalTime": "23:15",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12917",
+    "name": "Kanyakumari Express",
+    "source": "Mumbai",
+    "destination": "Kanyakumari",
+    "departureTime": "20:00",
+    "arrivalTime": "04:45",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12919",
+    "name": "Puri Express",
+    "source": "Mumbai",
+    "destination": "Puri",
+    "departureTime": "15:00",
+    "arrivalTime": "22:30",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12921",
+    "name": "Manali Express",
+    "source": "Mumbai",
+    "destination": "Manali",
+    "departureTime": "18:45",
+    "arrivalTime": "16:00",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12923",
+    "name": "Darjeeling Express",
+    "source": "Mumbai",
+    "destination": "Darjeeling",
+    "departureTime": "16:00",
+    "arrivalTime": "00:45",
+    "price": 2900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12925",
+    "name": "Nainital Express",
+    "source": "Mumbai",
+    "destination": "Nainital",
+    "departureTime": "19:15",
+    "arrivalTime": "17:30",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12927",
+    "name": "Gangtok Express",
+    "source": "Mumbai",
+    "destination": "Gangtok",
+    "departureTime": "14:30",
+    "arrivalTime": "23:15",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12929",
+    "name": "Leh Express",
+    "source": "Mumbai",
+    "destination": "Leh",
+    "departureTime": "17:00",
+    "arrivalTime": "15:45",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12931",
+    "name": "Ooty Express",
+    "source": "Mumbai",
+    "destination": "Ooty",
+    "departureTime": "20:30",
+    "arrivalTime": "14:00",
+    "price": 2000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12933",
+    "name": "Shimla Express",
+    "source": "Mumbai",
+    "destination": "Shimla",
+    "departureTime": "16:45",
+    "arrivalTime": "13:30",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12935",
+    "name": "Rishikesh Express",
+    "source": "Mumbai",
+    "destination": "Rishikesh",
+    "departureTime": "18:00",
+    "arrivalTime": "15:45",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12902",
+    "name": "Konkan Kanya Express",
+    "source": "Goa",
+    "destination": "Mumbai",
+    "departureTime": "18:00",
+    "arrivalTime": "05:00",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12904",
+    "name": "Golden Temple Mail",
+    "source": "Amritsar",
+    "destination": "Mumbai",
+    "departureTime": "19:00",
+    "arrivalTime": "01:35",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12906",
+    "name": "Udaipur Express",
+    "source": "Udaipur",
+    "destination": "Mumbai",
+    "departureTime": "22:00",
+    "arrivalTime": "13:30",
+    "price": 1800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12908",
+    "name": "Hampi Express",
+    "source": "Hampi",
+    "destination": "Mumbai",
+    "departureTime": "15:00",
+    "arrivalTime": "05:45",
+    "price": 1700,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12910",
+    "name": "Khajuraho Express",
+    "source": "Khajuraho",
+    "destination": "Mumbai",
+    "departureTime": "18:00",
+    "arrivalTime": "14:45",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12912",
+    "name": "Aurangabad Express",
+    "source": "Aurangabad",
+    "destination": "Mumbai",
+    "departureTime": "20:00",
+    "arrivalTime": "02:45",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12914",
+    "name": "Dwarka Express",
+    "source": "Dwarka",
+    "destination": "Mumbai",
+    "departureTime": "17:00",
+    "arrivalTime": "10:30",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12916",
+    "name": "Rameshwaram Express",
+    "source": "Rameshwaram",
+    "destination": "Mumbai",
+    "departureTime": "19:00",
+    "arrivalTime": "00:45",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12918",
+    "name": "Kanyakumari Express",
+    "source": "Kanyakumari",
+    "destination": "Mumbai",
+    "departureTime": "14:00",
+    "arrivalTime": "22:45",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12920",
+    "name": "Puri Express",
+    "source": "Puri",
+    "destination": "Mumbai",
+    "departureTime": "18:00",
+    "arrivalTime": "01:30",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12922",
+    "name": "Manali Express",
+    "source": "Manali",
+    "destination": "Mumbai",
+    "departureTime": "16:00",
+    "arrivalTime": "13:15",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12924",
+    "name": "Darjeeling Express",
+    "source": "Darjeeling",
+    "destination": "Mumbai",
+    "departureTime": "14:00",
+    "arrivalTime": "22:45",
+    "price": 2900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12926",
+    "name": "Nainital Express",
+    "source": "Nainital",
+    "destination": "Mumbai",
+    "departureTime": "17:00",
+    "arrivalTime": "15:15",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12928",
+    "name": "Gangtok Express",
+    "source": "Gangtok",
+    "destination": "Mumbai",
+    "departureTime": "15:00",
+    "arrivalTime": "23:45",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "12930",
+    "name": "Leh Express",
+    "source": "Leh",
+    "destination": "Mumbai",
+    "departureTime": "10:00",
+    "arrivalTime": "08:45",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "12932",
+    "name": "Ooty Express",
+    "source": "Ooty",
+    "destination": "Mumbai",
+    "departureTime": "14:00",
+    "arrivalTime": "07:30",
+    "price": 2000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "12934",
+    "name": "Shimla Express",
+    "source": "Shimla",
+    "destination": "Mumbai",
+    "departureTime": "17:00",
+    "arrivalTime": "13:45",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13001",
+    "name": "Puri Express",
+    "source": "Kolkata",
+    "destination": "Puri",
+    "departureTime": "21:55",
+    "arrivalTime": "06:00",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13003",
+    "name": "Darjeeling Mail",
+    "source": "Kolkata",
+    "destination": "Darjeeling",
+    "departureTime": "20:00",
+    "arrivalTime": "10:45",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13005",
+    "name": "Gangtok Express",
+    "source": "Kolkata",
+    "destination": "Gangtok",
+    "departureTime": "18:30",
+    "arrivalTime": "09:15",
+    "price": 2000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13007",
+    "name": "Varanasi Express",
+    "source": "Kolkata",
+    "destination": "Varanasi",
+    "departureTime": "19:00",
+    "arrivalTime": "09:30",
+    "price": 1900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13009",
+    "name": "Rishikesh Express",
+    "source": "Kolkata",
+    "destination": "Rishikesh",
+    "departureTime": "16:00",
+    "arrivalTime": "20:45",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13011",
+    "name": "Haridwar Express",
+    "source": "Kolkata",
+    "destination": "Haridwar",
+    "departureTime": "15:30",
+    "arrivalTime": "19:15",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13013",
+    "name": "Nainital Express",
+    "source": "Kolkata",
+    "destination": "Nainital",
+    "departureTime": "17:00",
+    "arrivalTime": "22:30",
+    "price": 2100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13015",
+    "name": "Hampi Express",
+    "source": "Kolkata",
+    "destination": "Hampi",
+    "departureTime": "20:45",
+    "arrivalTime": "07:30",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13017",
+    "name": "Khajuraho Express",
+    "source": "Kolkata",
+    "destination": "Khajuraho",
+    "departureTime": "14:00",
+    "arrivalTime": "18:45",
+    "price": 2300,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13019",
+    "name": "Udaipur Express",
+    "source": "Kolkata",
+    "destination": "Udaipur",
+    "departureTime": "18:00",
+    "arrivalTime": "00:45",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13021",
+    "name": "Dwarka Express",
+    "source": "Kolkata",
+    "destination": "Dwarka",
+    "departureTime": "16:30",
+    "arrivalTime": "23:15",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13023",
+    "name": "Rameshwaram Express",
+    "source": "Kolkata",
+    "destination": "Rameshwaram",
+    "departureTime": "19:30",
+    "arrivalTime": "04:00",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13025",
+    "name": "Kanyakumari Express",
+    "source": "Kolkata",
+    "destination": "Kanyakumari",
+    "departureTime": "17:45",
+    "arrivalTime": "06:30",
+    "price": 2900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13027",
+    "name": "Manali Express",
+    "source": "Kolkata",
+    "destination": "Manali",
+    "departureTime": "20:00",
+    "arrivalTime": "03:45",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13029",
+    "name": "Leh Express",
+    "source": "Kolkata",
+    "destination": "Leh",
+    "departureTime": "15:00",
+    "arrivalTime": "22:30",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13031",
+    "name": "Ooty Express",
+    "source": "Kolkata",
+    "destination": "Ooty",
+    "departureTime": "18:45",
+    "arrivalTime": "07:15",
+    "price": 2500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13033",
+    "name": "Shimla Express",
+    "source": "Kolkata",
+    "destination": "Shimla",
+    "departureTime": "16:00",
+    "arrivalTime": "00:45",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13035",
+    "name": "Aurangabad Express",
+    "source": "Kolkata",
+    "destination": "Aurangabad",
+    "departureTime": "19:15",
+    "arrivalTime": "03:00",
+    "price": 2400,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13002",
+    "name": "Puri Express",
+    "source": "Puri",
+    "destination": "Kolkata",
+    "departureTime": "22:00",
+    "arrivalTime": "06:05",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13004",
+    "name": "Darjeeling Mail",
+    "source": "Darjeeling",
+    "destination": "Kolkata",
+    "departureTime": "17:00",
+    "arrivalTime": "07:45",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13006",
+    "name": "Gangtok Express",
+    "source": "Gangtok",
+    "destination": "Kolkata",
+    "departureTime": "15:00",
+    "arrivalTime": "05:45",
+    "price": 2000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13008",
+    "name": "Varanasi Express",
+    "source": "Varanasi",
+    "destination": "Kolkata",
+    "departureTime": "20:00",
+    "arrivalTime": "10:30",
+    "price": 1900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13010",
+    "name": "Rishikesh Express",
+    "source": "Rishikesh",
+    "destination": "Kolkata",
+    "departureTime": "18:00",
+    "arrivalTime": "22:45",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13012",
+    "name": "Haridwar Express",
+    "source": "Haridwar",
+    "destination": "Kolkata",
+    "departureTime": "17:00",
+    "arrivalTime": "21:45",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13014",
+    "name": "Nainital Express",
+    "source": "Nainital",
+    "destination": "Kolkata",
+    "departureTime": "19:00",
+    "arrivalTime": "00:30",
+    "price": 2100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13016",
+    "name": "Hampi Express",
+    "source": "Hampi",
+    "destination": "Kolkata",
+    "departureTime": "14:00",
+    "arrivalTime": "00:45",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13018",
+    "name": "Khajuraho Express",
+    "source": "Khajuraho",
+    "destination": "Kolkata",
+    "departureTime": "16:00",
+    "arrivalTime": "20:45",
+    "price": 2300,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13020",
+    "name": "Udaipur Express",
+    "source": "Udaipur",
+    "destination": "Kolkata",
+    "departureTime": "17:30",
+    "arrivalTime": "00:15",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13022",
+    "name": "Dwarka Express",
+    "source": "Dwarka",
+    "destination": "Kolkata",
+    "departureTime": "14:00",
+    "arrivalTime": "20:45",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13024",
+    "name": "Rameshwaram Express",
+    "source": "Rameshwaram",
+    "destination": "Kolkata",
+    "departureTime": "16:00",
+    "arrivalTime": "02:45",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13026",
+    "name": "Kanyakumari Express",
+    "source": "Kanyakumari",
+    "destination": "Kolkata",
+    "departureTime": "10:00",
+    "arrivalTime": "22:45",
+    "price": 2900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13028",
+    "name": "Manali Express",
+    "source": "Manali",
+    "destination": "Kolkata",
+    "departureTime": "17:00",
+    "arrivalTime": "00:30",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13030",
+    "name": "Leh Express",
+    "source": "Leh",
+    "destination": "Kolkata",
+    "departureTime": "14:00",
+    "arrivalTime": "21:45",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13032",
+    "name": "Ooty Express",
+    "source": "Ooty",
+    "destination": "Kolkata",
+    "departureTime": "15:00",
+    "arrivalTime": "03:45",
+    "price": 2500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13034",
+    "name": "Shimla Express",
+    "source": "Shimla",
+    "destination": "Kolkata",
+    "departureTime": "18:00",
+    "arrivalTime": "02:45",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13101",
+    "name": "Ooty Express",
+    "source": "Chennai",
+    "destination": "Ooty",
+    "departureTime": "20:00",
+    "arrivalTime": "04:45",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13103",
+    "name": "Rameshwaram Express",
+    "source": "Chennai",
+    "destination": "Rameshwaram",
+    "departureTime": "21:00",
+    "arrivalTime": "08:45",
+    "price": 1600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13105",
+    "name": "Kanyakumari Express",
+    "source": "Chennai",
+    "destination": "Kanyakumari",
+    "departureTime": "17:30",
+    "arrivalTime": "07:15",
+    "price": 1800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13107",
+    "name": "Puri Express",
+    "source": "Chennai",
+    "destination": "Puri",
+    "departureTime": "10:00",
+    "arrivalTime": "07:45",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13109",
+    "name": "Hampi Express",
+    "source": "Chennai",
+    "destination": "Hampi",
+    "departureTime": "14:00",
+    "arrivalTime": "04:30",
+    "price": 1700,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13111",
+    "name": "Khajuraho Express",
+    "source": "Chennai",
+    "destination": "Khajuraho",
+    "departureTime": "18:00",
+    "arrivalTime": "00:45",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13113",
+    "name": "Udaipur Express",
+    "source": "Chennai",
+    "destination": "Udaipur",
+    "departureTime": "16:30",
+    "arrivalTime": "03:15",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13115",
+    "name": "Dwarka Express",
+    "source": "Chennai",
+    "destination": "Dwarka",
+    "departureTime": "19:00",
+    "arrivalTime": "09:45",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13117",
+    "name": "Varanasi Express",
+    "source": "Chennai",
+    "destination": "Varanasi",
+    "departureTime": "13:00",
+    "arrivalTime": "23:30",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13119",
+    "name": "Rishikesh Express",
+    "source": "Chennai",
+    "destination": "Rishikesh",
+    "departureTime": "15:30",
+    "arrivalTime": "04:00",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13121",
+    "name": "Haridwar Express",
+    "source": "Chennai",
+    "destination": "Haridwar",
+    "departureTime": "17:00",
+    "arrivalTime": "07:45",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13123",
+    "name": "Manali Express",
+    "source": "Chennai",
+    "destination": "Manali",
+    "departureTime": "19:30",
+    "arrivalTime": "12:15",
+    "price": 2800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13125",
+    "name": "Darjeeling Express",
+    "source": "Chennai",
+    "destination": "Darjeeling",
+    "departureTime": "14:00",
+    "arrivalTime": "03:45",
+    "price": 2900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13127",
+    "name": "Nainital Express",
+    "source": "Chennai",
+    "destination": "Nainital",
+    "departureTime": "16:00",
+    "arrivalTime": "08:30",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13129",
+    "name": "Gangtok Express",
+    "source": "Chennai",
+    "destination": "Gangtok",
+    "departureTime": "18:45",
+    "arrivalTime": "12:15",
+    "price": 3000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13131",
+    "name": "Leh Express",
+    "source": "Chennai",
+    "destination": "Leh",
+    "departureTime": "15:00",
+    "arrivalTime": "09:45",
+    "price": 3100,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13133",
+    "name": "Shimla Express",
+    "source": "Chennai",
+    "destination": "Shimla",
+    "departureTime": "17:45",
+    "arrivalTime": "12:30",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13135",
+    "name": "Aurangabad Express",
+    "source": "Chennai",
+    "destination": "Aurangabad",
+    "departureTime": "20:00",
+    "arrivalTime": "10:45",
+    "price": 2000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13102",
+    "name": "Ooty Express",
+    "source": "Ooty",
+    "destination": "Chennai",
+    "departureTime": "14:00",
+    "arrivalTime": "22:45",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13104",
+    "name": "Rameshwaram Express",
+    "source": "Rameshwaram",
+    "destination": "Chennai",
+    "departureTime": "17:00",
+    "arrivalTime": "04:45",
+    "price": 1600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13106",
+    "name": "Kanyakumari Express",
+    "source": "Kanyakumari",
+    "destination": "Chennai",
+    "departureTime": "16:00",
+    "arrivalTime": "05:45",
+    "price": 1800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13108",
+    "name": "Puri Express",
+    "source": "Puri",
+    "destination": "Chennai",
+    "departureTime": "10:00",
+    "arrivalTime": "07:45",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13201",
+    "name": "Marathwada Express",
+    "source": "Pune",
+    "destination": "Lucknow",
+    "departureTime": "15:30",
+    "arrivalTime": "16:45",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13202",
+    "name": "Marathwada Express",
+    "source": "Lucknow",
+    "destination": "Pune",
+    "departureTime": "17:00",
+    "arrivalTime": "18:15",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13203",
+    "name": "Coromandel Express",
+    "source": "Hyderabad",
+    "destination": "Vadodara",
+    "departureTime": "21:00",
+    "arrivalTime": "17:30",
+    "price": 2000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13204",
+    "name": "Coromandel Express",
+    "source": "Vadodara",
+    "destination": "Hyderabad",
+    "departureTime": "19:15",
+    "arrivalTime": "15:45",
+    "price": 2000,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13205",
+    "name": "Raipur Duronto",
+    "source": "Kolkata",
+    "destination": "Raipur",
+    "departureTime": "14:00",
+    "arrivalTime": "06:30",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13206",
+    "name": "Raipur Duronto",
+    "source": "Raipur",
+    "destination": "Kolkata",
+    "departureTime": "15:45",
+    "arrivalTime": "08:15",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13207",
+    "name": "North East Express",
+    "source": "Guwahati",
+    "destination": "Mumbai",
+    "departureTime": "06:00",
+    "arrivalTime": "23:30",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13208",
+    "name": "North East Express",
+    "source": "Mumbai",
+    "destination": "Guwahati",
+    "departureTime": "07:30",
+    "arrivalTime": "01:00",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13209",
+    "name": "Deccan Queen",
+    "source": "Pune",
+    "destination": "Nagpur",
+    "departureTime": "08:15",
+    "arrivalTime": "22:00",
+    "price": 1800,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "13210",
+    "name": "Deccan Queen",
+    "source": "Nagpur",
+    "destination": "Pune",
+    "departureTime": "09:00",
+    "arrivalTime": "22:45",
+    "price": 1800,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "13211",
+    "name": "Gujarat Express",
+    "source": "Ahmedabad",
+    "destination": "Bhubaneswar",
+    "departureTime": "22:30",
+    "arrivalTime": "09:15",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13212",
+    "name": "Gujarat Express",
+    "source": "Bhubaneswar",
+    "destination": "Ahmedabad",
+    "departureTime": "20:00",
+    "arrivalTime": "06:45",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13213",
+    "name": "Southern Star",
+    "source": "Chennai",
+    "destination": "Visakhapatnam",
+    "departureTime": "16:45",
+    "arrivalTime": "06:30",
+    "price": 1600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13214",
+    "name": "Southern Star",
+    "source": "Visakhapatnam",
+    "destination": "Chennai",
+    "departureTime": "18:00",
+    "arrivalTime": "07:45",
+    "price": 1600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13215",
+    "name": "Kashi Express",
+    "source": "Kanpur",
+    "destination": "Indore",
+    "departureTime": "19:30",
+    "arrivalTime": "11:15",
+    "price": 1900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13216",
+    "name": "Kashi Express",
+    "source": "Indore",
+    "destination": "Kanpur",
+    "departureTime": "20:45",
+    "arrivalTime": "12:30",
+    "price": 1900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13217",
+    "name": "Punjab Mail",
+    "source": "Chandigarh",
+    "destination": "Trivandrum",
+    "departureTime": "07:00",
+    "arrivalTime": "10:30",
+    "price": 3100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13218",
+    "name": "Punjab Mail",
+    "source": "Trivandrum",
+    "destination": "Chandigarh",
+    "departureTime": "08:15",
+    "arrivalTime": "11:45",
+    "price": 3100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13219",
+    "name": "Rajkot Express",
+    "source": "Mumbai",
+    "destination": "Rajkot",
+    "departureTime": "23:00",
+    "arrivalTime": "12:15",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13220",
+    "name": "Rajkot Express",
+    "source": "Rajkot",
+    "destination": "Mumbai",
+    "departureTime": "22:30",
+    "arrivalTime": "11:45",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13221",
+    "name": "Bihar Sampark",
+    "source": "Patna",
+    "destination": "Coimbatore",
+    "departureTime": "20:00",
+    "arrivalTime": "18:30",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13222",
+    "name": "Bihar Sampark",
+    "source": "Coimbatore",
+    "destination": "Patna",
+    "departureTime": "19:15",
+    "arrivalTime": "17:45",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13223",
+    "name": "Madurai Superfast",
+    "source": "Hyderabad",
+    "destination": "Madurai",
+    "departureTime": "17:30",
+    "arrivalTime": "12:00",
+    "price": 1800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13224",
+    "name": "Madurai Superfast",
+    "source": "Madurai",
+    "destination": "Hyderabad",
+    "departureTime": "18:45",
+    "arrivalTime": "13:15",
+    "price": 1800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13225",
+    "name": "Vindhya Express",
+    "source": "Lucknow",
+    "destination": "Nagpur",
+    "departureTime": "21:45",
+    "arrivalTime": "12:30",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13226",
+    "name": "Vindhya Express",
+    "source": "Nagpur",
+    "destination": "Lucknow",
+    "departureTime": "20:00",
+    "arrivalTime": "10:45",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13227",
+    "name": "Saurashtra Mail",
+    "source": "Ahmedabad",
+    "destination": "Vijayawada",
+    "departureTime": "15:00",
+    "arrivalTime": "17:30",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13228",
+    "name": "Saurashtra Mail",
+    "source": "Vijayawada",
+    "destination": "Ahmedabad",
+    "departureTime": "16:15",
+    "arrivalTime": "18:45",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13229",
+    "name": "Chhattisgarh Express",
+    "source": "Raipur",
+    "destination": "Visakhapatnam",
+    "departureTime": "19:00",
+    "arrivalTime": "07:45",
+    "price": 1500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13230",
+    "name": "Chhattisgarh Express",
+    "source": "Visakhapatnam",
+    "destination": "Raipur",
+    "departureTime": "20:30",
+    "arrivalTime": "09:15",
+    "price": 1500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13231",
+    "name": "Himalayan Queen",
+    "source": "Chandigarh",
+    "destination": "Kolkata",
+    "departureTime": "06:30",
+    "arrivalTime": "12:00",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13232",
+    "name": "Himalayan Queen",
+    "source": "Kolkata",
+    "destination": "Chandigarh",
+    "departureTime": "07:45",
+    "arrivalTime": "13:15",
+    "price": 2600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13233",
+    "name": "Andhra Express",
+    "source": "Bengaluru",
+    "destination": "Vijayawada",
+    "departureTime": "17:00",
+    "arrivalTime": "06:30",
+    "price": 1600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13234",
+    "name": "Andhra Express",
+    "source": "Vijayawada",
+    "destination": "Bengaluru",
+    "departureTime": "18:15",
+    "arrivalTime": "07:45",
+    "price": 1600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13235",
+    "name": "Konkan Express",
+    "source": "Pune",
+    "destination": "Trivandrum",
+    "departureTime": "16:00",
+    "arrivalTime": "22:30",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13236",
+    "name": "Konkan Express",
+    "source": "Trivandrum",
+    "destination": "Pune",
+    "departureTime": "17:30",
+    "arrivalTime": "00:00",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13237",
+    "name": "Ganga Sagar Express",
+    "source": "Patna",
+    "destination": "Ahmedabad",
+    "departureTime": "20:45",
+    "arrivalTime": "03:15",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13238",
+    "name": "Ganga Sagar Express",
+    "source": "Ahmedabad",
+    "destination": "Patna",
+    "departureTime": "19:00",
+    "arrivalTime": "01:30",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13239",
+    "name": "Malwa Express",
+    "source": "Indore",
+    "destination": "Coimbatore",
+    "departureTime": "14:30",
+    "arrivalTime": "22:00",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13240",
+    "name": "Malwa Express",
+    "source": "Coimbatore",
+    "destination": "Indore",
+    "departureTime": "15:45",
+    "arrivalTime": "23:15",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13241",
+    "name": "East Coast Express",
+    "source": "Hyderabad",
+    "destination": "Bhubaneswar",
+    "departureTime": "16:30",
+    "arrivalTime": "12:45",
+    "price": 2000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13242",
+    "name": "East Coast Express",
+    "source": "Bhubaneswar",
+    "destination": "Hyderabad",
+    "departureTime": "17:45",
+    "arrivalTime": "14:00",
+    "price": 2000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13243",
+    "name": "Garib Rath",
+    "source": "Kolkata",
+    "destination": "Nagpur",
+    "departureTime": "18:00",
+    "arrivalTime": "11:30",
+    "price": 1700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13244",
+    "name": "Garib Rath",
+    "source": "Nagpur",
+    "destination": "Kolkata",
+    "departureTime": "19:15",
+    "arrivalTime": "12:45",
+    "price": 1700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13245",
+    "name": "Western Express",
+    "source": "Mumbai",
+    "destination": "Vadodara",
+    "departureTime": "07:00",
+    "arrivalTime": "13:45",
+    "price": 1200,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "13246",
+    "name": "Western Express",
+    "source": "Vadodara",
+    "destination": "Mumbai",
+    "departureTime": "08:15",
+    "arrivalTime": "15:00",
+    "price": 1200,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "13247",
+    "name": "Avadh Express",
+    "source": "Lucknow",
+    "destination": "Chennai",
+    "departureTime": "16:45",
+    "arrivalTime": "06:30",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13248",
+    "name": "Avadh Express",
+    "source": "Chennai",
+    "destination": "Lucknow",
+    "departureTime": "15:30",
+    "arrivalTime": "05:15",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13249",
+    "name": "Falaknuma Express",
+    "source": "Hyderabad",
+    "destination": "Visakhapatnam",
+    "departureTime": "22:15",
+    "arrivalTime": "10:00",
+    "price": 1500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13250",
+    "name": "Falaknuma Express",
+    "source": "Visakhapatnam",
+    "destination": "Hyderabad",
+    "departureTime": "21:00",
+    "arrivalTime": "08:45",
+    "price": 1500,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13251",
+    "name": "Kamrup Express",
+    "source": "Guwahati",
+    "destination": "Chandigarh",
+    "departureTime": "05:00",
+    "arrivalTime": "20:30",
+    "price": 2900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13252",
+    "name": "Kamrup Express",
+    "source": "Chandigarh",
+    "destination": "Guwahati",
+    "departureTime": "06:15",
+    "arrivalTime": "21:45",
+    "price": 2900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13253",
+    "name": "Godavari Express",
+    "source": "Pune",
+    "destination": "Visakhapatnam",
+    "departureTime": "14:30",
+    "arrivalTime": "16:00",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13254",
+    "name": "Godavari Express",
+    "source": "Visakhapatnam",
+    "destination": "Pune",
+    "departureTime": "15:45",
+    "arrivalTime": "17:15",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13255",
+    "name": "Saryu Yamuna Express",
+    "source": "Patna",
+    "destination": "Mumbai",
+    "departureTime": "07:30",
+    "arrivalTime": "14:00",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13256",
+    "name": "Saryu Yamuna Express",
+    "source": "Mumbai",
+    "destination": "Patna",
+    "departureTime": "08:45",
+    "arrivalTime": "15:15",
+    "price": 2500,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13257",
+    "name": "Tapti Ganga Express",
+    "source": "Kanpur",
+    "destination": "Coimbatore",
+    "departureTime": "19:00",
+    "arrivalTime": "12:30",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13258",
+    "name": "Tapti Ganga Express",
+    "source": "Coimbatore",
+    "destination": "Kanpur",
+    "departureTime": "20:15",
+    "arrivalTime": "13:45",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13259",
+    "name": "Navjeevan Express",
+    "source": "Ahmedabad",
+    "destination": "Chennai",
+    "departureTime": "06:30",
+    "arrivalTime": "14:00",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13260",
+    "name": "Navjeevan Express",
+    "source": "Chennai",
+    "destination": "Ahmedabad",
+    "departureTime": "07:45",
+    "arrivalTime": "15:15",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13261",
+    "name": "Bagmati Express",
+    "source": "Bengaluru",
+    "destination": "Patna",
+    "departureTime": "20:00",
+    "arrivalTime": "18:30",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13262",
+    "name": "Bagmati Express",
+    "source": "Patna",
+    "destination": "Bengaluru",
+    "departureTime": "19:15",
+    "arrivalTime": "17:45",
+    "price": 2800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13263",
+    "name": "Dibrugarh Express",
+    "source": "Guwahati",
+    "destination": "Kolkata",
+    "departureTime": "05:30",
+    "arrivalTime": "23:00",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13264",
+    "name": "Dibrugarh Express",
+    "source": "Kolkata",
+    "destination": "Guwahati",
+    "departureTime": "06:45",
+    "arrivalTime": "00:15",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13265",
+    "name": "Humsafar Express",
+    "source": "Indore",
+    "destination": "Visakhapatnam",
+    "departureTime": "16:00",
+    "arrivalTime": "19:30",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13266",
+    "name": "Humsafar Express",
+    "source": "Visakhapatnam",
+    "destination": "Indore",
+    "departureTime": "17:15",
+    "arrivalTime": "20:45",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13267",
+    "name": "Shanti Express",
+    "source": "Mumbai",
+    "destination": "Bhubaneswar",
+    "departureTime": "22:00",
+    "arrivalTime": "06:30",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13268",
+    "name": "Shanti Express",
+    "source": "Bhubaneswar",
+    "destination": "Mumbai",
+    "departureTime": "20:30",
+    "arrivalTime": "05:00",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13269",
+    "name": "Sabarmati Express",
+    "source": "Ahmedabad",
+    "destination": "Lucknow",
+    "departureTime": "14:45",
+    "arrivalTime": "13:15",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13270",
+    "name": "Sabarmati Express",
+    "source": "Lucknow",
+    "destination": "Ahmedabad",
+    "departureTime": "16:00",
+    "arrivalTime": "14:30",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13271",
+    "name": "Krishna Express",
+    "source": "Hyderabad",
+    "destination": "Nagpur",
+    "departureTime": "21:30",
+    "arrivalTime": "09:45",
+    "price": 1600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13272",
+    "name": "Krishna Express",
+    "source": "Nagpur",
+    "destination": "Hyderabad",
+    "departureTime": "22:45",
+    "arrivalTime": "11:00",
+    "price": 1600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13273",
+    "name": "Poorva Express",
+    "source": "Kolkata",
+    "destination": "Pune",
+    "departureTime": "08:15",
+    "arrivalTime": "17:30",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13274",
+    "name": "Poorva Express",
+    "source": "Pune",
+    "destination": "Kolkata",
+    "departureTime": "09:30",
+    "arrivalTime": "18:45",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13275",
+    "name": "Cheran Express",
+    "source": "Chennai",
+    "destination": "Coimbatore",
+    "departureTime": "20:00",
+    "arrivalTime": "03:45",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13276",
+    "name": "Cheran Express",
+    "source": "Coimbatore",
+    "destination": "Chennai",
+    "departureTime": "21:15",
+    "arrivalTime": "05:00",
+    "price": 1200,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13277",
+    "name": "Brahmaputra Mail",
+    "source": "Guwahati",
+    "destination": "Hyderabad",
+    "departureTime": "13:00",
+    "arrivalTime": "22:30",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13278",
+    "name": "Brahmaputra Mail",
+    "source": "Hyderabad",
+    "destination": "Guwahati",
+    "departureTime": "14:15",
+    "arrivalTime": "23:45",
+    "price": 2700,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13279",
+    "name": "Okha Express",
+    "source": "Rajkot",
+    "destination": "Trivandrum",
+    "departureTime": "15:30",
+    "arrivalTime": "04:00",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13280",
+    "name": "Okha Express",
+    "source": "Trivandrum",
+    "destination": "Rajkot",
+    "departureTime": "16:45",
+    "arrivalTime": "05:15",
+    "price": 2500,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13281",
+    "name": "Pushpak Express",
+    "source": "Lucknow",
+    "destination": "Mumbai",
+    "departureTime": "15:00",
+    "arrivalTime": "14:30",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13282",
+    "name": "Pushpak Express",
+    "source": "Mumbai",
+    "destination": "Lucknow",
+    "departureTime": "16:15",
+    "arrivalTime": "15:45",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13283",
+    "name": "Azad Hind Express",
+    "source": "Pune",
+    "destination": "Kolkata",
+    "departureTime": "18:25",
+    "arrivalTime": "03:45",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13284",
+    "name": "Azad Hind Express",
+    "source": "Kolkata",
+    "destination": "Pune",
+    "departureTime": "19:40",
+    "arrivalTime": "05:00",
+    "price": 2600,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13285",
+    "name": "Mangala Express",
+    "source": "Chandigarh",
+    "destination": "Coimbatore",
+    "departureTime": "09:00",
+    "arrivalTime": "20:30",
+    "price": 2900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13286",
+    "name": "Mangala Express",
+    "source": "Coimbatore",
+    "destination": "Chandigarh",
+    "departureTime": "10:15",
+    "arrivalTime": "21:45",
+    "price": 2900,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13287",
+    "name": "Simhadri Express",
+    "source": "Visakhapatnam",
+    "destination": "Nagpur",
+    "departureTime": "07:00",
+    "arrivalTime": "23:30",
+    "price": 1800,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13288",
+    "name": "Simhadri Express",
+    "source": "Nagpur",
+    "destination": "Visakhapatnam",
+    "departureTime": "08:15",
+    "arrivalTime": "00:45",
+    "price": 1800,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13289",
+    "name": "Kaveri Express",
+    "source": "Chennai",
+    "destination": "Madurai",
+    "departureTime": "21:00",
+    "arrivalTime": "05:45",
+    "price": 1400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13290",
+    "name": "Kaveri Express",
+    "source": "Madurai",
+    "destination": "Chennai",
+    "departureTime": "20:30",
+    "arrivalTime": "05:15",
+    "price": 1400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13291",
+    "name": "Gondwana Express",
+    "source": "Raipur",
+    "destination": "Indore",
+    "departureTime": "17:30",
+    "arrivalTime": "09:45",
+    "price": 1900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13292",
+    "name": "Gondwana Express",
+    "source": "Indore",
+    "destination": "Raipur",
+    "departureTime": "18:45",
+    "arrivalTime": "11:00",
+    "price": 1900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13293",
+    "name": "Sutlej Express",
+    "source": "Chandigarh",
+    "destination": "Lucknow",
+    "departureTime": "17:00",
+    "arrivalTime": "05:30",
+    "price": 1600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13294",
+    "name": "Sutlej Express",
+    "source": "Lucknow",
+    "destination": "Chandigarh",
+    "departureTime": "18:15",
+    "arrivalTime": "06:45",
+    "price": 1600,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13295",
+    "name": "Janmabhoomi Express",
+    "source": "Visakhapatnam",
+    "destination": "Trivandrum",
+    "departureTime": "06:00",
+    "arrivalTime": "12:30",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13296",
+    "name": "Janmabhoomi Express",
+    "source": "Trivandrum",
+    "destination": "Visakhapatnam",
+    "departureTime": "07:15",
+    "arrivalTime": "13:45",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13297",
+    "name": "Sampoorna Kranti",
+    "source": "Patna",
+    "destination": "Kolkata",
+    "departureTime": "14:00",
+    "arrivalTime": "23:15",
+    "price": 1400,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13298",
+    "name": "Sampoorna Kranti",
+    "source": "Kolkata",
+    "destination": "Patna",
+    "departureTime": "15:15",
+    "arrivalTime": "00:30",
+    "price": 1400,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13299",
+    "name": "Ashram Express",
+    "source": "Ahmedabad",
+    "destination": "Mumbai",
+    "departureTime": "18:30",
+    "arrivalTime": "02:45",
+    "price": 1200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13300",
+    "name": "Ashram Express",
+    "source": "Mumbai",
+    "destination": "Ahmedabad",
+    "departureTime": "19:45",
+    "arrivalTime": "04:00",
+    "price": 1200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13301",
+    "name": "Vivekananda Express",
+    "source": "Chennai",
+    "destination": "Trivandrum",
+    "departureTime": "15:00",
+    "arrivalTime": "07:45",
+    "price": 1800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13302",
+    "name": "Vivekananda Express",
+    "source": "Trivandrum",
+    "destination": "Chennai",
+    "departureTime": "16:15",
+    "arrivalTime": "09:00",
+    "price": 1800,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13303",
+    "name": "Kushinagar Express",
+    "source": "Kanpur",
+    "destination": "Mumbai",
+    "departureTime": "17:30",
+    "arrivalTime": "19:00",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13304",
+    "name": "Kushinagar Express",
+    "source": "Mumbai",
+    "destination": "Kanpur",
+    "departureTime": "18:45",
+    "arrivalTime": "20:15",
+    "price": 2300,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13305",
+    "name": "Dakshin Express",
+    "source": "Hyderabad",
+    "destination": "Coimbatore",
+    "departureTime": "21:00",
+    "arrivalTime": "13:45",
+    "price": 1900,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13306",
+    "name": "Dakshin Express",
+    "source": "Coimbatore",
+    "destination": "Hyderabad",
+    "departureTime": "20:30",
+    "arrivalTime": "13:15",
+    "price": 1900,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13307",
+    "name": "Padmavati Express",
+    "source": "Pune",
+    "destination": "Madurai",
+    "departureTime": "16:00",
+    "arrivalTime": "19:30",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13308",
+    "name": "Padmavati Express",
+    "source": "Madurai",
+    "destination": "Pune",
+    "departureTime": "17:15",
+    "arrivalTime": "20:45",
+    "price": 2200,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13309",
+    "name": "Bikaner Express",
+    "source": "Kolkata",
+    "destination": "Ahmedabad",
+    "departureTime": "14:30",
+    "arrivalTime": "03:00",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13310",
+    "name": "Bikaner Express",
+    "source": "Ahmedabad",
+    "destination": "Kolkata",
+    "departureTime": "15:45",
+    "arrivalTime": "04:15",
+    "price": 2700,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13311",
+    "name": "Kalinga Utkal Express",
+    "source": "Bhubaneswar",
+    "destination": "Lucknow",
+    "departureTime": "19:00",
+    "arrivalTime": "22:30",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13312",
+    "name": "Kalinga Utkal Express",
+    "source": "Lucknow",
+    "destination": "Bhubaneswar",
+    "departureTime": "20:15",
+    "arrivalTime": "23:45",
+    "price": 2400,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13313",
+    "name": "Pinakini Express",
+    "source": "Chennai",
+    "destination": "Vijayawada",
+    "departureTime": "14:00",
+    "arrivalTime": "21:15",
+    "price": 1200,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "13314",
+    "name": "Pinakini Express",
+    "source": "Vijayawada",
+    "destination": "Chennai",
+    "departureTime": "15:15",
+    "arrivalTime": "22:30",
+    "price": 1200,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "13315",
+    "name": "Sadbhavna Express",
+    "source": "Patna",
+    "destination": "Indore",
+    "departureTime": "16:30",
+    "arrivalTime": "19:00",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13316",
+    "name": "Sadbhavna Express",
+    "source": "Indore",
+    "destination": "Patna",
+    "departureTime": "17:45",
+    "arrivalTime": "20:15",
+    "price": 2300,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13317",
+    "name": "Himsagar Express",
+    "source": "Chandigarh",
+    "destination": "Madurai",
+    "departureTime": "04:00",
+    "arrivalTime": "16:30",
+    "price": 3000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13318",
+    "name": "Himsagar Express",
+    "source": "Madurai",
+    "destination": "Chandigarh",
+    "departureTime": "05:15",
+    "arrivalTime": "17:45",
+    "price": 3000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13319",
+    "name": "Duronto Express",
+    "source": "Mumbai",
+    "destination": "Hyderabad",
+    "departureTime": "23:15",
+    "arrivalTime": "11:00",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13320",
+    "name": "Duronto Express",
+    "source": "Hyderabad",
+    "destination": "Mumbai",
+    "departureTime": "22:30",
+    "arrivalTime": "10:15",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13321",
+    "name": "Vikramshila Express",
+    "source": "Patna",
+    "destination": "Bhubaneswar",
+    "departureTime": "20:30",
+    "arrivalTime": "12:45",
+    "price": 1900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13322",
+    "name": "Vikramshila Express",
+    "source": "Bhubaneswar",
+    "destination": "Patna",
+    "departureTime": "21:45",
+    "arrivalTime": "14:00",
+    "price": 1900,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13323",
+    "name": "Sayaji Nagari Express",
+    "source": "Ahmedabad",
+    "destination": "Nagpur",
+    "departureTime": "17:00",
+    "arrivalTime": "09:30",
+    "price": 2000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13324",
+    "name": "Sayaji Nagari Express",
+    "source": "Nagpur",
+    "destination": "Ahmedabad",
+    "departureTime": "18:15",
+    "arrivalTime": "10:45",
+    "price": 2000,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13325",
+    "name": "Andaman Express",
+    "source": "Chennai",
+    "destination": "Visakhapatnam",
+    "departureTime": "15:15",
+    "arrivalTime": "05:00",
+    "price": 1600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13326",
+    "name": "Andaman Express",
+    "source": "Visakhapatnam",
+    "destination": "Chennai",
+    "departureTime": "16:30",
+    "arrivalTime": "06:15",
+    "price": 1600,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13327",
+    "name": "Satyagrah Express",
+    "source": "Lucknow",
+    "destination": "Raipur",
+    "departureTime": "19:30",
+    "arrivalTime": "13:45",
+    "price": 2100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13328",
+    "name": "Satyagrah Express",
+    "source": "Raipur",
+    "destination": "Lucknow",
+    "departureTime": "20:45",
+    "arrivalTime": "15:00",
+    "price": 2100,
+    "type": "AC 2 Tier"
+  },
+  {
+    "trainNumber": "13329",
+    "name": "Karnavati Express",
+    "source": "Ahmedabad",
+    "destination": "Mumbai",
+    "departureTime": "14:00",
+    "arrivalTime": "21:15",
+    "price": 1200,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "13330",
+    "name": "Karnavati Express",
+    "source": "Mumbai",
+    "destination": "Ahmedabad",
+    "departureTime": "15:15",
+    "arrivalTime": "22:30",
+    "price": 1200,
+    "type": "AC Chair Car"
+  },
+  {
+    "trainNumber": "13331",
+    "name": "Northeast Express",
+    "source": "Guwahati",
+    "destination": "Patna",
+    "departureTime": "08:00",
+    "arrivalTime": "03:45",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13332",
+    "name": "Northeast Express",
+    "source": "Patna",
+    "destination": "Guwahati",
+    "departureTime": "09:15",
+    "arrivalTime": "05:00",
+    "price": 2000,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13333",
+    "name": "Alleppey Express",
+    "source": "Trivandrum",
+    "destination": "Coimbatore",
+    "departureTime": "14:30",
+    "arrivalTime": "22:00",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13334",
+    "name": "Alleppey Express",
+    "source": "Coimbatore",
+    "destination": "Trivandrum",
+    "departureTime": "15:45",
+    "arrivalTime": "23:15",
+    "price": 1400,
+    "type": "Sleeper"
+  },
+  {
+    "trainNumber": "13335",
+    "name": "Sangam Express",
+    "source": "Kanpur",
+    "destination": "Nagpur",
+    "departureTime": "18:00",
+    "arrivalTime": "09:30",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  },
+  {
+    "trainNumber": "13336",
+    "name": "Sangam Express",
+    "source": "Nagpur",
+    "destination": "Kanpur",
+    "departureTime": "19:15",
+    "arrivalTime": "10:45",
+    "price": 1800,
+    "type": "AC 3 Tier"
+  }
+]
+
+  

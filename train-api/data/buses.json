@@ -1,0 +1,6502 @@
+[
+  {
+        "busNumber": "BA5978",
+        "operator": "KSRTC",
+        "source": [
+          "Bengaluru",
+          "Bangalore"
+        ],
+        "destination": [
+          "Mysuru",
+          "Mysore"
+        ],
+        "departureTime": "14:30",
+        "arrivalTime": "21:00",
+        "price": 1736,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA5978R",
+        "operator": "KSRTC",
+        "source": [
+          "Mysuru",
+          "Mysore"
+        ],
+        "destination": [
+          "Bengaluru",
+          "Bangalore"
+        ],
+        "departureTime": "14:30",
+        "arrivalTime": "21:00",
+        "price": 1736,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA4728",
+        "operator": "KSRTC",
+        "source": [
+          "Bengaluru",
+          "Bangalore"
+        ],
+        "destination": [
+          "Mysuru",
+          "Mysore"
+        ],
+        "departureTime": "14:00",
+        "arrivalTime": "21:30",
+        "price": 1615,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA4728R",
+        "operator": "KSRTC",
+        "source": [
+          "Mysuru",
+          "Mysore"
+        ],
+        "destination": [
+          "Bengaluru",
+          "Bangalore"
+        ],
+        "departureTime": "14:00",
+        "arrivalTime": "21:30",
+        "price": 1615,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "VI9937",
+        "operator": "Seabird",
+        "source": [
+          "Vijayawada"
+        ],
+        "destination": [
+          "Guntur"
+        ],
+        "departureTime": "08:30",
+        "arrivalTime": "20:30",
+        "price": 1406,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "VI9937R",
+        "operator": "Seabird",
+        "source": [
+          "Guntur"
+        ],
+        "destination": [
+          "Vijayawada"
+        ],
+        "departureTime": "08:30",
+        "arrivalTime": "20:30",
+        "price": 1406,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "VI8878",
+        "operator": "KSRTC",
+        "source": [
+          "Vijayawada"
+        ],
+        "destination": [
+          "Guntur"
+        ],
+        "departureTime": "20:30",
+        "arrivalTime": "10:30",
+        "price": 1972,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "VI8878R",
+        "operator": "KSRTC",
+        "source": [
+          "Guntur"
+        ],
+        "destination": [
+          "Vijayawada"
+        ],
+        "departureTime": "20:30",
+        "arrivalTime": "10:30",
+        "price": 1972,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "VI2723",
+        "operator": "Seabird",
+        "source": [
+          "Vijayawada"
+        ],
+        "destination": [
+          "Guntur"
+        ],
+        "departureTime": "12:15",
+        "arrivalTime": "22:15",
+        "price": 879,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "VI2723R",
+        "operator": "Seabird",
+        "source": [
+          "Guntur"
+        ],
+        "destination": [
+          "Vijayawada"
+        ],
+        "departureTime": "12:15",
+        "arrivalTime": "22:15",
+        "price": 879,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "VI1171",
+        "operator": "Sugama",
+        "source": [
+          "Vijayawada"
+        ],
+        "destination": [
+          "Guntur"
+        ],
+        "departureTime": "12:00",
+        "arrivalTime": "21:00",
+        "price": 1977,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "VI1171R",
+        "operator": "Sugama",
+        "source": [
+          "Guntur"
+        ],
+        "destination": [
+          "Vijayawada"
+        ],
+        "departureTime": "12:00",
+        "arrivalTime": "21:00",
+        "price": 1977,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "VI1636",
+        "operator": "Seabird",
+        "source": [
+          "Visakhapatnam"
+        ],
+        "destination": [
+          "Rajahmundry"
+        ],
+        "departureTime": "18:30",
+        "arrivalTime": "22:30",
+        "price": 1744,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "VI1636R",
+        "operator": "Seabird",
+        "source": [
+          "Rajahmundry"
+        ],
+        "destination": [
+          "Visakhapatnam"
+        ],
+        "departureTime": "18:30",
+        "arrivalTime": "22:30",
+        "price": 1744,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "VI2554",
+        "operator": "Orange Travels",
+        "source": [
+          "Visakhapatnam"
+        ],
+        "destination": [
+          "Rajahmundry"
+        ],
+        "departureTime": "12:15",
+        "arrivalTime": "23:45",
+        "price": 1355,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "VI2554R",
+        "operator": "Orange Travels",
+        "source": [
+          "Rajahmundry"
+        ],
+        "destination": [
+          "Visakhapatnam"
+        ],
+        "departureTime": "12:15",
+        "arrivalTime": "23:45",
+        "price": 1355,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "VI3436",
+        "operator": "SRS Travels",
+        "source": [
+          "Visakhapatnam"
+        ],
+        "destination": [
+          "Rajahmundry"
+        ],
+        "departureTime": "18:30",
+        "arrivalTime": "22:30",
+        "price": 1193,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "VI3436R",
+        "operator": "SRS Travels",
+        "source": [
+          "Rajahmundry"
+        ],
+        "destination": [
+          "Visakhapatnam"
+        ],
+        "departureTime": "18:30",
+        "arrivalTime": "22:30",
+        "price": 1193,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "VI7311",
+        "operator": "Sugama",
+        "source": [
+          "Visakhapatnam"
+        ],
+        "destination": [
+          "Rajahmundry"
+        ],
+        "departureTime": "13:30",
+        "arrivalTime": "23:30",
+        "price": 447,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "TI3926",
+        "operator": "KSRTC",
+        "source": [
+          "Tirupati"
+        ],
+        "destination": [
+          "Nellore"
+        ],
+        "departureTime": "08:30",
+        "arrivalTime": "12:30",
+        "price": 1200,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TI8487",
+        "operator": "SRS Travels",
+        "source": "Tirupati",
+        "destination": "Nellore",
+        "departureTime": "15:00",
+        "arrivalTime": "05:00",
+        "price": 1215,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "TI3250",
+        "operator": "Sugama",
+        "source": "Tirupati",
+        "destination": "Nellore",
+        "departureTime": "10:15",
+        "arrivalTime": "14:15",
+        "price": 693,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "TI6559",
+        "operator": "Sugama",
+        "source": "Tirupati",
+        "destination": "Nellore",
+        "departureTime": "11:00",
+        "arrivalTime": "19:00",
+        "price": 1720,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "KU8972",
+        "operator": "VRL Travels",
+        "source": "Kurnool",
+        "destination": "Anantapur",
+        "departureTime": "19:00",
+        "arrivalTime": "04:30",
+        "price": 532,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KU8408",
+        "operator": "VRL Travels",
+        "source": "Kurnool",
+        "destination": "Anantapur",
+        "departureTime": "12:30",
+        "arrivalTime": "22:30",
+        "price": 1101,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KU1341",
+        "operator": "Sugama",
+        "source": "Kurnool",
+        "destination": "Anantapur",
+        "departureTime": "13:15",
+        "arrivalTime": "18:15",
+        "price": 1769,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KU2792",
+        "operator": "SRS Travels",
+        "source": "Kurnool",
+        "destination": "Anantapur",
+        "departureTime": "20:15",
+        "arrivalTime": "10:15",
+        "price": 1017,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "VI1035",
+        "operator": "VRL Travels",
+        "source": "Vijayawada",
+        "destination": "Eluru",
+        "departureTime": "12:00",
+        "arrivalTime": "15:30",
+        "price": 1630,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "VI5744",
+        "operator": "Sugama",
+        "source": "Vijayawada",
+        "destination": "Eluru",
+        "departureTime": "20:15",
+        "arrivalTime": "02:45",
+        "price": 686,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "VI5128",
+        "operator": "SRS Travels",
+        "source": "Vijayawada",
+        "destination": "Eluru",
+        "departureTime": "19:30",
+        "arrivalTime": "09:30",
+        "price": 1715,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "VI6984",
+        "operator": "Orange Travels",
+        "source": "Vijayawada",
+        "destination": "Eluru",
+        "departureTime": "12:45",
+        "arrivalTime": "20:45",
+        "price": 1503,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "GU1856",
+        "operator": "VRL Travels",
+        "source": "Guntur",
+        "destination": "Tenali",
+        "departureTime": "13:45",
+        "arrivalTime": "22:15",
+        "price": 399,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "GU5381",
+        "operator": "Seabird",
+        "source": "Guntur",
+        "destination": "Tenali",
+        "departureTime": "19:45",
+        "arrivalTime": "23:15",
+        "price": 432,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "GU8827",
+        "operator": "Orange Travels",
+        "source": "Guntur",
+        "destination": "Tenali",
+        "departureTime": "07:45",
+        "arrivalTime": "15:15",
+        "price": 1688,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "GU4127",
+        "operator": "SRS Travels",
+        "source": "Guntur",
+        "destination": "Tenali",
+        "departureTime": "09:45",
+        "arrivalTime": "14:15",
+        "price": 653,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "CH5153",
+        "operator": "SRS Travels",
+        "source": "Chittoor",
+        "destination": "Tirupati",
+        "departureTime": "10:45",
+        "arrivalTime": "19:15",
+        "price": 503,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "CH6677",
+        "operator": "SRS Travels",
+        "source": "Chittoor",
+        "destination": "Tirupati",
+        "departureTime": "10:00",
+        "arrivalTime": "18:00",
+        "price": 1454,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "CH4324",
+        "operator": "SRS Travels",
+        "source": "Chittoor",
+        "destination": "Tirupati",
+        "departureTime": "15:00",
+        "arrivalTime": "23:00",
+        "price": 1438,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "CH6488",
+        "operator": "VRL Travels",
+        "source": "Chittoor",
+        "destination": "Tirupati",
+        "departureTime": "15:45",
+        "arrivalTime": "22:15",
+        "price": 1244,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "SR5313",
+        "operator": "Orange Travels",
+        "source": "Srikakulam",
+        "destination": "Vizianagaram",
+        "departureTime": "16:15",
+        "arrivalTime": "04:15",
+        "price": 1716,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "SR9768",
+        "operator": "KSRTC",
+        "source": "Srikakulam",
+        "destination": "Vizianagaram",
+        "departureTime": "13:00",
+        "arrivalTime": "23:30",
+        "price": 2000,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "SR3372",
+        "operator": "KSRTC",
+        "source": "Srikakulam",
+        "destination": "Vizianagaram",
+        "departureTime": "10:15",
+        "arrivalTime": "16:15",
+        "price": 1530,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "SR3360",
+        "operator": "SRS Travels",
+        "source": "Srikakulam",
+        "destination": "Vizianagaram",
+        "departureTime": "21:15",
+        "arrivalTime": "04:45",
+        "price": 739,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "KA4925",
+        "operator": "KSRTC",
+        "source": "Kadapa",
+        "destination": "Proddatur",
+        "departureTime": "17:30",
+        "arrivalTime": "05:30",
+        "price": 1897,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KA7168",
+        "operator": "SRS Travels",
+        "source": "Kadapa",
+        "destination": "Proddatur",
+        "departureTime": "09:45",
+        "arrivalTime": "22:15",
+        "price": 786,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KA8471",
+        "operator": "SRS Travels",
+        "source": "Kadapa",
+        "destination": "Proddatur",
+        "departureTime": "11:15",
+        "arrivalTime": "18:15",
+        "price": 1770,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KA2886",
+        "operator": "Seabird",
+        "source": "Kadapa",
+        "destination": "Proddatur",
+        "departureTime": "11:30",
+        "arrivalTime": "22:00",
+        "price": 1223,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA6613",
+        "operator": "Seabird",
+        "source": "Machilipatnam",
+        "destination": "Vijayawada",
+        "departureTime": "19:15",
+        "arrivalTime": "23:45",
+        "price": 591,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA6065",
+        "operator": "Sugama",
+        "source": "Machilipatnam",
+        "destination": "Vijayawada",
+        "departureTime": "10:30",
+        "arrivalTime": "23:00",
+        "price": 910,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA6944",
+        "operator": "Seabird",
+        "source": "Machilipatnam",
+        "destination": "Vijayawada",
+        "departureTime": "16:30",
+        "arrivalTime": "02:00",
+        "price": 1964,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MA6047",
+        "operator": "Orange Travels",
+        "source": "Machilipatnam",
+        "destination": "Vijayawada",
+        "departureTime": "20:30",
+        "arrivalTime": "09:00",
+        "price": 1998,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "NE2137",
+        "operator": "KSRTC",
+        "source": "Nellore",
+        "destination": "Ongole",
+        "departureTime": "04:30",
+        "arrivalTime": "16:00",
+        "price": 418,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "NE7472",
+        "operator": "KSRTC",
+        "source": "Nellore",
+        "destination": "Ongole",
+        "departureTime": "04:00",
+        "arrivalTime": "10:00",
+        "price": 1035,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "NE9855",
+        "operator": "VRL Travels",
+        "source": "Nellore",
+        "destination": "Ongole",
+        "departureTime": "13:00",
+        "arrivalTime": "22:30",
+        "price": 757,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "NE5899",
+        "operator": "VRL Travels",
+        "source": "Nellore",
+        "destination": "Ongole",
+        "departureTime": "14:15",
+        "arrivalTime": "21:45",
+        "price": 1155,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "RA2571",
+        "operator": "KSRTC",
+        "source": "Rajahmundry",
+        "destination": "Kakinada",
+        "departureTime": "15:15",
+        "arrivalTime": "03:15",
+        "price": 325,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "RA5518",
+        "operator": "KSRTC",
+        "source": "Rajahmundry",
+        "destination": "Kakinada",
+        "departureTime": "14:15",
+        "arrivalTime": "19:15",
+        "price": 1366,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "RA2524",
+        "operator": "Sugama",
+        "source": "Rajahmundry",
+        "destination": "Kakinada",
+        "departureTime": "20:15",
+        "arrivalTime": "03:45",
+        "price": 1939,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "RA8769",
+        "operator": "Orange Travels",
+        "source": "Rajahmundry",
+        "destination": "Kakinada",
+        "departureTime": "16:45",
+        "arrivalTime": "05:45",
+        "price": 1357,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "AN1572",
+        "operator": "VRL Travels",
+        "source": "Anantapur",
+        "destination": "Hindupur",
+        "departureTime": "12:00",
+        "arrivalTime": "00:00",
+        "price": 1778,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "AN2723",
+        "operator": "Seabird",
+        "source": "Anantapur",
+        "destination": "Hindupur",
+        "departureTime": "07:00",
+        "arrivalTime": "10:00",
+        "price": 535,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "AN6825",
+        "operator": "Sugama",
+        "source": "Anantapur",
+        "destination": "Hindupur",
+        "departureTime": "18:15",
+        "arrivalTime": "03:15",
+        "price": 1918,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "AN8246",
+        "operator": "Orange Travels",
+        "source": "Anantapur",
+        "destination": "Hindupur",
+        "departureTime": "14:45",
+        "arrivalTime": "00:15",
+        "price": 1579,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "GU1822",
+        "operator": "SRS Travels",
+        "source": "Guntur",
+        "destination": "Narasaraopet",
+        "departureTime": "11:15",
+        "arrivalTime": "22:15",
+        "price": 1136,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "GU2610",
+        "operator": "KSRTC",
+        "source": "Guntur",
+        "destination": "Narasaraopet",
+        "departureTime": "12:30",
+        "arrivalTime": "16:00",
+        "price": 982,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "GU2321",
+        "operator": "Seabird",
+        "source": "Guntur",
+        "destination": "Narasaraopet",
+        "departureTime": "14:15",
+        "arrivalTime": "20:15",
+        "price": 1185,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "GU2607",
+        "operator": "KSRTC",
+        "source": "Guntur",
+        "destination": "Narasaraopet",
+        "departureTime": "12:00",
+        "arrivalTime": "16:30",
+        "price": 407,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TI6372",
+        "operator": "KSRTC",
+        "source": "Tirupati",
+        "destination": "Kadapa",
+        "departureTime": "04:00",
+        "arrivalTime": "12:00",
+        "price": 1285,
+        "type": "AC Sleeper"
+      },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "22:00",
+    "arrivalTime": "05:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Chennai",
+    "departureTime": "23:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Coimbatore",
+    "departureTime": "21:30",
+    "arrivalTime": "04:30",
+    "price": 900,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Coimbatore",
+    "departureTime": "22:30",
+    "arrivalTime": "05:30",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Madurai",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Madurai",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Ooty",
+    "departureTime": "21:00",
+    "arrivalTime": "04:00",
+    "price": 850,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Ooty",
+    "departureTime": "22:00",
+    "arrivalTime": "05:00",
+    "price": 900,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kanyakumari",
+    "departureTime": "19:00",
+    "arrivalTime": "09:00",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kanyakumari",
+    "departureTime": "20:00",
+    "arrivalTime": "10:00",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Tiruchirappalli",
+    "departureTime": "20:30",
+    "arrivalTime": "05:30",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Tiruchirappalli",
+    "departureTime": "21:30",
+    "arrivalTime": "06:30",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kodaikanal",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kodaikanal",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Thanjavur",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Thanjavur",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Rameswaram",
+    "departureTime": "19:00",
+    "arrivalTime": "08:00",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Rameswaram",
+    "departureTime": "20:00",
+    "arrivalTime": "09:00",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Yercaud",
+    "departureTime": "21:00",
+    "arrivalTime": "03:00",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Yercaud",
+    "departureTime": "22:00",
+    "arrivalTime": "04:00",
+    "price": 850,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Salem",
+    "departureTime": "21:30",
+    "arrivalTime": "03:30",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Salem",
+    "departureTime": "22:30",
+    "arrivalTime": "04:30",
+    "price": 850,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Vellore",
+    "departureTime": "22:00",
+    "arrivalTime": "03:00",
+    "price": 750,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Vellore",
+    "departureTime": "23:00",
+    "arrivalTime": "04:00",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Tirunelveli",
+    "departureTime": "19:30",
+    "arrivalTime": "08:30",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Tirunelveli",
+    "departureTime": "20:30",
+    "arrivalTime": "09:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Hogenakkal",
+    "departureTime": "21:00",
+    "arrivalTime": "02:00",
+    "price": 700,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Hogenakkal",
+    "departureTime": "22:00",
+    "arrivalTime": "03:00",
+    "price": 750,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Pondicherry",
+    "departureTime": "21:00",
+    "arrivalTime": "05:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Pondicherry",
+    "departureTime": "22:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mysore",
+    "departureTime": "20:00",
+    "arrivalTime": "23:00",
+    "price": 600,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mysore",
+    "departureTime": "21:00",
+    "arrivalTime": "00:00",
+    "price": 650,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mangaluru",
+    "departureTime": "22:00",
+    "arrivalTime": "05:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mangaluru",
+    "departureTime": "23:00",
+    "arrivalTime": "06:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Hampi",
+    "departureTime": "21:00",
+    "arrivalTime": "05:00",
+    "price": 900,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Hampi",
+    "departureTime": "22:00",
+    "arrivalTime": "06:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Coorg",
+    "departureTime": "21:00",
+    "arrivalTime": "03:00",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Coorg",
+    "departureTime": "22:00",
+    "arrivalTime": "04:00",
+    "price": 850,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Gokarna",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Gokarna",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Udupi",
+    "departureTime": "21:30",
+    "arrivalTime": "05:30",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Udupi",
+    "departureTime": "22:30",
+    "arrivalTime": "06:30",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Chikmagalur",
+    "departureTime": "21:00",
+    "arrivalTime": "03:00",
+    "price": 750,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Chikmagalur",
+    "departureTime": "22:00",
+    "arrivalTime": "04:00",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Badami",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Badami",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Belur",
+    "departureTime": "21:00",
+    "arrivalTime": "03:00",
+    "price": 750,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Belur",
+    "departureTime": "22:00",
+    "arrivalTime": "04:00",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Shimoga",
+    "departureTime": "21:30",
+    "arrivalTime": "04:30",
+    "price": 850,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Shimoga",
+    "departureTime": "22:30",
+    "arrivalTime": "05:30",
+    "price": 900,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Dandeli",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Dandeli",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Murudeshwar",
+    "departureTime": "20:30",
+    "arrivalTime": "06:30",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Murudeshwar",
+    "departureTime": "21:30",
+    "arrivalTime": "07:30",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Bijapur",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Bijapur",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Jog Falls",
+    "departureTime": "20:00",
+    "arrivalTime": "05:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Jog Falls",
+    "departureTime": "21:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Visakhapatnam",
+    "departureTime": "19:00",
+    "arrivalTime": "10:00",
+    "price": 1600,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Visakhapatnam",
+    "departureTime": "20:00",
+    "arrivalTime": "11:00",
+    "price": 1650,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Tirupati",
+    "departureTime": "21:00",
+    "arrivalTime": "03:00",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Tirupati",
+    "departureTime": "22:00",
+    "arrivalTime": "04:00",
+    "price": 850,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Vijayawada",
+    "departureTime": "20:30",
+    "arrivalTime": "08:30",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Vijayawada",
+    "departureTime": "21:30",
+    "arrivalTime": "09:30",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Amaravati",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Amaravati",
+    "departureTime": "21:00",
+    "arrivalTime": "09:00",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kurnool",
+    "departureTime": "21:00",
+    "arrivalTime": "04:00",
+    "price": 900,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kurnool",
+    "departureTime": "22:00",
+    "arrivalTime": "05:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Nellore",
+    "departureTime": "21:00",
+    "arrivalTime": "05:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Nellore",
+    "departureTime": "22:00",
+    "arrivalTime": "06:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Rajahmundry",
+    "departureTime": "19:30",
+    "arrivalTime": "09:30",
+    "price": 1500,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Rajahmundry",
+    "departureTime": "20:30",
+    "arrivalTime": "10:30",
+    "price": 1550,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Srikakulam",
+    "departureTime": "19:00",
+    "arrivalTime": "10:00",
+    "price": 1600,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Srikakulam",
+    "departureTime": "20:00",
+    "arrivalTime": "11:00",
+    "price": 1650,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Anantapur",
+    "departureTime": "21:00",
+    "arrivalTime": "03:00",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Anantapur",
+    "departureTime": "22:00",
+    "arrivalTime": "04:00",
+    "price": 850,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Chittoor",
+    "departureTime": "21:30",
+    "arrivalTime": "03:30",
+    "price": 750,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Chittoor",
+    "departureTime": "22:30",
+    "arrivalTime": "04:30",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Guntur",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Guntur",
+    "departureTime": "21:00",
+    "arrivalTime": "09:00",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kakinada",
+    "departureTime": "19:30",
+    "arrivalTime": "09:30",
+    "price": 1500,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kakinada",
+    "departureTime": "20:30",
+    "arrivalTime": "10:30",
+    "price": 1550,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kadapa",
+    "departureTime": "21:00",
+    "arrivalTime": "04:00",
+    "price": 900,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kadapa",
+    "departureTime": "22:00",
+    "arrivalTime": "05:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Araku Valley",
+    "departureTime": "19:00",
+    "arrivalTime": "10:00",
+    "price": 1600,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Araku Valley",
+    "departureTime": "20:00",
+    "arrivalTime": "11:00",
+    "price": 1650,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Puttaparthi",
+    "departureTime": "21:00",
+    "arrivalTime": "03:00",
+    "price": 750,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Puttaparthi",
+    "departureTime": "22:00",
+    "arrivalTime": "04:00",
+    "price": 800,
+    "type": "AC Sleeper"
+  },
+
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Calangute",
+    "departureTime": "19:30",
+    "arrivalTime": "07:30",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Calangute",
+    "departureTime": "20:30",
+    "arrivalTime": "08:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Anjuna",
+    "departureTime": "19:30",
+    "arrivalTime": "07:30",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Anjuna",
+    "departureTime": "20:30",
+    "arrivalTime": "08:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Old Goa",
+    "departureTime": "19:00",
+    "arrivalTime": "07:00",
+    "price": 1250,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Old Goa",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Panaji",
+    "departureTime": "19:00",
+    "arrivalTime": "07:00",
+    "price": 1200,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Panaji",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1250,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Baga",
+    "departureTime": "19:30",
+    "arrivalTime": "07:30",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Baga",
+    "departureTime": "20:30",
+    "arrivalTime": "08:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Vagator",
+    "departureTime": "19:30",
+    "arrivalTime": "07:30",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Vagator",
+    "departureTime": "20:30",
+    "arrivalTime": "08:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Palolem",
+    "departureTime": "19:00",
+    "arrivalTime": "08:00",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Palolem",
+    "departureTime": "20:00",
+    "arrivalTime": "09:00",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Arambol",
+    "departureTime": "19:30",
+    "arrivalTime": "07:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Arambol",
+    "departureTime": "20:30",
+    "arrivalTime": "08:30",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Dudhsagar",
+    "departureTime": "19:00",
+    "arrivalTime": "07:00",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Dudhsagar",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Margao",
+    "departureTime": "19:00",
+    "arrivalTime": "07:30",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Margao",
+    "departureTime": "20:00",
+    "arrivalTime": "08:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Candolim",
+    "departureTime": "19:30",
+    "arrivalTime": "07:30",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Candolim",
+    "departureTime": "20:30",
+    "arrivalTime": "08:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Morjim",
+    "departureTime": "19:30",
+    "arrivalTime": "07:30",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Morjim",
+    "departureTime": "20:30",
+    "arrivalTime": "08:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mollem",
+    "departureTime": "19:00",
+    "arrivalTime": "07:00",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mollem",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Cavelossim",
+    "departureTime": "19:00",
+    "arrivalTime": "07:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Cavelossim",
+    "departureTime": "20:00",
+    "arrivalTime": "08:30",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Agonda",
+    "departureTime": "19:00",
+    "arrivalTime": "08:00",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Agonda",
+    "departureTime": "20:00",
+    "arrivalTime": "09:00",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Ernakulam",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Ernakulam",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Thiruvananthapuram",
+    "departureTime": "19:00",
+    "arrivalTime": "09:00",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Thiruvananthapuram",
+    "departureTime": "20:00",
+    "arrivalTime": "10:00",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Munnar",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Munnar",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Alappuzha",
+    "departureTime": "20:00",
+    "arrivalTime": "07:00",
+    "price": 1200,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Alappuzha",
+    "departureTime": "21:00",
+    "arrivalTime": "08:00",
+    "price": 1250,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kovalam",
+    "departureTime": "19:00",
+    "arrivalTime": "09:00",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kovalam",
+    "departureTime": "20:00",
+    "arrivalTime": "10:00",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Wayanad",
+    "departureTime": "21:00",
+    "arrivalTime": "04:00",
+    "price": 900,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Wayanad",
+    "departureTime": "22:00",
+    "arrivalTime": "05:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Thrissur",
+    "departureTime": "20:30",
+    "arrivalTime": "06:30",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Thrissur",
+    "departureTime": "21:30",
+    "arrivalTime": "07:30",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kozhikode",
+    "departureTime": "21:00",
+    "arrivalTime": "05:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kozhikode",
+    "departureTime": "22:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Thekkady",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Thekkady",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Varkala",
+    "departureTime": "19:00",
+    "arrivalTime": "08:00",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Varkala",
+    "departureTime": "20:00",
+    "arrivalTime": "09:00",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kannur",
+    "departureTime": "21:00",
+    "arrivalTime": "05:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kannur",
+    "departureTime": "22:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Palakkad",
+    "departureTime": "21:00",
+    "arrivalTime": "05:00",
+    "price": 900,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Palakkad",
+    "departureTime": "22:00",
+    "arrivalTime": "06:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kollam",
+    "departureTime": "19:30",
+    "arrivalTime": "08:30",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kollam",
+    "departureTime": "20:30",
+    "arrivalTime": "09:30",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kumarakom",
+    "departureTime": "20:00",
+    "arrivalTime": "07:00",
+    "price": 1200,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Kumarakom",
+    "departureTime": "21:00",
+    "arrivalTime": "08:00",
+    "price": 1250,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Bekal",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Bekal",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Hyderabad",
+    "departureTime": "21:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Hyderabad",
+    "departureTime": "22:00",
+    "arrivalTime": "07:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Warangal",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1200,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Warangal",
+    "departureTime": "21:00",
+    "arrivalTime": "09:00",
+    "price": 1250,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Yadagirigutta",
+    "departureTime": "21:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Yadagirigutta",
+    "departureTime": "22:00",
+    "arrivalTime": "07:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Basara",
+    "departureTime": "19:00",
+    "arrivalTime": "09:00",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Basara",
+    "departureTime": "20:00",
+    "arrivalTime": "10:00",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mulugu",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1200,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mulugu",
+    "departureTime": "21:00",
+    "arrivalTime": "09:00",
+    "price": 1250,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Bhongir",
+    "departureTime": "21:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Bhongir",
+    "departureTime": "22:00",
+    "arrivalTime": "07:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Medak",
+    "departureTime": "20:00",
+    "arrivalTime": "07:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Medak",
+    "departureTime": "21:00",
+    "arrivalTime": "08:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Nizamabad",
+    "departureTime": "20:00",
+    "arrivalTime": "07:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Nizamabad",
+    "departureTime": "21:00",
+    "arrivalTime": "08:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Khammam",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1200,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Khammam",
+    "departureTime": "21:00",
+    "arrivalTime": "09:00",
+    "price": 1250,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Adilabad",
+    "departureTime": "19:00",
+    "arrivalTime": "09:00",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Adilabad",
+    "departureTime": "20:00",
+    "arrivalTime": "10:00",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Karimnagar",
+    "departureTime": "20:00",
+    "arrivalTime": "07:00",
+    "price": 1100,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Karimnagar",
+    "departureTime": "21:00",
+    "arrivalTime": "08:00",
+    "price": 1150,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mahbubnagar",
+    "departureTime": "21:00",
+    "arrivalTime": "05:00",
+    "price": 900,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mahbubnagar",
+    "departureTime": "22:00",
+    "arrivalTime": "06:00",
+    "price": 950,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Nalgonda",
+    "departureTime": "20:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Nalgonda",
+    "departureTime": "21:00",
+    "arrivalTime": "07:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Ananthagiri Hills",
+    "departureTime": "21:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Ananthagiri Hills",
+    "departureTime": "22:00",
+    "arrivalTime": "07:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Sangareddy",
+    "departureTime": "21:00",
+    "arrivalTime": "06:00",
+    "price": 1000,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Sangareddy",
+    "departureTime": "22:00",
+    "arrivalTime": "07:00",
+    "price": 1050,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "departureTime": "19:00",
+    "arrivalTime": "09:00",
+    "price": 1600,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "departureTime": "20:00",
+    "arrivalTime": "10:00",
+    "price": 1650,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Pune",
+    "departureTime": "20:00",
+    "arrivalTime": "08:00",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Pune",
+    "departureTime": "21:00",
+    "arrivalTime": "09:00",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Aurangabad",
+    "departureTime": "19:00",
+    "arrivalTime": "08:00",
+    "price": 1500,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Aurangabad",
+    "departureTime": "20:00",
+    "arrivalTime": "09:00",
+    "price": 1550,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Shirdi",
+    "departureTime": "19:30",
+    "arrivalTime": "08:30",
+    "price": 1400,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Shirdi",
+    "departureTime": "20:30",
+    "arrivalTime": "09:30",
+    "price": 1450,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Nashik",
+    "departureTime": "19:00",
+    "arrivalTime": "09:00",
+    "price": 1500,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Nashik",
+    "departureTime": "20:00",
+    "arrivalTime": "10:00",
+    "price": 1550,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mahabaleshwar",
+    "departureTime": "20:00",
+    "arrivalTime": "07:00",
+    "price": 1300,
+    "type": "AC Sleeper"
+  },
+  {
+    "busNumber": "TI6372",
+    "operator": "KSRTC",
+    "source": "Bengaluru",
+    "destination": "Mahabaleshwar",
+    "departureTime": "21:00",
+    "arrivalTime": "08:00",
+    "price": 1350,
+    "type": "AC Sleeper"
+  },
+      {
+        "busNumber": "TI7717",
+        "operator": "Seabird",
+        "source": "Tirupati",
+        "destination": "Kadapa",
+        "departureTime": "18:15",
+        "arrivalTime": "23:15",
+        "price": 332,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TI6153",
+        "operator": "SRS Travels",
+        "source": "Tirupati",
+        "destination": "Kadapa",
+        "departureTime": "08:45",
+        "arrivalTime": "20:15",
+        "price": 998,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TI7589",
+        "operator": "SRS Travels",
+        "source": "Tirupati",
+        "destination": "Kadapa",
+        "departureTime": "10:45",
+        "arrivalTime": "21:45",
+        "price": 936,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "AM5369",
+        "operator": "KSRTC",
+        "source": "Amaravati",
+        "destination": "Vijayawada",
+        "departureTime": "10:45",
+        "arrivalTime": "16:45",
+        "price": 455,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "AM9490",
+        "operator": "KSRTC",
+        "source": "Amaravati",
+        "destination": "Vijayawada",
+        "departureTime": "19:00",
+        "arrivalTime": "02:30",
+        "price": 523,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "AM3726",
+        "operator": "SRS Travels",
+        "source": "Amaravati",
+        "destination": "Vijayawada",
+        "departureTime": "21:15",
+        "arrivalTime": "01:45",
+        "price": 1813,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "AM3829",
+        "operator": "Seabird",
+        "source": "Amaravati",
+        "destination": "Vijayawada",
+        "departureTime": "08:00",
+        "arrivalTime": "15:30",
+        "price": 609,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA7481",
+        "operator": "Seabird",
+        "source": "Markapur",
+        "destination": "Nandyal",
+        "departureTime": "07:45",
+        "arrivalTime": "11:45",
+        "price": 814,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA4376",
+        "operator": "Sugama",
+        "source": "Markapur",
+        "destination": "Nandyal",
+        "departureTime": "05:15",
+        "arrivalTime": "13:15",
+        "price": 1086,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA4144",
+        "operator": "VRL Travels",
+        "source": "Markapur",
+        "destination": "Nandyal",
+        "departureTime": "11:30",
+        "arrivalTime": "23:30",
+        "price": 837,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA8890",
+        "operator": "SRS Travels",
+        "source": "Markapur",
+        "destination": "Nandyal",
+        "departureTime": "13:30",
+        "arrivalTime": "20:30",
+        "price": 1234,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA2384",
+        "operator": "Sugama",
+        "source": "Madanapalle",
+        "destination": "Punganur",
+        "departureTime": "15:45",
+        "arrivalTime": "05:15",
+        "price": 1062,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MA5946",
+        "operator": "Orange Travels",
+        "source": "Madanapalle",
+        "destination": "Punganur",
+        "departureTime": "05:30",
+        "arrivalTime": "13:30",
+        "price": 1814,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA1451",
+        "operator": "VRL Travels",
+        "source": "Madanapalle",
+        "destination": "Punganur",
+        "departureTime": "12:15",
+        "arrivalTime": "15:45",
+        "price": 1919,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MA2173",
+        "operator": "VRL Travels",
+        "source": "Madanapalle",
+        "destination": "Punganur",
+        "departureTime": "14:30",
+        "arrivalTime": "22:30",
+        "price": 1331,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA4636",
+        "operator": "KSRTC",
+        "source": "Bapatla",
+        "destination": "Chirala",
+        "departureTime": "16:45",
+        "arrivalTime": "01:15",
+        "price": 1448,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA4617",
+        "operator": "SRS Travels",
+        "source": "Bapatla",
+        "destination": "Chirala",
+        "departureTime": "13:00",
+        "arrivalTime": "18:30",
+        "price": 634,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA9496",
+        "operator": "SRS Travels",
+        "source": "Bapatla",
+        "destination": "Chirala",
+        "departureTime": "22:30",
+        "arrivalTime": "04:00",
+        "price": 389,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA9491",
+        "operator": "VRL Travels",
+        "source": "Bapatla",
+        "destination": "Chirala",
+        "departureTime": "18:30",
+        "arrivalTime": "05:00",
+        "price": 822,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "KU8256",
+        "operator": "Sugama",
+        "source": "Kurnool",
+        "destination": "Kadapa",
+        "departureTime": "14:30",
+        "arrivalTime": "18:30",
+        "price": 1940,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "KU2303",
+        "operator": "Seabird",
+        "source": "Kurnool",
+        "destination": "Kadapa",
+        "departureTime": "23:45",
+        "arrivalTime": "09:45",
+        "price": 955,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "KU1131",
+        "operator": "Sugama",
+        "source": "Kurnool",
+        "destination": "Kadapa",
+        "departureTime": "12:15",
+        "arrivalTime": "18:45",
+        "price": 570,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KU4339",
+        "operator": "Orange Travels",
+        "source": "Kurnool",
+        "destination": "Kadapa",
+        "departureTime": "19:00",
+        "arrivalTime": "04:30",
+        "price": 576,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "VI5590",
+        "operator": "KSRTC",
+        "source": "Vijayawada",
+        "destination": "Hyderabad",
+        "departureTime": "19:15",
+        "arrivalTime": "23:15",
+        "price": 1258,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "VI7649",
+        "operator": "SRS Travels",
+        "source": "Vijayawada",
+        "destination": "Hyderabad",
+        "departureTime": "04:00",
+        "arrivalTime": "16:00",
+        "price": 914,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "VI4577",
+        "operator": "KSRTC",
+        "source": "Vijayawada",
+        "destination": "Hyderabad",
+        "departureTime": "16:00",
+        "arrivalTime": "19:00",
+        "price": 624,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "VI3311",
+        "operator": "SRS Travels",
+        "source": "Vijayawada",
+        "destination": "Hyderabad",
+        "departureTime": "09:30",
+        "arrivalTime": "00:00",
+        "price": 451,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "TI3831",
+        "operator": "Seabird",
+        "source": "Tirupati",
+        "destination": "Chennai",
+        "departureTime": "19:30",
+        "arrivalTime": "23:30",
+        "price": 464,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TI7702",
+        "operator": "KSRTC",
+        "source": "Tirupati",
+        "destination": "Chennai",
+        "departureTime": "17:30",
+        "arrivalTime": "05:00",
+        "price": 923,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "TI5828",
+        "operator": "VRL Travels",
+        "source": "Tirupati",
+        "destination": "Chennai",
+        "departureTime": "22:00",
+        "arrivalTime": "09:00",
+        "price": 413,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "TI7397",
+        "operator": "Seabird",
+        "source": "Tirupati",
+        "destination": "Chennai",
+        "departureTime": "11:15",
+        "arrivalTime": "20:45",
+        "price": 327,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "VI3983",
+        "operator": "Orange Travels",
+        "source": "Visakhapatnam",
+        "destination": "Bhubaneswar",
+        "departureTime": "12:45",
+        "arrivalTime": "00:45",
+        "price": 1475,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "VI7348",
+        "operator": "KSRTC",
+        "source": "Visakhapatnam",
+        "destination": "Bhubaneswar",
+        "departureTime": "12:15",
+        "arrivalTime": "22:15",
+        "price": 1228,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "VI2241",
+        "operator": "Sugama",
+        "source": "Visakhapatnam",
+        "destination": "Bhubaneswar",
+        "departureTime": "18:30",
+        "arrivalTime": "02:00",
+        "price": 1970,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "VI2983",
+        "operator": "KSRTC",
+        "source": "Visakhapatnam",
+        "destination": "Bhubaneswar",
+        "departureTime": "08:00",
+        "arrivalTime": "12:30",
+        "price": 968,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "AN9990",
+        "operator": "KSRTC",
+        "source": "Anantapur",
+        "destination": "Bangalore",
+        "departureTime": "05:00",
+        "arrivalTime": "10:00",
+        "price": 1025,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "AN8159",
+        "operator": "Orange Travels",
+        "source": "Anantapur",
+        "destination": "Bangalore",
+        "departureTime": "14:00",
+        "arrivalTime": "18:30",
+        "price": 1119,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "AN5124",
+        "operator": "SRS Travels",
+        "source": "Anantapur",
+        "destination": "Bangalore",
+        "departureTime": "23:00",
+        "arrivalTime": "07:00",
+        "price": 1088,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "AN6390",
+        "operator": "KSRTC",
+        "source": "Anantapur",
+        "destination": "Bangalore",
+        "departureTime": "09:00",
+        "arrivalTime": "21:30",
+        "price": 1278,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KU6791",
+        "operator": "Sugama",
+        "source": "Kurnool",
+        "destination": "Hyderabad",
+        "departureTime": "15:00",
+        "arrivalTime": "22:00",
+        "price": 369,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "KU4551",
+        "operator": "Sugama",
+        "source": "Kurnool",
+        "destination": "Hyderabad",
+        "departureTime": "14:15",
+        "arrivalTime": "02:15",
+        "price": 701,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KU7041",
+        "operator": "KSRTC",
+        "source": "Kurnool",
+        "destination": "Hyderabad",
+        "departureTime": "08:30",
+        "arrivalTime": "14:00",
+        "price": 1224,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "KU9484",
+        "operator": "KSRTC",
+        "source": "Kurnool",
+        "destination": "Hyderabad",
+        "departureTime": "06:45",
+        "arrivalTime": "14:45",
+        "price": 1409,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "NE9478",
+        "operator": "Sugama",
+        "source": "Nellore",
+        "destination": "Chennai",
+        "departureTime": "10:15",
+        "arrivalTime": "21:15",
+        "price": 1473,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "NE8613",
+        "operator": "Orange Travels",
+        "source": "Nellore",
+        "destination": "Chennai",
+        "departureTime": "15:00",
+        "arrivalTime": "18:30",
+        "price": 1102,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "NE5212",
+        "operator": "Orange Travels",
+        "source": "Nellore",
+        "destination": "Chennai",
+        "departureTime": "06:45",
+        "arrivalTime": "12:15",
+        "price": 1573,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "NE3200",
+        "operator": "Sugama",
+        "source": "Nellore",
+        "destination": "Chennai",
+        "departureTime": "22:45",
+        "arrivalTime": "10:15",
+        "price": 1097,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "RA6335",
+        "operator": "Sugama",
+        "source": "Rajahmundry",
+        "destination": "Bhubaneswar",
+        "departureTime": "11:15",
+        "arrivalTime": "23:15",
+        "price": 1370,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "RA6638",
+        "operator": "VRL Travels",
+        "source": "Rajahmundry",
+        "destination": "Bhubaneswar",
+        "departureTime": "10:15",
+        "arrivalTime": "16:15",
+        "price": 504,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "RA9653",
+        "operator": "SRS Travels",
+        "source": "Rajahmundry",
+        "destination": "Bhubaneswar",
+        "departureTime": "15:30",
+        "arrivalTime": "21:00",
+        "price": 556,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "RA3370",
+        "operator": "SRS Travels",
+        "source": "Rajahmundry",
+        "destination": "Bhubaneswar",
+        "departureTime": "15:00",
+        "arrivalTime": "04:30",
+        "price": 1165,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "KA2270",
+        "operator": "VRL Travels",
+        "source": "Kadapa",
+        "destination": "Bangalore",
+        "departureTime": "20:00",
+        "arrivalTime": "00:30",
+        "price": 1367,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "KA9653",
+        "operator": "SRS Travels",
+        "source": "Kadapa",
+        "destination": "Bangalore",
+        "departureTime": "18:15",
+        "arrivalTime": "23:45",
+        "price": 1389,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KA8464",
+        "operator": "Seabird",
+        "source": "Kadapa",
+        "destination": "Bangalore",
+        "departureTime": "18:15",
+        "arrivalTime": "06:45",
+        "price": 1844,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KA4223",
+        "operator": "KSRTC",
+        "source": "Kadapa",
+        "destination": "Bangalore",
+        "departureTime": "18:45",
+        "arrivalTime": "03:15",
+        "price": 1109,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TI6535",
+        "operator": "Orange Travels",
+        "source": "Tirupati",
+        "destination": "Vellore",
+        "departureTime": "11:45",
+        "arrivalTime": "00:15",
+        "price": 703,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "TI8902",
+        "operator": "Sugama",
+        "source": "Tirupati",
+        "destination": "Vellore",
+        "departureTime": "09:15",
+        "arrivalTime": "20:45",
+        "price": 671,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TI5525",
+        "operator": "KSRTC",
+        "source": "Tirupati",
+        "destination": "Vellore",
+        "departureTime": "22:15",
+        "arrivalTime": "07:45",
+        "price": 1946,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "TI9260",
+        "operator": "VRL Travels",
+        "source": "Tirupati",
+        "destination": "Vellore",
+        "departureTime": "08:45",
+        "arrivalTime": "18:45",
+        "price": 988,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "VI6553",
+        "operator": "VRL Travels",
+        "source": "Vijayawada",
+        "destination": "Nagpur",
+        "departureTime": "09:00",
+        "arrivalTime": "12:30",
+        "price": 458,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "VI3274",
+        "operator": "Seabird",
+        "source": "Vijayawada",
+        "destination": "Nagpur",
+        "departureTime": "22:00",
+        "arrivalTime": "03:30",
+        "price": 1249,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "VI4131",
+        "operator": "Seabird",
+        "source": "Vijayawada",
+        "destination": "Nagpur",
+        "departureTime": "22:15",
+        "arrivalTime": "01:15",
+        "price": 1200,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "VI3119",
+        "operator": "VRL Travels",
+        "source": "Vijayawada",
+        "destination": "Nagpur",
+        "departureTime": "04:00",
+        "arrivalTime": "13:30",
+        "price": 554,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "VI9398",
+        "operator": "SRS Travels",
+        "source": "Visakhapatnam",
+        "destination": "Raipur",
+        "departureTime": "22:45",
+        "arrivalTime": "06:15",
+        "price": 1500,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "VI5818",
+        "operator": "Seabird",
+        "source": "Visakhapatnam",
+        "destination": "Raipur",
+        "departureTime": "19:45",
+        "arrivalTime": "04:45",
+        "price": 1421,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "VI6940",
+        "operator": "SRS Travels",
+        "source": "Visakhapatnam",
+        "destination": "Raipur",
+        "departureTime": "04:45",
+        "arrivalTime": "11:15",
+        "price": 1178,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "VI1344",
+        "operator": "SRS Travels",
+        "source": "Visakhapatnam",
+        "destination": "Raipur",
+        "departureTime": "13:15",
+        "arrivalTime": "01:45",
+        "price": 1955,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KA6014",
+        "operator": "KSRTC",
+        "source": "Kakinada",
+        "destination": "Bhubaneswar",
+        "departureTime": "07:30",
+        "arrivalTime": "14:30",
+        "price": 838,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KA4740",
+        "operator": "Seabird",
+        "source": "Kakinada",
+        "destination": "Bhubaneswar",
+        "departureTime": "14:00",
+        "arrivalTime": "04:00",
+        "price": 680,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "KA3584",
+        "operator": "Orange Travels",
+        "source": "Kakinada",
+        "destination": "Bhubaneswar",
+        "departureTime": "18:00",
+        "arrivalTime": "21:00",
+        "price": 1837,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KA4187",
+        "operator": "KSRTC",
+        "source": "Kakinada",
+        "destination": "Bhubaneswar",
+        "departureTime": "11:00",
+        "arrivalTime": "18:00",
+        "price": 1969,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "GU3405",
+        "operator": "VRL Travels",
+        "source": "Guntur",
+        "destination": "Hyderabad",
+        "departureTime": "10:30",
+        "arrivalTime": "20:00",
+        "price": 538,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "GU5626",
+        "operator": "KSRTC",
+        "source": "Guntur",
+        "destination": "Hyderabad",
+        "departureTime": "14:30",
+        "arrivalTime": "00:00",
+        "price": 429,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "GU1718",
+        "operator": "Seabird",
+        "source": "Guntur",
+        "destination": "Hyderabad",
+        "departureTime": "07:45",
+        "arrivalTime": "22:15",
+        "price": 985,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "GU3232",
+        "operator": "KSRTC",
+        "source": "Guntur",
+        "destination": "Hyderabad",
+        "departureTime": "05:45",
+        "arrivalTime": "12:15",
+        "price": 1834,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "CH6487",
+        "operator": "Orange Travels",
+        "source": "Chittoor",
+        "destination": "Bangalore",
+        "departureTime": "08:30",
+        "arrivalTime": "13:00",
+        "price": 1866,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "CH1941",
+        "operator": "Orange Travels",
+        "source": "Chittoor",
+        "destination": "Bangalore",
+        "departureTime": "16:45",
+        "arrivalTime": "21:15",
+        "price": 812,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "CH1331",
+        "operator": "SRS Travels",
+        "source": "Chittoor",
+        "destination": "Bangalore",
+        "departureTime": "14:30",
+        "arrivalTime": "03:00",
+        "price": 1278,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "CH4447",
+        "operator": "Orange Travels",
+        "source": "Chittoor",
+        "destination": "Bangalore",
+        "departureTime": "19:30",
+        "arrivalTime": "08:30",
+        "price": 1410,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA1423",
+        "operator": "Seabird",
+        "source": "Machilipatnam",
+        "destination": "Chennai",
+        "departureTime": "15:30",
+        "arrivalTime": "02:30",
+        "price": 511,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA1709",
+        "operator": "SRS Travels",
+        "source": "Machilipatnam",
+        "destination": "Chennai",
+        "departureTime": "15:30",
+        "arrivalTime": "20:00",
+        "price": 1623,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MA6284",
+        "operator": "Seabird",
+        "source": "Machilipatnam",
+        "destination": "Chennai",
+        "departureTime": "22:00",
+        "arrivalTime": "12:30",
+        "price": 1149,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA1190",
+        "operator": "SRS Travels",
+        "source": "Machilipatnam",
+        "destination": "Chennai",
+        "departureTime": "15:30",
+        "arrivalTime": "02:30",
+        "price": 1046,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA9065",
+        "operator": "Seabird",
+        "source": "Bangalore",
+        "destination": "Mysore",
+        "departureTime": "12:00",
+        "arrivalTime": "00:30",
+        "price": 1955,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA4587",
+        "operator": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Mysore",
+        "departureTime": "09:45",
+        "arrivalTime": "22:45",
+        "price": 903,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA9590",
+        "operator": "Seabird",
+        "source": "Bangalore",
+        "destination": "Mysore",
+        "departureTime": "20:45",
+        "arrivalTime": "07:15",
+        "price": 1385,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA7012",
+        "operator": "Seabird",
+        "source": "Bangalore",
+        "destination": "Mysore",
+        "departureTime": "16:45",
+        "arrivalTime": "04:15",
+        "price": 1633,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA5249",
+        "operator": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Mysore",
+        "departureTime": "21:30",
+        "arrivalTime": "07:00",
+        "price": 1941,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA1135",
+        "operator": "Orange Travels",
+        "source": "Bangalore",
+        "destination": "Mysore",
+        "departureTime": "06:30",
+        "arrivalTime": "17:00",
+        "price": 1454,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA6360",
+        "operator": "Seabird",
+        "source": "Bangalore",
+        "destination": "Mysore",
+        "departureTime": "12:45",
+        "arrivalTime": "18:45",
+        "price": 527,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA7765",
+        "operator": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Mysore",
+        "departureTime": "18:45",
+        "arrivalTime": "05:45",
+        "price": 642,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MA2981",
+        "operator": "Orange Travels",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "05:15",
+        "arrivalTime": "15:45",
+        "price": 778,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA4023",
+        "operator": "Orange Travels",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "10:15",
+        "arrivalTime": "21:45",
+        "price": 1763,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MA4664",
+        "operator": "VRL Travels",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "21:30",
+        "arrivalTime": "12:00",
+        "price": 1303,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MA8648",
+        "operator": "VRL Travels",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "22:45",
+        "arrivalTime": "08:15",
+        "price": 1243,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA1471",
+        "operator": "KSRTC",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "05:30",
+        "arrivalTime": "18:00",
+        "price": 1378,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MA9380",
+        "operator": "Orange Travels",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "05:00",
+        "arrivalTime": "17:00",
+        "price": 1005,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MA7364",
+        "operator": "Seabird",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "07:00",
+        "arrivalTime": "19:00",
+        "price": 754,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA5424",
+        "operator": "VRL Travels",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "20:00",
+        "arrivalTime": "06:00",
+        "price": 652,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MA3023",
+        "operator": "SRS Travels",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "05:45",
+        "arrivalTime": "12:45",
+        "price": 1286,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA5204",
+        "operator": "Sugama",
+        "source": "Mangalore",
+        "destination": "Udupi",
+        "departureTime": "13:30",
+        "arrivalTime": "22:30",
+        "price": 497,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "HU6902",
+        "operator": "Sugama",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "17:30",
+        "arrivalTime": "20:30",
+        "price": 1875,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "HU6798",
+        "operator": "SRS Travels",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "19:45",
+        "arrivalTime": "02:15",
+        "price": 1229,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "HU8884",
+        "operator": "Sugama",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "23:00",
+        "arrivalTime": "03:00",
+        "price": 1697,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "HU4183",
+        "operator": "Seabird",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "10:00",
+        "arrivalTime": "22:30",
+        "price": 1325,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "HU4123",
+        "operator": "Sugama",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "10:30",
+        "arrivalTime": "22:00",
+        "price": 550,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "HU9370",
+        "operator": "VRL Travels",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "08:00",
+        "arrivalTime": "12:30",
+        "price": 956,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "HU5943",
+        "operator": "KSRTC",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "17:30",
+        "arrivalTime": "04:00",
+        "price": 611,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "HU9022",
+        "operator": "Seabird",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "23:00",
+        "arrivalTime": "02:30",
+        "price": 404,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "HU3777",
+        "operator": "SRS Travels",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "17:45",
+        "arrivalTime": "08:15",
+        "price": 1079,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "HU9016",
+        "operator": "Orange Travels",
+        "source": "Hubli",
+        "destination": "Belgaum",
+        "departureTime": "12:45",
+        "arrivalTime": "01:15",
+        "price": 676,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA6218",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "13:15",
+        "arrivalTime": "00:15",
+        "price": 325,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA4316",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "06:30",
+        "arrivalTime": "10:00",
+        "price": 1617,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA4293",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "09:15",
+        "arrivalTime": "15:15",
+        "price": 1193,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA2895",
+        "operator": "SRS Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "17:30",
+        "arrivalTime": "20:30",
+        "price": 1668,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA6903",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "07:30",
+        "arrivalTime": "17:30",
+        "price": 1461,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA2649",
+        "operator": "SRS Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "17:45",
+        "arrivalTime": "00:15",
+        "price": 778,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA9300",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "22:45",
+        "arrivalTime": "12:45",
+        "price": 332,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA2177",
+        "operator": "Orange Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "22:45",
+        "arrivalTime": "11:45",
+        "price": 508,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA5520",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "23:45",
+        "arrivalTime": "07:45",
+        "price": 412,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA9779",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Davangere",
+        "departureTime": "07:30",
+        "arrivalTime": "18:30",
+        "price": 1842,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "SH2753",
+        "operator": "VRL Travels",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "12:30",
+        "arrivalTime": "02:00",
+        "price": 715,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "SH9247",
+        "operator": "Sugama",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "23:45",
+        "arrivalTime": "14:15",
+        "price": 1934,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "SH1175",
+        "operator": "Seabird",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "20:45",
+        "arrivalTime": "06:45",
+        "price": 458,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "SH2638",
+        "operator": "VRL Travels",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "22:15",
+        "arrivalTime": "06:15",
+        "price": 656,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "SH5676",
+        "operator": "Orange Travels",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "19:30",
+        "arrivalTime": "01:00",
+        "price": 483,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "SH5328",
+        "operator": "Orange Travels",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "23:30",
+        "arrivalTime": "07:00",
+        "price": 1919,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "SH8880",
+        "operator": "VRL Travels",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "23:45",
+        "arrivalTime": "04:45",
+        "price": 1004,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "SH8659",
+        "operator": "VRL Travels",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "14:00",
+        "arrivalTime": "00:00",
+        "price": 341,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "SH1143",
+        "operator": "KSRTC",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "21:45",
+        "arrivalTime": "03:45",
+        "price": 1713,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "SH2448",
+        "operator": "KSRTC",
+        "source": "Shimoga",
+        "destination": "Hassan",
+        "departureTime": "12:15",
+        "arrivalTime": "16:45",
+        "price": 305,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA1996",
+        "operator": "Seabird",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "11:15",
+        "arrivalTime": "19:45",
+        "price": 1734,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA6208",
+        "operator": "Seabird",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "17:15",
+        "arrivalTime": "03:15",
+        "price": 480,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA4892",
+        "operator": "Seabird",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "21:45",
+        "arrivalTime": "10:45",
+        "price": 363,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA2494",
+        "operator": "KSRTC",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "17:30",
+        "arrivalTime": "02:30",
+        "price": 1295,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA9758",
+        "operator": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "13:45",
+        "arrivalTime": "16:45",
+        "price": 944,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA3129",
+        "operator": "Sugama",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "14:45",
+        "arrivalTime": "20:15",
+        "price": 1369,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA4752",
+        "operator": "Sugama",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "04:45",
+        "arrivalTime": "08:45",
+        "price": 1517,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA4053",
+        "operator": "Sugama",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "16:30",
+        "arrivalTime": "23:30",
+        "price": 1626,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA5474",
+        "operator": "Sugama",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "04:00",
+        "arrivalTime": "18:30",
+        "price": 1056,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA2747",
+        "operator": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Mangalore",
+        "departureTime": "06:30",
+        "arrivalTime": "11:00",
+        "price": 807,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MY1584",
+        "operator": "VRL Travels",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "17:45",
+        "arrivalTime": "00:15",
+        "price": 753,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MY5500",
+        "operator": "Seabird",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "23:30",
+        "arrivalTime": "08:30",
+        "price": 460,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MY1386",
+        "operator": "KSRTC",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "22:30",
+        "arrivalTime": "11:30",
+        "price": 733,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MY9037",
+        "operator": "SRS Travels",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "11:00",
+        "arrivalTime": "16:30",
+        "price": 976,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MY6538",
+        "operator": "Sugama",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "10:30",
+        "arrivalTime": "17:00",
+        "price": 1112,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MY3672",
+        "operator": "Orange Travels",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "19:45",
+        "arrivalTime": "07:15",
+        "price": 436,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MY7753",
+        "operator": "KSRTC",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "07:15",
+        "arrivalTime": "10:45",
+        "price": 1350,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MY7547",
+        "operator": "Seabird",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "19:00",
+        "arrivalTime": "09:00",
+        "price": 568,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MY3870",
+        "operator": "Orange Travels",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "15:45",
+        "arrivalTime": "04:45",
+        "price": 999,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MY6147",
+        "operator": "SRS Travels",
+        "source": "Mysore",
+        "destination": "Coorg",
+        "departureTime": "20:00",
+        "arrivalTime": "01:30",
+        "price": 960,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "TU8859",
+        "operator": "Seabird",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "06:00",
+        "arrivalTime": "18:30",
+        "price": 1764,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "TU6284",
+        "operator": "SRS Travels",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "09:00",
+        "arrivalTime": "18:00",
+        "price": 323,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TU3851",
+        "operator": "Sugama",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "18:30",
+        "arrivalTime": "22:30",
+        "price": 953,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TU6249",
+        "operator": "SRS Travels",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "13:15",
+        "arrivalTime": "21:45",
+        "price": 870,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TU8504",
+        "operator": "KSRTC",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "21:30",
+        "arrivalTime": "07:00",
+        "price": 355,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "TU3558",
+        "operator": "Seabird",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "22:15",
+        "arrivalTime": "08:45",
+        "price": 1962,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "TU6741",
+        "operator": "Orange Travels",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "18:00",
+        "arrivalTime": "01:00",
+        "price": 1587,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "TU1395",
+        "operator": "Seabird",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "16:00",
+        "arrivalTime": "03:00",
+        "price": 1309,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "TU8212",
+        "operator": "KSRTC",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "20:00",
+        "arrivalTime": "08:30",
+        "price": 1797,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "TU2926",
+        "operator": "Orange Travels",
+        "source": "Tumkur",
+        "destination": "Chitradurga",
+        "departureTime": "11:00",
+        "arrivalTime": "18:30",
+        "price": 1829,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "RA6016",
+        "operator": "Orange Travels",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "16:30",
+        "arrivalTime": "21:30",
+        "price": 1661,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "RA9641",
+        "operator": "VRL Travels",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "09:15",
+        "arrivalTime": "13:15",
+        "price": 323,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "RA9886",
+        "operator": "KSRTC",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "05:30",
+        "arrivalTime": "15:00",
+        "price": 1541,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "RA9912",
+        "operator": "Sugama",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "22:00",
+        "arrivalTime": "06:30",
+        "price": 1832,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "RA3086",
+        "operator": "Orange Travels",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "20:00",
+        "arrivalTime": "00:00",
+        "price": 529,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "RA6777",
+        "operator": "Seabird",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "17:45",
+        "arrivalTime": "01:15",
+        "price": 416,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "RA9538",
+        "operator": "Sugama",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "04:15",
+        "arrivalTime": "15:15",
+        "price": 1063,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "RA6826",
+        "operator": "Orange Travels",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "09:30",
+        "arrivalTime": "17:00",
+        "price": 327,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "RA6562",
+        "operator": "VRL Travels",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "22:30",
+        "arrivalTime": "11:30",
+        "price": 1708,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "RA1535",
+        "operator": "VRL Travels",
+        "source": "Raichur",
+        "destination": "Bellary",
+        "departureTime": "21:45",
+        "arrivalTime": "08:45",
+        "price": 1290,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BI5141",
+        "operator": "Orange Travels",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "20:00",
+        "arrivalTime": "23:00",
+        "price": 1300,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BI2953",
+        "operator": "SRS Travels",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "11:15",
+        "arrivalTime": "18:15",
+        "price": 397,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BI7060",
+        "operator": "Orange Travels",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "06:15",
+        "arrivalTime": "20:45",
+        "price": 833,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BI9503",
+        "operator": "VRL Travels",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "18:00",
+        "arrivalTime": "05:30",
+        "price": 1298,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BI1245",
+        "operator": "Orange Travels",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "16:30",
+        "arrivalTime": "02:30",
+        "price": 1903,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BI9755",
+        "operator": "Sugama",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "06:15",
+        "arrivalTime": "14:15",
+        "price": 1257,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BI4660",
+        "operator": "VRL Travels",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "09:30",
+        "arrivalTime": "22:00",
+        "price": 1162,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BI6750",
+        "operator": "Sugama",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "19:00",
+        "arrivalTime": "09:00",
+        "price": 1096,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BI6780",
+        "operator": "Seabird",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "07:15",
+        "arrivalTime": "20:15",
+        "price": 1237,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BI8518",
+        "operator": "Seabird",
+        "source": "Bijapur",
+        "destination": "Gulbarga",
+        "departureTime": "17:15",
+        "arrivalTime": "04:45",
+        "price": 965,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA8317",
+        "operator": "Orange Travels",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "11:00",
+        "arrivalTime": "17:00",
+        "price": 1891,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA3475",
+        "operator": "Sugama",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "22:30",
+        "arrivalTime": "11:00",
+        "price": 1898,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA3667",
+        "operator": "SRS Travels",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "20:00",
+        "arrivalTime": "00:00",
+        "price": 1327,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA6819",
+        "operator": "KSRTC",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "23:30",
+        "arrivalTime": "12:30",
+        "price": 1707,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA1560",
+        "operator": "SRS Travels",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "21:30",
+        "arrivalTime": "10:00",
+        "price": 1763,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA3710",
+        "operator": "Orange Travels",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "09:15",
+        "arrivalTime": "23:15",
+        "price": 570,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA6506",
+        "operator": "SRS Travels",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "14:00",
+        "arrivalTime": "00:30",
+        "price": 344,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA6479",
+        "operator": "Sugama",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "07:00",
+        "arrivalTime": "20:00",
+        "price": 570,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA2058",
+        "operator": "Seabird",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "14:15",
+        "arrivalTime": "23:15",
+        "price": 1936,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA6224",
+        "operator": "KSRTC",
+        "source": "Bagalkot",
+        "destination": "Hospet",
+        "departureTime": "18:15",
+        "arrivalTime": "00:15",
+        "price": 1123,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "KA6081",
+        "operator": "Seabird",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "05:30",
+        "arrivalTime": "10:00",
+        "price": 1796,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KA4370",
+        "operator": "KSRTC",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "22:30",
+        "arrivalTime": "11:30",
+        "price": 468,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KA4646",
+        "operator": "Orange Travels",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "19:30",
+        "arrivalTime": "23:00",
+        "price": 1043,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KA9406",
+        "operator": "Seabird",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "16:00",
+        "arrivalTime": "03:00",
+        "price": 1930,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "KA6332",
+        "operator": "KSRTC",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "13:45",
+        "arrivalTime": "01:15",
+        "price": 1676,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "KA3368",
+        "operator": "VRL Travels",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "20:15",
+        "arrivalTime": "03:15",
+        "price": 495,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "KA6297",
+        "operator": "Orange Travels",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "11:00",
+        "arrivalTime": "15:30",
+        "price": 1976,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "KA7851",
+        "operator": "Orange Travels",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "12:30",
+        "arrivalTime": "20:00",
+        "price": 1535,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "KA1399",
+        "operator": "VRL Travels",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "19:00",
+        "arrivalTime": "03:00",
+        "price": 1264,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KA8417",
+        "operator": "Seabird",
+        "source": "Karwar",
+        "destination": "Dandeli",
+        "departureTime": "19:30",
+        "arrivalTime": "05:00",
+        "price": 1548,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA8066",
+        "operator": "SRS Travels",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "17:00",
+        "arrivalTime": "06:30",
+        "price": 1347,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA5547",
+        "operator": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "07:15",
+        "arrivalTime": "20:45",
+        "price": 687,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA8373",
+        "operator": "Seabird",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "23:00",
+        "arrivalTime": "09:30",
+        "price": 1784,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA5791",
+        "operator": "Sugama",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "07:00",
+        "arrivalTime": "15:00",
+        "price": 1819,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA8607",
+        "operator": "KSRTC",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "18:30",
+        "arrivalTime": "00:30",
+        "price": 373,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA9722",
+        "operator": "Seabird",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "10:30",
+        "arrivalTime": "17:00",
+        "price": 1382,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA6827",
+        "operator": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "20:45",
+        "arrivalTime": "10:15",
+        "price": 1500,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA6545",
+        "operator": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "19:00",
+        "arrivalTime": "01:00",
+        "price": 1417,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA3553",
+        "operator": "SRS Travels",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "11:15",
+        "arrivalTime": "22:15",
+        "price": 638,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA3597",
+        "operator": "KSRTC",
+        "source": "Bangalore",
+        "destination": "Chikmagalur",
+        "departureTime": "22:30",
+        "arrivalTime": "06:30",
+        "price": 934,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KO4242",
+        "operator": "SRS Travels",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "04:00",
+        "arrivalTime": "10:30",
+        "price": 905,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KO4627",
+        "operator": "SRS Travels",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "17:00",
+        "arrivalTime": "02:30",
+        "price": 1913,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "KO5401",
+        "operator": "KSRTC",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "12:30",
+        "arrivalTime": "23:00",
+        "price": 463,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "KO7550",
+        "operator": "Orange Travels",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "15:30",
+        "arrivalTime": "05:30",
+        "price": 479,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "KO4420",
+        "operator": "SRS Travels",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "10:00",
+        "arrivalTime": "22:00",
+        "price": 1540,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KO4790",
+        "operator": "Seabird",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "15:00",
+        "arrivalTime": "04:30",
+        "price": 1024,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "KO4336",
+        "operator": "KSRTC",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "19:00",
+        "arrivalTime": "03:30",
+        "price": 1709,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "KO9144",
+        "operator": "Seabird",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "07:45",
+        "arrivalTime": "12:45",
+        "price": 1530,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KO5009",
+        "operator": "VRL Travels",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "09:45",
+        "arrivalTime": "20:15",
+        "price": 1514,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "KO6425",
+        "operator": "SRS Travels",
+        "source": "Kolar",
+        "destination": "Mandya",
+        "departureTime": "17:45",
+        "arrivalTime": "05:45",
+        "price": 1897,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "HA9361",
+        "operator": "Orange Travels",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "18:45",
+        "arrivalTime": "06:15",
+        "price": 1109,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "HA3110",
+        "operator": "Orange Travels",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "11:00",
+        "arrivalTime": "00:00",
+        "price": 668,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "HA6187",
+        "operator": "Sugama",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "12:00",
+        "arrivalTime": "01:30",
+        "price": 1645,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "HA6556",
+        "operator": "VRL Travels",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "07:30",
+        "arrivalTime": "22:00",
+        "price": 769,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "HA6361",
+        "operator": "SRS Travels",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "06:00",
+        "arrivalTime": "11:30",
+        "price": 1077,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "HA8300",
+        "operator": "SRS Travels",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "13:15",
+        "arrivalTime": "19:45",
+        "price": 414,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "HA3067",
+        "operator": "Sugama",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "11:00",
+        "arrivalTime": "22:30",
+        "price": 1901,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "HA6578",
+        "operator": "Orange Travels",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "04:00",
+        "arrivalTime": "16:00",
+        "price": 1415,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "HA6253",
+        "operator": "Seabird",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "21:45",
+        "arrivalTime": "05:45",
+        "price": 530,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "HA9944",
+        "operator": "SRS Travels",
+        "source": "Haveri",
+        "destination": "Dharwad",
+        "departureTime": "11:30",
+        "arrivalTime": "15:30",
+        "price": 1771,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA4503",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "08:30",
+        "arrivalTime": "23:00",
+        "price": 664,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA7646",
+        "operator": "SRS Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "04:00",
+        "arrivalTime": "13:30",
+        "price": 636,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA9800",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "05:30",
+        "arrivalTime": "13:00",
+        "price": 1269,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA7793",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "14:30",
+        "arrivalTime": "01:30",
+        "price": 1739,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA9634",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "09:00",
+        "arrivalTime": "13:30",
+        "price": 940,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA2308",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "21:45",
+        "arrivalTime": "01:45",
+        "price": 658,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA9023",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "17:45",
+        "arrivalTime": "08:15",
+        "price": 1821,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA1392",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "15:00",
+        "arrivalTime": "02:00",
+        "price": 1507,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA6622",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "12:30",
+        "arrivalTime": "23:00",
+        "price": 833,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA9807",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Shimoga",
+        "departureTime": "16:00",
+        "arrivalTime": "20:30",
+        "price": 1061,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "UD8789",
+        "operator": "Sugama",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "16:30",
+        "arrivalTime": "02:00",
+        "price": 1582,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "UD8743",
+        "operator": "SRS Travels",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "06:45",
+        "arrivalTime": "18:45",
+        "price": 379,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "UD1217",
+        "operator": "Sugama",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "20:45",
+        "arrivalTime": "05:15",
+        "price": 1836,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "UD1806",
+        "operator": "Sugama",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "19:30",
+        "arrivalTime": "04:30",
+        "price": 1187,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "UD5607",
+        "operator": "SRS Travels",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "08:30",
+        "arrivalTime": "19:30",
+        "price": 1874,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "UD3468",
+        "operator": "VRL Travels",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "12:45",
+        "arrivalTime": "18:15",
+        "price": 1780,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "UD5775",
+        "operator": "Sugama",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "21:00",
+        "arrivalTime": "01:30",
+        "price": 638,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "UD6967",
+        "operator": "SRS Travels",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "19:45",
+        "arrivalTime": "08:15",
+        "price": 1508,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "UD8841",
+        "operator": "SRS Travels",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "09:15",
+        "arrivalTime": "21:15",
+        "price": 1360,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "UD1285",
+        "operator": "Sugama",
+        "source": "Udupi",
+        "destination": "Karwar",
+        "departureTime": "10:00",
+        "arrivalTime": "20:30",
+        "price": 1628,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MY9199",
+        "operator": "Sugama",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "23:45",
+        "arrivalTime": "12:45",
+        "price": 756,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MY9855",
+        "operator": "KSRTC",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "14:00",
+        "arrivalTime": "04:30",
+        "price": 1411,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MY4234",
+        "operator": "VRL Travels",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "16:45",
+        "arrivalTime": "21:45",
+        "price": 1659,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MY5220",
+        "operator": "VRL Travels",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "12:30",
+        "arrivalTime": "00:00",
+        "price": 1041,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MY2455",
+        "operator": "VRL Travels",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "14:45",
+        "arrivalTime": "00:45",
+        "price": 396,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MY9663",
+        "operator": "KSRTC",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "15:30",
+        "arrivalTime": "19:00",
+        "price": 1052,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MY6441",
+        "operator": "Seabird",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "12:30",
+        "arrivalTime": "19:30",
+        "price": 1503,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MY4335",
+        "operator": "Sugama",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "05:15",
+        "arrivalTime": "15:15",
+        "price": 569,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MY1003",
+        "operator": "Orange Travels",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "23:00",
+        "arrivalTime": "13:00",
+        "price": 813,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MY8499",
+        "operator": "Orange Travels",
+        "source": "Mysore",
+        "destination": "Mandya",
+        "departureTime": "14:30",
+        "arrivalTime": "01:30",
+        "price": 744,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA4767",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "14:15",
+        "arrivalTime": "02:45",
+        "price": 1386,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA4910",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "19:00",
+        "arrivalTime": "01:30",
+        "price": 586,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA1216",
+        "operator": "Orange Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "06:00",
+        "arrivalTime": "12:00",
+        "price": 562,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA1652",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "22:45",
+        "arrivalTime": "03:15",
+        "price": 1026,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA8696",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "22:15",
+        "arrivalTime": "11:15",
+        "price": 1501,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA1796",
+        "operator": "Orange Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "20:00",
+        "arrivalTime": "08:30",
+        "price": 420,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA1355",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "20:15",
+        "arrivalTime": "02:45",
+        "price": 683,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA9361",
+        "operator": "SRS Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "23:15",
+        "arrivalTime": "06:45",
+        "price": 683,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA9880",
+        "operator": "Orange Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "16:00",
+        "arrivalTime": "03:30",
+        "price": 1104,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA6004",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Tumkur",
+        "departureTime": "08:15",
+        "arrivalTime": "16:15",
+        "price": 1326,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MA1196",
+        "operator": "SRS Travels",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "20:00",
+        "arrivalTime": "09:00",
+        "price": 1302,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA6993",
+        "operator": "KSRTC",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "22:00",
+        "arrivalTime": "01:30",
+        "price": 408,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MA9171",
+        "operator": "Seabird",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "22:45",
+        "arrivalTime": "13:15",
+        "price": 1473,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MA4540",
+        "operator": "Sugama",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "14:30",
+        "arrivalTime": "22:00",
+        "price": 1846,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MA6988",
+        "operator": "Orange Travels",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "11:00",
+        "arrivalTime": "16:30",
+        "price": 320,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MA5649",
+        "operator": "SRS Travels",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "23:00",
+        "arrivalTime": "12:00",
+        "price": 404,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MA4001",
+        "operator": "SRS Travels",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "12:00",
+        "arrivalTime": "17:30",
+        "price": 1875,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA3036",
+        "operator": "VRL Travels",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "22:00",
+        "arrivalTime": "09:30",
+        "price": 380,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MA2355",
+        "operator": "Sugama",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "09:15",
+        "arrivalTime": "22:45",
+        "price": 426,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA2279",
+        "operator": "VRL Travels",
+        "source": "Mangalore",
+        "destination": "Puttur",
+        "departureTime": "23:00",
+        "arrivalTime": "03:30",
+        "price": 893,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA9066",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "12:15",
+        "arrivalTime": "01:15",
+        "price": 1218,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA2616",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "22:15",
+        "arrivalTime": "04:45",
+        "price": 302,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA2810",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "16:15",
+        "arrivalTime": "04:45",
+        "price": 1989,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA2369",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "07:00",
+        "arrivalTime": "17:00",
+        "price": 981,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA5179",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "14:45",
+        "arrivalTime": "23:45",
+        "price": 895,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA9459",
+        "operator": "SRS Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "10:15",
+        "arrivalTime": "16:15",
+        "price": 541,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA1971",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "11:45",
+        "arrivalTime": "16:45",
+        "price": 1635,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA8885",
+        "operator": "SRS Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "11:00",
+        "arrivalTime": "20:30",
+        "price": 1395,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA3099",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "19:15",
+        "arrivalTime": "06:15",
+        "price": 1858,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "2259BNGHMP",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Hampi",
+        "departureTime": "23:00",
+        "arrivalTime": "06:29",
+        "price": 850,
+        "type": "Non-AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "VR2022",
+        "operator": "Green Line Travels",
+        "source": "Bengaluru",
+        "destination": "Coorg (Madikeri)",
+        "departureTime": "22:00",
+        "arrivalTime": "05:00",
+        "price": 500,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "0616BNGOTY",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Ooty",
+        "departureTime": "06:16",
+        "arrivalTime": "14:01",
+        "price": 550,
+        "type": "Karnataka Sarige",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "2232BNGOTY",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Ooty",
+        "departureTime": "22:32",
+        "arrivalTime": "06:00",
+        "price": 800,
+        "type": "Airavat Club Class",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "2200BNGPOC",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Pondicherry",
+        "departureTime": "22:00",
+        "arrivalTime": "05:00",
+        "price": 600,
+        "type": "Rajahamsa Executive",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "2215BNGKDK",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Kodaikanal",
+        "departureTime": "22:15",
+        "arrivalTime": "07:45",
+        "price": 1000,
+        "type": "Airavat",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-CHN-001",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Chennai",
+        "departureTime": "06:00",
+        "arrivalTime": "12:00",
+        "price": 500,
+        "type": "Airavat Club Class",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-CHN-002",
+        "operator": "SRS Travels",
+        "source": "Bengaluru",
+        "destination": "Chennai",
+        "departureTime": "22:00",
+        "arrivalTime": "04:00",
+        "price": 600,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-HYD-003",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Hyderabad",
+        "departureTime": "20:00",
+        "arrivalTime": "06:00",
+        "price": 900,
+        "type": "Airavat Club Class",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-HYD-004",
+        "operator": "Orange Travels",
+        "source": "Bengaluru",
+        "destination": "Hyderabad",
+        "departureTime": "21:00",
+        "arrivalTime": "07:00",
+        "price": 850,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-PNJ-005",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Pondicherry",
+        "departureTime": "07:00",
+        "arrivalTime": "15:00",
+        "price": 600,
+        "type": "Rajahamsa Executive",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-PNJ-006",
+        "operator": "GreenLine Travels",
+        "source": "Bengaluru",
+        "destination": "Pondicherry",
+        "departureTime": "22:30",
+        "arrivalTime": "06:30",
+        "price": 700,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-GOA-007",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Goa (Panaji)",
+        "departureTime": "18:00",
+        "arrivalTime": "08:00",
+        "price": 1200,
+        "type": "Airavat Club Class",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-GOA-008",
+        "operator": "VRL Travels",
+        "source": "Bengaluru",
+        "destination": "Goa (Panaji)",
+        "departureTime": "20:00",
+        "arrivalTime": "10:00",
+        "price": 1100,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-KOD-009",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Kodaikanal",
+        "departureTime": "21:00",
+        "arrivalTime": "07:00",
+        "price": 1000,
+        "type": "Airavat",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-KOD-010",
+        "operator": "SRS Travels",
+        "source": "Bengaluru",
+        "destination": "Kodaikanal",
+        "departureTime": "22:00",
+        "arrivalTime": "08:00",
+        "price": 950,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-MUN-011",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Munnar",
+        "departureTime": "17:00",
+        "arrivalTime": "06:00",
+        "price": 1050,
+        "type": "Airavat Club Class",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-MUN-012",
+        "operator": "Kallada Travels",
+        "source": "Bengaluru",
+        "destination": "Munnar",
+        "departureTime": "18:00",
+        "arrivalTime": "07:00",
+        "price": 1000,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-TPT-013",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Tirupati",
+        "departureTime": "06:00",
+        "arrivalTime": "12:00",
+        "price": 400,
+        "type": "Airavat",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-TPT-014",
+        "operator": "SRS Travels",
+        "source": "Bengaluru",
+        "destination": "Tirupati",
+        "departureTime": "23:00",
+        "arrivalTime": "05:00",
+        "price": 450,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-MUM-015",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Mumbai",
+        "departureTime": "14:00",
+        "arrivalTime": "06:00",
+        "price": 1500,
+        "type": "Airavat Club Class",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-MUM-016",
+        "operator": "VRL Travels",
+        "source": "Bengaluru",
+        "destination": "Mumbai",
+        "departureTime": "16:00",
+        "arrivalTime": "08:00",
+        "price": 1400,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-TRV-017",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Thiruvananthapuram",
+        "departureTime": "17:00",
+        "arrivalTime": "07:00",
+        "price": 1300,
+        "type": "Airavat Club Class",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-TRV-018",
+        "operator": "Kallada Travels",
+        "source": "Bengaluru",
+        "destination": "Thiruvananthapuram",
+        "departureTime": "18:00",
+        "arrivalTime": "08:00",
+        "price": 1250,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "KSRTC-SHR-019",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Shirdi",
+        "departureTime": "15:00",
+        "arrivalTime": "09:00",
+        "price": 1600,
+        "type": "Airavat Club Class",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "PRV-SHR-020",
+        "operator": "VRL Travels",
+        "source": "Bengaluru",
+        "destination": "Shirdi",
+        "departureTime": "17:00",
+        "arrivalTime": "11:00",
+        "price": 1550,
+        "type": "AC Sleeper",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "2200BNGPOC",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Pondicherry",
+        "departureTime": "22:00",
+        "arrivalTime": "05:00",
+        "price": 600,
+        "type": "Rajahamsa Executive",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "2030BNGPNJ",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Goa (Panaji)",
+        "departureTime": "20:30",
+        "arrivalTime": "09:00",
+        "price": 1200,
+        "type": "Airavat Club Class",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "2312BNGTPT",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Tirupati",
+        "departureTime": "23:12",
+        "arrivalTime": "05:12",
+        "price": 326,
+        "type": "Airavat Bliss",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "2215BNGKDK",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Kodaikanal",
+        "departureTime": "22:15",
+        "arrivalTime": "07:45",
+        "price": 1000,
+        "type": "Airavat",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "MU1001",
+        "operator": "KSRTC",
+        "source": "Bengaluru",
+        "destination": "Munnar",
+        "departureTime": "16:00",
+        "arrivalTime": "06:55",
+        "price": 1057,
+        "type": "Swift Deluxe Air Bus",
+        "frequency": "Daily"
+      },
+      {
+        "busNumber": "BA3088",
+        "operator": "Orange Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Hyderabad",
+        "departureTime": "10:30",
+        "arrivalTime": "16:00",
+        "price": 1122,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA7301",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "12:15",
+        "arrivalTime": "19:15",
+        "price": 922,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA9782",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "18:30",
+        "arrivalTime": "03:00",
+        "price": 399,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA7798",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "11:15",
+        "arrivalTime": "22:45",
+        "price": 885,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA1743",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "11:15",
+        "arrivalTime": "21:45",
+        "price": 1608,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA8413",
+        "operator": "Orange Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "14:30",
+        "arrivalTime": "21:30",
+        "price": 459,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA3794",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "04:45",
+        "arrivalTime": "12:45",
+        "price": 603,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "BA3554",
+        "operator": "Sugama",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "12:45",
+        "arrivalTime": "03:15",
+        "price": 1214,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA6144",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "05:00",
+        "arrivalTime": "18:30",
+        "price": 1047,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA9885",
+        "operator": "Orange Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "22:30",
+        "arrivalTime": "11:30",
+        "price": 1333,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA1043",
+        "operator": "Orange Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Chennai",
+        "departureTime": "23:00",
+        "arrivalTime": "13:00",
+        "price": 716,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA2789",
+        "operator": "Orange Travels",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "13:15",
+        "arrivalTime": "17:45",
+        "price": 1410,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MA6396",
+        "operator": "KSRTC",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "23:00",
+        "arrivalTime": "12:30",
+        "price": 1911,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MA6027",
+        "operator": "Orange Travels",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "16:15",
+        "arrivalTime": "02:15",
+        "price": 1458,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "MA5181",
+        "operator": "Orange Travels",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "20:45",
+        "arrivalTime": "02:15",
+        "price": 1088,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "MA2133",
+        "operator": "SRS Travels",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "22:15",
+        "arrivalTime": "08:15",
+        "price": 1353,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "MA9561",
+        "operator": "Seabird",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "04:00",
+        "arrivalTime": "10:00",
+        "price": 1547,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MA4288",
+        "operator": "SRS Travels",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "06:15",
+        "arrivalTime": "18:15",
+        "price": 333,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MA8164",
+        "operator": "KSRTC",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "23:15",
+        "arrivalTime": "13:15",
+        "price": 1368,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "MA9041",
+        "operator": "Sugama",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "17:15",
+        "arrivalTime": "23:15",
+        "price": 430,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "MA7058",
+        "operator": "VRL Travels",
+        "source": "Mangalore",
+        "destination": "Kochi",
+        "departureTime": "09:00",
+        "arrivalTime": "22:30",
+        "price": 648,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "HU1732",
+        "operator": "VRL Travels",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "08:00",
+        "arrivalTime": "17:30",
+        "price": 833,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "HU5334",
+        "operator": "SRS Travels",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "18:15",
+        "arrivalTime": "22:45",
+        "price": 1326,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "HU2703",
+        "operator": "Sugama",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "23:00",
+        "arrivalTime": "09:00",
+        "price": 979,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "HU2699",
+        "operator": "VRL Travels",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "23:15",
+        "arrivalTime": "12:15",
+        "price": 652,
+        "type": "Non-AC Seater"
+      },
+      {
+        "busNumber": "HU2494",
+        "operator": "SRS Travels",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "21:15",
+        "arrivalTime": "08:45",
+        "price": 1752,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "HU6354",
+        "operator": "Sugama",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "11:15",
+        "arrivalTime": "15:15",
+        "price": 1601,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "HU6663",
+        "operator": "Sugama",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "23:00",
+        "arrivalTime": "07:00",
+        "price": 1259,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "HU8738",
+        "operator": "KSRTC",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "20:00",
+        "arrivalTime": "03:00",
+        "price": 1977,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "HU4067",
+        "operator": "Sugama",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "14:30",
+        "arrivalTime": "18:30",
+        "price": 1639,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "HU7065",
+        "operator": "KSRTC",
+        "source": "Hubli",
+        "destination": "Pune",
+        "departureTime": "21:00",
+        "arrivalTime": "10:30",
+        "price": 1915,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA9893",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "07:15",
+        "arrivalTime": "12:45",
+        "price": 757,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA3213",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "16:00",
+        "arrivalTime": "23:00",
+        "price": 655,
+        "type": "Volvo Multi-Axle"
+      },
+      {
+        "busNumber": "BA3852",
+        "operator": "SRS Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "07:45",
+        "arrivalTime": "21:15",
+        "price": 666,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA9046",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "11:45",
+        "arrivalTime": "01:15",
+        "price": 553,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA5773",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "18:30",
+        "arrivalTime": "07:30",
+        "price": 1129,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA9517",
+        "operator": "KSRTC",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "06:30",
+        "arrivalTime": "10:00",
+        "price": 1327,
+        "type": "Semi-Sleeper"
+      },
+      {
+        "busNumber": "BA7857",
+        "operator": "Orange Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "12:30",
+        "arrivalTime": "00:00",
+        "price": 1998,
+        "type": "AC Seater"
+      },
+      {
+        "busNumber": "BA7170",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "20:30",
+        "arrivalTime": "23:30",
+        "price": 1792,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA1806",
+        "operator": "VRL Travels",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "05:00",
+        "arrivalTime": "09:00",
+        "price": 956,
+        "type": "AC Sleeper"
+      },
+      {
+        "busNumber": "BA5092",
+        "operator": "Seabird",
+        "source": [
+          "Bangalore",
+          "Bengaluru"
+        ],
+        "destination": "Goa",
+        "departureTime": "04:15",
+        "arrivalTime": "17:45",
+        "price": 1301,
+        "type": "Volvo Multi-Axle"
+      }
+    ]

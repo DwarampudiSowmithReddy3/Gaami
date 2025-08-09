@@ -1,0 +1,541 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header Section */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background: white;
+}
+
+.logo {
+    width: 90px;
+    margin-right: 15px;
+}
+
+/* Centered Search Bar */
+.search-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    position: relative;
+}
+
+.search-bar {
+    max-width: 400px;
+    padding: 8px 30px 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+/* Suggestions Box */
+.suggestions-box {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 0 0 10px 10px;
+    max-height: 200px;
+    overflow-y: auto;
+    display: none;
+    z-index: 1000;
+}
+
+.suggestion-item {
+    padding: 10px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.suggestion-item:hover {
+    background: #f0f0f0;
+}
+
+/* Video Background */
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 80vh;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    transition: background 0.5s ease-in-out;
+}
+
+.video-container video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* Travel Box */
+.travel-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.travel-box .input-container,
+.travel-box input,
+.travel-box button {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+}
+
+.travel-box input[type="date"],
+.travel-box input[type="text"] {
+    padding: 9px 28px 9px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    background: #f5f7fa;
+    font-size: 0.97rem;
+}
+
+.travel-box .continue-btn {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 1rem;
+    background: #1a73e8;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 14px;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+.travel-box .continue-btn:hover {
+    background: #1557b0;
+}
+
+@media (max-width: 500px) {
+    .travel-box {
+        width: 98vw;
+        padding: 8px 2vw;
+    }
+}
+
+/* Brand Logo */
+.brand-logo {
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 10;
+    opacity: 0.9;
+}
+.input-label {
+    position: absolute;
+    left: 10px;
+    top: -20px;
+    font-size: 14px;
+    color: #555;
+    font-weight: bold;
+}
+.new-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.cancel-button {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.back-arrow {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.group-selection button {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    background: #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.group-selection button.active {
+    background: #007bff;
+    color: white;
+}
+
+#budget-slider {
+    width: 100%;
+}
+
+.continue-btn-2 {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+/* Section button row */
+.section-buttons {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  justify-content: center;
+}
+.section-btn {
+  background: #f5f7fa;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 22px;
+  font-size: 1rem;
+  color: #1a1a1a;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+.section-btn.active, .section-btn:hover {
+  background: #007bff;
+  color: #fff;
+}
+
+/* Card styles for transport and other sections */
+.section-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  justify-content: center;
+}
+.transport-card-box, .info-card-box {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  padding: 18px 32px 18px 32px;
+  min-width: 420px;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.transport-card-box h4 {
+  margin: 0 0 6px 0;
+  font-size: 1.15rem;
+  color: #007bff;
+}
+.transport-card-box p {
+  margin: 2px 0;
+  color: #333;
+  font-size: 0.98rem;
+}
+.select-btn {
+  margin-top: 10px;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 7px 18px;
+  font-size: 1rem;
+  cursor: pointer;
+  align-self: flex-end;
+  transition: background 0.2s;
+}
+.select-btn:hover {
+  background: #0056b3;
+}
+
+.travel-details {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 32px 40px 40px 40px;
+    background: rgba(255,255,255,0.85);
+    border-radius: 20px;
+    box-shadow: 0 0 32px rgba(0,0,0,0.10);
+    position: relative;
+    z-index: 2;
+}
+
+.bus-card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  padding: 18px 36px;
+  min-width: 600px;
+  max-width: 900px;
+  margin: 18px auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+.card-row {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.card-detail {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 1.05rem;
+  color: #222;
+}
+.price {
+  color: #e67e22;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-left: 18px;
+}
+.rating-pill {
+  background: #3cb371;
+  color: #fff;
+  border-radius: 12px;
+  padding: 3px 12px;
+  font-size: 1rem;
+  margin-left: 18px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.select-btn {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 22px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-left: 18px;
+}
+.select-btn:hover {
+  background: #0056b3;
+}
+
+.scale-card {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  padding: 12px 32px;
+  min-width: 900px;
+  max-width: 1200px;
+  margin: 18px auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  height: 56px;
+}
+.scale-card .card-col {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.08rem;
+  color: #222;
+  min-width: 120px;
+  position: relative;
+}
+.scale-card .card-col:not(:last-child)::after {
+  content: '||';
+  color: #bbb;
+  margin: 0 16px;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.scale-card .price {
+  color: #e67e22;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.scale-card .rating-pill {
+  background: #3cb371;
+  color: #fff;
+  border-radius: 12px;
+  padding: 3px 12px;
+  font-size: 1rem;
+  margin-left: 12px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.scale-card .select-btn {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 22px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-left: 0;
+  align-self: center;
+}
+.scale-card .select-btn:hover {
+  background: #0056b3;
+}
+
+.scale-card .rating-select-group {
+  display: flex;
+  align-items: center;
+  background: #3cb371;
+  border-radius: 16px;
+  padding: 4px 10px 4px 12px;
+  gap: 10px;
+}
+.scale-card .rating-select-group .rating-pill {
+  background: transparent;
+  color: #fff;
+  font-size: 1rem;
+  padding: 0;
+  margin: 0;
+}
+.scale-card .rating-select-group .select-btn {
+  background: #0096ff;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 6px 18px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin: 0;
+}
+.scale-card .rating-select-group .select-btn:hover {
+  background: #0056b3;
+}
+
+.trip-btn, .user-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.trip-btn {
+    background-color: #1a73e8;
+    color: white;
+    margin-right: 10px;
+}
+
+.trip-btn:hover {
+    background-color: #1557b0;
+}
+
+.user-btn {
+    background-color: #f8f9fa;
+    color: #1a73e8;
+    font-size: 1.2em;
+}
+
+.user-btn:hover {
+    background-color: #e8f0fe;
+}
+
+.continue-btn, .continue-btn-2 {
+    background-color: #1a73e8;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.continue-btn:hover, .continue-btn-2:hover {
+    background-color: #1557b0;
+}
+
+.group-selection button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: 2px solid #1a73e8;
+    border-radius: 5px;
+    background-color: white;
+    color: #1a73e8;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.group-selection button:hover {
+    background-color: #e8f0fe;
+}
+
+.group-selection button.active {
+    background-color: #1a73e8;
+    color: white;
+}
+
+.input-container {
+    position: relative;
+    width: 100%;
+    margin: 10px 0;
+}
+
+.input-box {
+    width: 100%;
+    padding: 9px 32px 9px 10px; /* right padding for icon */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background: #f5f7fa;
+    font-size: 0.97rem;
+}
+
+.input-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    pointer-events: none;
+    color: #888;
+}
+

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaami Travel</title>
+    <link rel="stylesheet" href="gaami.css">
+    <script defer src="gaami.js"></script>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <img src="logogaami.webp" alt="Gaami Logo" class="logo">
+        <div class="search-container">
+            <input type="text" id="search-bar" placeholder="Where do you want to go?" class="search-bar" onfocus="showPopularDestinations()">
+            <div id="suggestions-box" class="suggestions-box"></div>
+        </div>
+        <button class="trip-btn">Create a Trip</button>
+        <button class="user-btn">👤</button>
+    </header>
+    
+    <!-- Background Video Section -->
+    <div class="video-container">
+        <video id="background-video" autoplay muted loop>
+            <source src="shell.mp4" type="video/mp4">
+        </video>
+        <img src="dsr.png" alt="Brand Logo" class="brand-logo">
+    </div>
+
+    <!-- Travel Plan Box -->
+    <div class="travel-box">
+        <h2>Get Your Free Travel Plan Now!</h2>
+        <p>What do you want to explore?</p>
+
+        <div class="input-container">
+            <input type="text" id="departing-input" placeholder="Departing from" class="input-box">
+            <span class="input-icon">🧭</span>
+        </div>
+
+        <div class="input-container">
+            <input type="text" id="destination-input" placeholder="Search destination" class="input-box" readonly>
+            <span class="input-icon">📍</span>
+        </div>
+
+        <p>When are you planning to travel?</p>
+
+        <div class="input-container">
+            <input type="date" id="from-date" class="input-box" placeholder=" "/>
+            <span class="input-suffix">From</span>
+        </div>
+        
+        <div class="input-container">
+            <input type="date" id="till-date" class="input-box" placeholder=" "/>
+            <span class="input-suffix">Till</span>
+        </div>
+        
+
+
+        <button class="continue-btn">Continue</button>
+    </div>
+</body>
+</html>
