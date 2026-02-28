@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login / Sign Up</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+
+<body>
+
+    <!-- Background Video -->
+    <video autoplay muted loop id="bg-video">
+        <source src="../assets/4.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <!-- Brand Logo in the Top Right Corner -->
+    <img src="../assets/DSR.png" alt="Brand Logo" id="brand-logo">
+
+    <div id="loader"></div>
+    <div class="container">
+        <!-- Your Logo Above the Login Form -->
+        <img src="../assets/logogaami.webp" alt="Gaami Logo" id="gaami-logo">
+
+        <h2 id="form-title">Login</h2>
+        <form id="auth-form">
+            <input type="email" id="username" placeholder="Email" required> <!-- Changed to email input -->
+            <div class="password-container">
+                <input type="password" id="password" placeholder="Password" required>
+                <span class="toggle-password" id="eye-icon">👁️</span>
+            </div>
+            <a href="#" id="forgot-password">Forgot Password?</a>
+            <button type="submit">Submit</button>
+        </form>
+        <p id="toggle-form">Don't have an account? <a href="#">Sign Up</a></p>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/11.4.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/11.4.0/firebase-auth-compat.js"></script>
+    <!-- Your script -->
+    <script src="../js/script.js"></script>
+</body>
+
+</html>

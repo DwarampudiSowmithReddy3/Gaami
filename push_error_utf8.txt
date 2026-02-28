@@ -1,0 +1,38 @@
+﻿git : remote: error: Trace: 9bf7913
+1811bc113d2ba727df426207a9761e0b4f5
+1d53c6ba566f4ebe29bec6        
+At line:1 char:1
++ git push origin main -f 2> 
+push_error.txt
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo          : NotS 
+   pecified: (remote: error: ...e  
+  29bec6        :String) [], Rem   
+ oteException
+    + FullyQualifiedErrorId : Nati 
+   veCommandError
+ 
+remote: error: See 
+https://gh.io/lfs for more 
+information.        
+remote: error: File 
+frontend/assets/4.mp4 is 102.37 
+MB; this exceeds GitHub's file 
+size limit of 100.00 MB        
+remote: error: File 
+frontend/assets/shell.mp4 is 
+135.70 MB; this exceeds GitHub's 
+file size limit of 100.00 MB       
+ 
+remote: error: GH001: Large files 
+detected. You may want to try Git 
+Large File Storage - 
+https://git-lfs.github.com.        
+To https://github.com/DwarampudiSow
+mithReddy3/Gaami.git
+ ! [remote rejected] main -> main 
+(pre-receive hook declined)
+error: failed to push some refs to 
+'https://github.com/DwarampudiSowmi
+thReddy3/Gaami.git'
